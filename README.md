@@ -77,19 +77,50 @@
 
 ### Capturas de Tela, DUMP de Tela e Chat Capture. 
 
+### Integração automática com o IPED
+
+### Conversão de .AB para .TAR
+
+### Varredura Rápida e Transferência em tempo real
+- Imagens: .jpg, .jpeg, .png, .psd, .nef, .tiff, .bmp, .tec, .tif, .webp
+- Videos: .aaf, .3gp, .asf, .avi, .m1v, .m2v, .m4v, .mp4, .mov, .mpeg, .mpg, .mpe, .mp4, .rm, .wmv, .mpv, .flv, .swf
+- Audios: .opus, .aiff, .aif, .flac, .wav, .m4a, .ape, .wma, .mp2, .mp1, .mp3, .aac, .mp4, .m4p, .m1a, .m2a, .m4r, .mpa, .m3u, .mid, .midi, .ogg
+- Arquivos: .zip, .rar, .7zip, .7z, .arj, .tar, .gzip, .bzip, .bzip2, .cab, .jar, .cpio, .ar, .gz, .tgz, .bz2
+- Databases: .db, .db3, .sqlite, .sqlite3, .backup (SIGNAL)
+- Documentos: .htm, .html, .doc, .docx, .odt, .xls, .xlsx, .ppt, .pptx, .pdf, .txt, .rtf
+- Executaveis: .exe, .msi, .cmd, .com, .bat, .reg, .scr, .dll, .ini, .apk
+
 ### Localizador de Imagens (Hashs, Metadados, Geolocalização, Plotagem da localização no Google Maps e Google Earch)
 
 ![2022-03-31 (2)](https://user-images.githubusercontent.com/102838167/161401187-e5c5f707-1601-4e17-8007-49931a6c1784.png)
 
 ![2022-03-31 (3)](https://user-images.githubusercontent.com/102838167/161401191-49f18d65-61a3-49a9-a7b4-ba580fddc319.png)
 
+### Instalação e Desinstalação de APKs via ADB
+
 ### Calculadora HASH
+- Calcula as Hashs de todos os arquivos de uma aquisição.
+- SHA-256.
+- SHA-1.
+- SHA-384.
+- SHA-512.
+- SHA-MD5.
 
+![2022-03-28 (9)](https://user-images.githubusercontent.com/102838167/161402185-07ef2510-735f-4940-b56a-a7624e42f711.png)
 
-## Pré-requisitos
+### Raspagem de dados Instagram
+
+### Acesso Através da Ferramenta ao JADX (Dex to Java Decompiler)
+
+### Acesso Através da Ferramenta ao WhatsApp Viewer
+
+### Acesso Através da Ferramenta ao BCV (Byte Code Viewer)
+
+## Pré-requisitos da Ferramenta
 - Conhecimentos TÉCNICOS de Forense em Dispositívos Móveis.
 - Dispositivo com modo DEPURAÇÂO ativado.
-- Windows 10/11 com duas devidas atualizações.
+- Windows 10/11 com suas devidas atualizações.
+- Pré-requisitos das Ferramentas de terceiros inclusa: JAVA e PHYTON.
 
 ## Treinamentos
 ![Banner sympla Extração Lógica Avançada com Avilla Forensics](https://user-images.githubusercontent.com/102838167/161400433-dd4cce07-161f-44b7-b506-378841ac64b4.png)
