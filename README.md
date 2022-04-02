@@ -26,14 +26,14 @@
 ![files-whats](https://user-images.githubusercontent.com/102838167/161398972-b337c216-d5c2-4aee-9709-d67c20c8c4e8.PNG)
 
 ### Decryptação Databases WhatsApp
-- Crypt12
-- Crypt14
+- Crypt12.
+- Crypt14.
 
 ### Decryptação Databases WhatsApp
 
 ## Pré-requisitos
-- Conhecimentos **TÉCNICOS** de Forense em Dispositívos Móveis.
-- Dispositivo com modo **DEPURAÇÂO** ativado.
+- Conhecimentos TÉCNICOS de Forense em Dispositívos Móveis.
+- Dispositivo com modo DEPURAÇÂO ativado.
 - Windows 10/11 com duas devidas atualizações.
 
 ## Treinamentos
@@ -47,28 +47,29 @@
 - Webinar: https://www.youtube.com/watch?v=zQigjIIkBjQ
 
 ## Instalação
-- Ferramenta autoexecutável, não requer instalação
-- Execute como administrador o arquivo **"Avilla_Forensics.exe"
-- Execute a ferramenta a partir do **"C:\"
-- Exemplo: **"C:\Forensics"
+- Ferramenta autoexecutável, não requer instalação.
+- Execute como administrador o arquivo "Avilla_Forensics.exe".
+- Execute a ferramenta a partir do "C:\".
+- Exemplo: C:\Forensics".
+- Não coloque espaços no nome da pasta da ferramenta.
 
 
 ## Download
 - https://www.avillaforensics.com.br/forensics.zip
 
 ## Tecnologias utilizadas
-- C#
-- Python
-- Java
+- C#.
+- Python.
+- Java.
 
 ## Licença
-- Software Livre
+- Software Livre.
 
 ## Contatos
-- https://www.linkedin.com/in/daniel-a-avilla-0987/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## Ferramentas de terceiros inclusas no pacote
--**IPED
+-IPED.
 - https://github.com/sepinf-inc/IPED
 
