@@ -177,3 +177,11 @@
 -IPED.
 - https://github.com/sepinf-inc/IPED
 
+## Agradecimentos
+
+![LogoGrande](https://user-images.githubusercontent.com/102838167/161445170-0bae49c8-0ee8-40b7-a143-1798e5707272.png)
+
+![AFD_NOVO](https://user-images.githubusercontent.com/102838167/161444956-80811931-6bf7-4f92-b0d1-95f6422509ea.png)
+
+![APECOFPNG](https://user-images.githubusercontent.com/102838167/161445139-98422abb-81f3-4890-8416-6f2b1e14a545.png)
+
