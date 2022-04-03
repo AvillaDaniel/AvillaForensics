@@ -159,21 +159,23 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## Instalação Ferramentas de Terceiros
 ### Requer JAVA (https://www.java.com/pt-BR/):
-- Bycode Viewer: "C:\Forensics\bin\bycodeviewer".
-- Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0".
+- IPED-3.18.12 "C:\Forensics\IPED-3.18.12_and_plugins" (Apenas instalar o JAVA).
+- Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Apenas instalar o JAVA).
+- Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Apenas instalar o JAVA).
+- Backup Extractor: "C:\Forensics\backup_extractor" (Apenas instalar o JAVA).
 - ___________________________________________________________
 ### Requer PHYTON (https://www.python.org/):
 - Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\instalar.bat" ou:
 
-```python pip install instaloader ```
+```python pip install instaloader```
 
 - MVT-1.5.3: Para instalar execute o arquivo "C:\Forensics\bin\mvt-1.5.3\install.bat" ou:
 
-```python pip install mvt ```
+```python pip install mvt```
 
 - Whacipher: Para instalar execute o arquivo "C:\Forensics\bin\pipPython.bat" ou:
 
-* pip install --upgrade -r requirements.txt
+```python pip install --upgrade -r requirements.txt```  
 
 ## Download
 - https://www.avillaforensics.com.br/forensics.zip
@@ -197,10 +199,13 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## Ferramentas de terceiros inclusas no pacote
-- IPED: https://github.com/sepinf-inc/IPED (Requer Java).
-- Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requer Java).
+- IPED-3.18.12: https://github.com/sepinf-inc/IPED (Requer Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requer Java).
+- Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
+- Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requer Java).
+
 - Instaloader: https://github.com/instaloader/instaloader (Requer Python).
+- MVT-1.5.3: https://github.com/mvt-project/mvt (Requer Python).
 - Whatsapp Encryption and Decryption: https://github.com/B16f00t/whapa (Requer Python).
 
 ## Agradecimentos
