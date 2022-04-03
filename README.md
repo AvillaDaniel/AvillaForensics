@@ -134,9 +134,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Dispositivo com modo DEPURAÇÂO ativado.
 - Windows 10/11 com suas devidas atualizações.
 
-## Pré-requisitos das Ferramentas de terceiros: 
--JAVA (https://www.java.com/pt-BR/).
--PHYTON (https://www.python.org/).
+## Pré-requisitos Ferramentas de Terceiros: 
+- JAVA (https://www.java.com/pt-BR/).
+- PHYTON (https://www.python.org/).
 
 ## Treinamentos
 ![Banner sympla Extração Lógica Avançada com Avilla Forensics](https://user-images.githubusercontent.com/102838167/161400433-dd4cce07-161f-44b7-b506-378841ac64b4.png)
@@ -158,17 +158,21 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Não coloque espaços no nome da pasta da ferramenta.
 
 ## Instalação Ferramentas de Terceiros
-- ___________________________________________________________
 - Requer JAVA (https://www.java.com/pt-BR/):
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer".
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0".
 - ___________________________________________________________
 - Requer PHYTON (https://www.python.org/):
 - Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\instalar.bat" ou:
-pip install instaloader.
+
+pip install instaloader
+
 - MVT-1.5.3: Para instalar execute o arquivo "C:\Forensics\bin\mvt-1.5.3\install.bat" ou:
+
 pip install mvt
+
 - Whacipher: Para instalar execute o arquivo "C:\Forensics\bin\pipPython.bat" ou:
+
 pip install --upgrade -r requirements.txt
 
 ## Download
@@ -197,7 +201,7 @@ pip install --upgrade -r requirements.txt
 - Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requer Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requer Java).
 - Instaloader: https://github.com/instaloader/instaloader (Requer Python).
-- Whatsapp Encryption and Decryption: https://github.com/B16f00t (Requer Python).
+- Whatsapp Encryption and Decryption: https://github.com/B16f00t/whapa (Requer Python).
 
 ## Agradecimentos
 
