@@ -82,13 +82,22 @@
 - Reboot Bootloader Mode.
 - Reboot Fastboot Mode.
 
+![2022-04-03 (4)](https://user-images.githubusercontent.com/102838167/161448699-9b8b82ed-95cd-472d-96b2-bcf8cf059f56.png)
+
 ### Decryptação Databases WhatsApp
 - Crypt12.
 - Crypt14.
 
 ### Capturas de Tela, DUMP de Tela e Chat Capture. 
 
+![2022-04-03 (1)](https://user-images.githubusercontent.com/102838167/161448487-b4dea9e4-9293-4b65-8981-1de07caf7288.png)
+
+![2022-04-03 (2)](https://user-images.githubusercontent.com/102838167/161448491-d9622700-c41e-41b0-8442-a055def05913.png)
+
 ### Integração automática com o IPED
+- Indexação de pastas, .zip, .tar, .dd, .ufdr. 
+
+![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
 
 ### Conversão de .AB para .TAR
 
@@ -101,7 +110,11 @@
 - Documentos: .htm, .html, .doc, .docx, .odt, .xls, .xlsx, .ppt, .pptx, .pdf, .txt, .rtf
 - Executaveis: .exe, .msi, .cmd, .com, .bat, .reg, .scr, .dll, .ini, .apk
 
+![2022-04-03 (5)](https://user-images.githubusercontent.com/102838167/161448785-6c0b41a0-3fa3-448c-bcf9-5836e92632c1.png)
+
 ### Localizador de Imagens (Hashs, Metadados, Geolocalização, Plotagem da localização no Google Maps e Google Earch)
+
+- Obs: Para este módulo NÃO salve suas aquisições na Área de Trabalho, salve por exemplo no "C:\nome_da_pasta\coleta_01" para assim rodar a busca das imagens.
 
 ![2022-03-31 (2)](https://user-images.githubusercontent.com/102838167/161401187-e5c5f707-1601-4e17-8007-49931a6c1784.png)
 
@@ -112,6 +125,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### Instalação e Desinstalação de APKs via ADB
 
 ### Calculadora HASH
+- Obs: Para este módulo NÃO salve suas aquisições na Área de Trabalho, salve por exemplo no "C:\nome_da_pasta\coleta_02" para assim calcular as Hashs dos arquivos.
 - Calcula as Hashs de todos os arquivos de uma aquisição.
 - SHA-256.
 - SHA-1.
@@ -163,7 +177,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Apenas instalar o JAVA).
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Apenas instalar o JAVA).
 - Backup Extractor: "C:\Forensics\backup_extractor" (Apenas instalar o JAVA).
-- ___________________________________________________________
+
 ### Requer PHYTON (https://www.python.org/):
 - Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\instalar.bat" ou:
 
