@@ -158,22 +158,22 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Não coloque espaços no nome da pasta da ferramenta.
 
 ## Instalação Ferramentas de Terceiros
-- Requer JAVA (https://www.java.com/pt-BR/):
+### Requer JAVA (https://www.java.com/pt-BR/):
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer".
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0".
 - ___________________________________________________________
-- Requer PHYTON (https://www.python.org/):
+### Requer PHYTON (https://www.python.org/):
 - Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\instalar.bat" ou:
 
-pip install instaloader
+```python pip install instaloader ```
 
 - MVT-1.5.3: Para instalar execute o arquivo "C:\Forensics\bin\mvt-1.5.3\install.bat" ou:
 
-pip install mvt
+```python pip install mvt ```
 
 - Whacipher: Para instalar execute o arquivo "C:\Forensics\bin\pipPython.bat" ou:
 
-pip install --upgrade -r requirements.txt
+* pip install --upgrade -r requirements.txt
 
 ## Download
 - https://www.avillaforensics.com.br/forensics.zip
