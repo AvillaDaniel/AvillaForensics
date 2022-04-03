@@ -100,6 +100,10 @@
 ![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
 
 ### Conversão de .AB para .TAR
+- Backups ADB com senha podem demorar mais tempo para converter.
+- Caso esse módulo não funcione procure adicionar nas variáveis do sistema o patch "C:\Forensics"
+
+![variaveis](https://user-images.githubusercontent.com/102838167/161451033-a41c46a0-35cb-4c3b-9aa3-cafee9c92284.PNG)
 
 ### Varredura Rápida e Transferência em tempo real
 - Imagens: .jpg, .jpeg, .png, .psd, .nef, .tiff, .bmp, .tec, .tif, .webp
@@ -179,6 +183,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Apenas instalar o JAVA).
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Apenas instalar o JAVA).
 - Backup Extractor: "C:\Forensics\backup_extractor" (Apenas instalar o JAVA).
+- O módulo Backup Extrator (.AB para .TAR) pode exigir que vc adicione o patch "C:\Forensics" nas variáveis do sistema.
 
 ### Requer PHYTON (https://www.python.org/):
 - Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\instalar.bat" ou:
