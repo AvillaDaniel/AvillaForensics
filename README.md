@@ -3,7 +3,7 @@
 # Avilla Forensics 3.0
 
 # Descrição do Projeto
-- Ferramenta livre e gratuita de Forense em dispositivos móveis com sistema ANDROID.
+- Ferramenta livre e gratuita de Forense em dispositivos móveis.
 
 ## Funcionalidades
 
