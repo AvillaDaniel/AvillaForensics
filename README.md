@@ -107,7 +107,7 @@
 
 ![2022-04-03 (11)](https://user-images.githubusercontent.com/102838167/161464428-226fe8f1-bebe-4d34-96af-95c7e0cff533.png)
 
-### Instegração automática com o AFLogical OSE 1.5.2
+### Integração automática com o AFLogical OSE 1.5.2
 
 - Realiza a aquisição de forma automatica sem intervensão do usuário.
 - "C:\Forensics\bin\AFLogicalOSE152OSE.apk"
@@ -203,6 +203,10 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Link curso: https://pay2.provi.com.br/checkout/academia-de-forense-digital?courses=%5B33759%5D
 - Conteúdo do Curso: https://drive.google.com/file/d/1mARPeClW1o3EBNIcLh3i9YzBn_fGuSet/view
 - Webinar: [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
+- Manual e vídeo passo a passo elaborado pelo Policial Civil Emerson Borges - PC MG: 
+- https://youtu.be/KuSmct1Qa30
+[MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf](https://github.com/AvillaDaniel/AvillaForensics/files/8411988/MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf)
+
 
 ## Instalação Avilla Forensics 3.0
 - Ferramenta autoexecutável, não requer instalação.
