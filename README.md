@@ -3,7 +3,7 @@
 # Avilla Forensics 3.0
 
 # Descrição do Projeto
-- Ferramenta livre e gratuita de Forense em dispositivos móveis.
+- Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis.
 
 ![2022-04-03 (8)](https://user-images.githubusercontent.com/102838167/161462692-7ce36009-313b-4eeb-81e3-633efa85b1c5.png)
 
@@ -70,9 +70,9 @@
 - Versão do Android.
 - DB Info (Applications Database Info).
 - Histórico Liga/Desliga.
-- LogCat
+- LogCat.
 - Informações de Espaço em Uso.
-- Operadora
+- Operadora.
 - Bluetooth (Bluetooth Status).
 - Localização dos Arquivos de Imagem.
 - Localização dos Arquivos de Áudios.
@@ -122,6 +122,7 @@
 
 ### Conversão de .AB para .TAR
 - Backups ADB com senha podem demorar mais tempo para converter.
+- Procure não colocar senhas nos backups solicitados no "Backup ADB" ou no "Downgrade", assim você agiliza o processo de conversão.  
 - Caso esse módulo não funcione procure adicionar nas variáveis do sistema o patch "C:\Forensics"
 
 ![variaveis](https://user-images.githubusercontent.com/102838167/161451033-a41c46a0-35cb-4c3b-9aa3-cafee9c92284.PNG)
@@ -221,15 +222,15 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### Requer PHYTON (https://www.python.org/):
 - Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\instalar.bat" ou:
 
-```python pip install instaloader```
+```pip install instaloader```
 
 - MVT-1.5.3: Para instalar execute o arquivo "C:\Forensics\bin\mvt-1.5.3\install.bat" ou:
 
-```python pip install mvt```
+```pip install mvt```
 
 - Whacipher: Para instalar execute o arquivo "C:\Forensics\bin\pipPython.bat" ou:
 
-```python pip install --upgrade -r requirements.txt```  
+```pip install --upgrade -r requirements.txt```  
 
 ## Download
 ### v1_0_0_168
