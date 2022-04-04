@@ -105,6 +105,8 @@
 
 ![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
 
+![2022-04-03 (11)](https://user-images.githubusercontent.com/102838167/161464428-226fe8f1-bebe-4d34-96af-95c7e0cff533.png)
+
 ### Instegração automática com o AFLogical OSE 1.5.2
 
 - Realiza a aquisição de forma automatica sem intervensão do usuário.
@@ -116,7 +118,7 @@
 - Realiza a aquisição de forma automatica sem intervensão do usuário.
 - "C:\Forensics\bin\com.alias.connector.apk"
 
-![alias](https://user-images.githubusercontent.com/102838167/161463227-5f9b1431-fc26-42cb-bceb-faf0f3c85ef4.PNG)
+![alias](https://user-images.githubusercontent.com/102838167/161463618-61745835-59f8-4d37-9512-f714dbc6effc.PNG)
 
 ### Conversão de .AB para .TAR
 - Backups ADB com senha podem demorar mais tempo para converter.
@@ -167,6 +169,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### Raspagem de dados Instagram
 
 ![2022-04-03 (7)](https://user-images.githubusercontent.com/102838167/161449129-c23ca774-f268-49ac-b7cf-30b1a305d4e5.png)
+
+### Instegração automática com o MVT-1.5.3
+- "C:\Forensics\bin\mvt-1.5.3\mvt.bat"
 
 ### Acesso Através da Ferramenta ao JADX (Dex to Java Decompiler)
 - "C:\Forensics\bin\jadx-1.2.0\jadx-gui-1.2.0-no-jre-win.exe"
