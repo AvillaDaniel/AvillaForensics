@@ -5,6 +5,8 @@
 # Descrição do Projeto
 - Ferramenta livre e gratuita de Forense em dispositivos móveis.
 
+![2022-04-03 (8)](https://user-images.githubusercontent.com/102838167/161462692-7ce36009-313b-4eeb-81e3-633efa85b1c5.png)
+
 ## Funcionalidades
 
 ### Backup ADB
@@ -29,6 +31,10 @@
 - Mozilla Firefox (org.mozilla.firefox)
 - Dropbox (com.drobox.android) 
 - Alibaba (com.alibaba.intl.android.apps.poseidon)      
+
+-Exemplo:
+
+![Screenshot_20210621-140846](https://user-images.githubusercontent.com/102838167/161462868-f8963411-edeb-4e82-b679-419ec48799bc.png) ![Screenshot_20210621-140950](https://user-images.githubusercontent.com/102838167/161462845-d34673ee-04be-4fbf-af87-68148e4a2d15.png) 
 
 ![2022-04-02](https://user-images.githubusercontent.com/102838167/161398236-c20a9bd3-499d-49fc-b862-1694b369b334.png)
 
@@ -99,6 +105,19 @@
 
 ![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
 
+### Instegração automática com o AFLogical OSE 1.5.2
+
+- Realiza a aquisição de forma automatica sem intervensão do usuário.
+- "C:\Forensics\bin\AFLogicalOSE152OSE.apk"
+
+![af](https://user-images.githubusercontent.com/102838167/161461445-74dc290d-7ba7-4369-8248-a796f7299c19.PNG)
+
+### Integração automática com o Alias Connector
+- Realiza a aquisição de forma automatica sem intervensão do usuário.
+- "C:\Forensics\bin\com.alias.connector.apk"
+
+![alias](https://user-images.githubusercontent.com/102838167/161462422-caf55df1-943a-46fc-bb7d-725925effffb.PNG)
+
 ### Conversão de .AB para .TAR
 - Backups ADB com senha podem demorar mais tempo para converter.
 - Caso esse módulo não funcione procure adicionar nas variáveis do sistema o patch "C:\Forensics"
@@ -127,6 +146,7 @@
 https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090-b10c-5cd6f32ad023.mp4
 
 ### Instalação e Desinstalação de APKs via ADB
+- Arquivos .APK
 
 ### Calculadora HASH
 - Obs: Para este módulo NÃO salve suas aquisições na Área de Trabalho, salve por exemplo no "C:\nome_da_pasta\coleta_02" para assim calcular as Hashs dos arquivos.
@@ -139,15 +159,23 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-03-28 (9)](https://user-images.githubusercontent.com/102838167/161402185-07ef2510-735f-4940-b56a-a7624e42f711.png)
 
+### Espelhamento do Dispositivo
+- "C:\Forensics\bin\scrcpy"
+
+![espeçhamento](https://user-images.githubusercontent.com/102838167/161460553-fc435348-d832-49f1-9b49-1565ac5680e5.PNG)
+
 ### Raspagem de dados Instagram
 
 ![2022-04-03 (7)](https://user-images.githubusercontent.com/102838167/161449129-c23ca774-f268-49ac-b7cf-30b1a305d4e5.png)
 
 ### Acesso Através da Ferramenta ao JADX (Dex to Java Decompiler)
+- "C:\Forensics\bin\jadx-1.2.0\jadx-gui-1.2.0-no-jre-win.exe"
 
 ### Acesso Através da Ferramenta ao WhatsApp Viewer
+- "C:\Forensics\bin\WhatsAppViewer.exe"
 
 ### Acesso Através da Ferramenta ao BCV (Byte Code Viewer)
+- "C:\Forensics\bin\bycodeviewer\GUI-ByteCode.bat"
 
 ## Pré-requisitos da Ferramenta
 - Conhecimentos TÉCNICOS de Forense em Dispositívos Móveis.
@@ -167,8 +195,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Link curso: https://pay2.provi.com.br/checkout/academia-de-forense-digital?courses=%5B33759%5D
 - Conteúdo do Curso: https://drive.google.com/file/d/1mARPeClW1o3EBNIcLh3i9YzBn_fGuSet/view
 - Webinar: [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
-- https://www.linkedin.com/in/daniel-a-avilla-0987/
-
 
 ## Instalação Avilla Forensics 3.0
 - Ferramenta autoexecutável, não requer instalação.
@@ -229,6 +255,12 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Instaloader: https://github.com/instaloader/instaloader (Requer Python).
 - MVT-1.5.3: https://github.com/mvt-project/mvt (Requer Python).
 - Whatsapp Encryption and Decryption: https://github.com/B16f00t/whapa (Requer Python).
+
+- Screen Copy: https://github.com/Genymobile/scrcpy
+- AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics
+- Exiftool: https://github.com/exiftool/exiftool
+- Grep: https://git-scm.com/docs/git-grep
+- Alias Connector: http://www.newseg.seg.br/newseg/
 
 ## Agradecimentos
 
