@@ -32,9 +32,11 @@
 - Dropbox (com.drobox.android) 
 - Alibaba (com.alibaba.intl.android.apps.poseidon)      
 
--Exemplo:
+- Exemplos:
 
 ![2022-04-02](https://user-images.githubusercontent.com/102838167/161398236-c20a9bd3-499d-49fc-b862-1694b369b334.png)
+
+![Screenshot_20210621-140950](https://user-images.githubusercontent.com/102838167/161463461-c402a208-324f-42c5-a1c2-9f15852731be.png)
 
 ![whats](https://user-images.githubusercontent.com/102838167/161398968-0e8fe0a7-5573-4b8e-9e00-450ce7f9e677.PNG)
   
@@ -114,7 +116,7 @@
 - Realiza a aquisição de forma automatica sem intervensão do usuário.
 - "C:\Forensics\bin\com.alias.connector.apk"
 
-![alias](https://user-images.githubusercontent.com/102838167/161462422-caf55df1-943a-46fc-bb7d-725925effffb.PNG)
+![alias](https://user-images.githubusercontent.com/102838167/161463227-5f9b1431-fc26-42cb-bceb-faf0f3c85ef4.PNG)
 
 ### Conversão de .AB para .TAR
 - Backups ADB com senha podem demorar mais tempo para converter.
@@ -160,7 +162,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### Espelhamento do Dispositivo
 - "C:\Forensics\bin\scrcpy"
 
-![espeçhamento](https://user-images.githubusercontent.com/102838167/161460553-fc435348-d832-49f1-9b49-1565ac5680e5.PNG)
+![espeçhamento](https://user-images.githubusercontent.com/102838167/161463105-71285aa7-715c-450f-b259-c40c00b3a0a7.PNG)
 
 ### Raspagem de dados Instagram
 
