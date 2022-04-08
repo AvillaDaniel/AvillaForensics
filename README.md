@@ -90,6 +90,19 @@
 
 ![2022-04-03 (4)](https://user-images.githubusercontent.com/102838167/161448699-9b8b82ed-95cd-472d-96b2-bcf8cf059f56.png)
 
+- Exemplos:
+- Dump ADB: ADB.txt, neste exemplo podemos verificar o último computador conectado via ADB com o dispositivo:
+
+![ADBc](https://user-images.githubusercontent.com/102838167/162361557-dbcb5537-e14d-4621-9262-7be0223e18d9.PNG)
+
+- Dumpsys: dumpsys.txt, além de trazer milhares de informações do dispositivo, neste exemplo podemos verificar a data de desinstalação de um aplicativo:
+
+![delete](https://user-images.githubusercontent.com/102838167/162361573-cc033ac7-df7e-416b-af07-a29b4091f167.PNG)
+
+- Obs: As informações podem vir em formato de horas Unix Timestamp, utilize o link abaixo para converter:
+- 1649374898421 (Unix Timestamp) = Thu Apr 07 2022 23:41:38 GMT+0000 (GMT)
+- https://www.unixtimestamp.com/
+
 ### Decryptação Databases WhatsApp
 - Crypt12.
 - Crypt14.
