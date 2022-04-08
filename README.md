@@ -42,8 +42,8 @@
   
 ![files-whats](https://user-images.githubusercontent.com/102838167/161401049-7402a3bd-06a2-48d8-9629-d0d93a61982a.PNG)
 
-## Teste de APK DOWNGRADE
-- A ferramanta faz um teste em um aplicativo genérico (com.aplicacaoteste.apk) antes de iniciar o processo de DOWNGRADE no APP alvo.
+### Teste de APK DOWNGRADE
+- A ferramanta faz um teste em um aplicativo genérico (**com.aplicacaoteste.apk**) antes de iniciar o processo de DOWNGRADE no APP alvo.
 - Dicas: Telefones **XIAOMI** podem vir com proteções USB, remova essas proteções sem tirar o dispositivo do modo avião:
 1. Ative as opções do desenvolvedor.
 2. Configurações -> Configurações adicionais -> **Desativar otimizações MIUI**
