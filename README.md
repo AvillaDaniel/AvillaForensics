@@ -97,7 +97,7 @@
 
 - Dumpsys: dumpsys.txt, além de trazer milhares de informações do dispositivo, neste exemplo podemos verificar a data de desinstalação de um aplicativo:
 
-![delete](https://user-images.githubusercontent.com/102838167/162362399-122349b4-7115-4b72-8164-6873d1d27edb.PNG)
+![delete](https://user-images.githubusercontent.com/102838167/162439594-cdf58b1d-10d8-4964-a29b-bb0bf7e5b4a2.PNG)
 
 - Obs: As informações podem vir em formato de horas Unix Timestamp, utilize o link abaixo para converter:
 - 1649374898421 (Unix Timestamp) = Thu Apr 07 2022 23:41:38 GMT+0000 (GMT)
