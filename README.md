@@ -44,14 +44,14 @@
 
 ## Teste de APK DOWNGRADE
 - A ferramanta faz um teste em um aplicativo genérico (com.aplicacaoteste.apk) antes de iniciar o processo de DOWNGRADE no APP alvo.
-- Dicas: Telefones XIAOMI podem vir com proteções USB, remova essas proteções sem tirar o dispositivo do modo avião:
-- 1. Ative as opções do desenvolvedor.
-- 2. Configurações -> Configurações adicionais -> **Desativar otimizações MIUI
-- 3. Reinicializar telefone
-- 4. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Permitir depuração USB
-- 5. Segurança (aplicativo do sistema) -> Gerenciar aplicativos -> Permissões -> Ícone de engrenagem (no canto superior direito) -> **Instalar via USB (verdadeiro)
-- 6. Reinicializar telefone
-- 7. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Ativar instalação via USB    
+- Dicas: Telefones **XIAOMI** podem vir com proteções USB, remova essas proteções sem tirar o dispositivo do modo avião:
+1. Ative as opções do desenvolvedor.
+2. Configurações -> Configurações adicionais -> **Desativar otimizações MIUI**
+3. Reinicializar telefone
+4. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Permitir depuração USB**
+5. Segurança (aplicativo do sistema) -> Gerenciar aplicativos -> Permissões -> Ícone de engrenagem (no canto superior direito) -> **Instalar via USB (verdadeiro)**
+6. Reinicializar telefone
+7. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Ativar instalação via USB**    
 
 
 ### Coletas ADB diversas em formato .TXT
