@@ -30,8 +30,8 @@
 - Badoo (com.badoo.mobile)
 - Mozilla Firefox (org.mozilla.firefox)
 - Dropbox (com.drobox.android) 
-- Alibaba (com.alibaba.intl.android.apps.poseidon)      
-
+- Alibaba (com.alibaba.intl.android.apps.poseidon) 
+- 
 - Exemplos:
 
 ![2022-04-02](https://user-images.githubusercontent.com/102838167/161398236-c20a9bd3-499d-49fc-b862-1694b369b334.png)
@@ -41,6 +41,18 @@
 ![whats](https://user-images.githubusercontent.com/102838167/161398968-0e8fe0a7-5573-4b8e-9e00-450ce7f9e677.PNG)
   
 ![files-whats](https://user-images.githubusercontent.com/102838167/161401049-7402a3bd-06a2-48d8-9629-d0d93a61982a.PNG)
+
+## Teste de APK DOWNGRADE
+- A ferramanta faz um teste em um aplicativo genérico (com.aplicacaoteste.apk) antes de iniciar o processo de DOWNGRADE no APP alvo.
+- Dicas: Telefones XIAOMI podem vir com proteções USB, remova essas proteções sem tirar o dispositivo do modo avião:
+- 1. Ative as opções do desenvolvedor.
+- 2. Configurações -> Configurações adicionais -> **Desativar otimizações MIUI
+- 3. Reinicializar telefone
+- 4. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Permitir depuração USB
+- 5. Segurança (aplicativo do sistema) -> Gerenciar aplicativos -> Permissões -> Ícone de engrenagem (no canto superior direito) -> **Instalar via USB (verdadeiro)
+- 6. Reinicializar telefone
+- 7. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Ativar instalação via USB    
+
 
 ### Coletas ADB diversas em formato .TXT
 - Propriedades do Sistema (Completo).
