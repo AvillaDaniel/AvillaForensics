@@ -5,7 +5,7 @@
 # Descrição do Projeto
 - Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis.
 
-![2022-04-03 (8)](https://user-images.githubusercontent.com/102838167/161462692-7ce36009-313b-4eeb-81e3-633efa85b1c5.png)
+![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
 ## Funcionalidades
 
@@ -53,6 +53,27 @@
 6. Reinicializar telefone
 7. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Ativar instalação via USB**    
 
+### (NOVO) Parser Chats WhatsApp do NOVO ESQUEMA de banco de dados
+
+1. Selecione a pasta destino Chats (Copie a pasta "Media" neste mesmo local).
+2. Selecione a pasta: **\com.whatsapp\f\Avatars**
+3. Selecione o aqruivo .DB: **\com.whatsapp\db\msgstore.db**
+
+![2022-04-17 (5)](https://user-images.githubusercontent.com/102838167/163806359-d86b2de8-9aeb-4bdb-a1f6-198b7563317b.png)
+
+![2022-04-17 (8)](https://user-images.githubusercontent.com/102838167/163806376-9dd34207-d3d8-466a-82c0-e676f0fdf85f.png)
+
+![chats](https://user-images.githubusercontent.com/102838167/163806409-d6efa011-9d9a-4675-a01c-15f570a105fb.png)
+
+### (NOVO) Parser Chats WhatsApp do esquema de banco de dados anterior
+
+1. Selecione a pasta destino Chats (Copie a pasta "Media" neste mesmo local).
+2. Selecione a pasta: **\com.whatsapp\f\Avatars**
+3. Selecione o aqruivo .DB: **\com.whatsapp\db\msgstore.db**
+
+![2022-04-17](https://user-images.githubusercontent.com/102838167/163806680-08ae4135-d180-48f5-8c3e-99fc83a86a34.png)
+
+![2022-04-17 (4)](https://user-images.githubusercontent.com/102838167/163806716-e2f002d0-45ec-42e8-be20-fdd8ace00129.png)
 
 ### Coletas ADB diversas em formato .TXT
 - Propriedades do Sistema (Completo).
@@ -269,6 +290,14 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - SHA256: C8E7DA6C889DBBE1B4A2AD756B548020AA4ECC21B6A318ABA6BBD2AF955C1007
 - SHA384: 87355ED5E6D2F7891623908F9ACB8766C8F270D3648C824A003F05162FA341A17E4644AF1796DF31B3C6CF5DF5A4B93C
 - SHA512: 8DD4B705CDEFCBB7BD44819EC7435BFC03C5A84B2D8D4C2C5B8A9D088C21E4A5368BA65D0C571783F7DB7F6D7DA307C5D6C101886D85D43A974E15F866F7E955
+
+### v1_0_0_173 - 18/04/2022 (984 MB) 
+(Em Breve)
+- MD5: D57D610728DC5F42906B5E34DBFF2326
+- SHA1: 9637E842EDF10ECB4D1F751B9BEC0660F6E96A5C
+- SHA256: 5645E717749D788034547A497CFFBABCD72234F9F66C142B00DE32ED639A0133
+- SHA384: 61C28E6C0ACB50E760EAFE466D14712A55E5430BF1AB0558EFBFB4ADA9D07EE404C76E5C37D931DD075CEF90C3CF8F48
+- SHA512: 07A6315904956878B78343981BA14A49EE8CA319B75A529C7E3CCF424CDDB3647B509E2225E7AB8A9245FDBCADF1C656CFF3E99063C
 
 ## Tecnologias utilizadas
 - C#.
