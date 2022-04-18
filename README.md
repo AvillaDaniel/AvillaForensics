@@ -4,7 +4,36 @@
 
 # Descrição do Projeto
 
-- Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis que permite realizar: Backup ADB, APK  Downgrade em 15 Aplicativos, Parser Chats WhatsApp, Coletas ADB diversas, Busca da Lista de Contatos, Fotos Avatares e Contatos Excluídos do WhatsApp, Decryptação Databases WhatsApp, Capturas de Tela, DUMP de Tela e Chat Capture, Integração automática com o IPED, Integração automática com o AFLogical, Integração automática com o Alias Connector, Conversão de .AB para .TAR, Varredura Rápida e Transferência em tempo real, Localizador de Imagens (Hashs, Metadados, Geolocalização, Plotagem da localização no Google Maps e Google Earch), Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch (geo.kml) com patch e miniaturas das imagens, Instalação e Desinstalação de APKs via ADB, Calculadora HASH, Navegador de Pastas Android (PULL e PUSH), Espelhamento do Dispositivo, Raspagem de dados Instagram, Integração automática com o MVT-1.5.3, Acesso Através da Ferramenta ao JADX, Acesso Através da Ferramenta ao WhatsApp Viewer, Acesso Através da Ferramenta ao BCV e Acesso Através da Ferramenta ao SQLStudio.
+- Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis que permite realizar: 
+
+1.	Backup ADB.
+2.	APK Downgrade em 15 Aplicativos WhatsApp (com.whatsapp), Telegram (org.telegram.messenger), Messenger (com.facebook.orca), ICQ (com.icq.mobile.client), Twitter (com.twitter.android), Instagram (com.instagram.android), Signal (org.thoughtcrime.securems), Linkdin (com.linkedin.android), Tiktok (com.zhiliaoapp.musically), Snapchat (com.snapchat.android), Tinder (com.tinder), Badoo (com.badoo.mobile), Mozilla Firefox (org.mozilla.firefox), Dropbox (com.drobox.android), Alibaba (com.alibaba.intl.android.apps.poseidon)).
+3.	Parser Chats WhatsApp.
+4.	Coletas ADB diversas (Propriedades do Sistema (Completo), Dumpsys (Completo), Disktats (Informações de disco), Dump Geolocalização Android (Location Manager State), IMEI (01 ,02), S/N (Serial Number), Processos, TCP (Active Internet connections), Contas (UserInfo), DUMP Wifi, DUMP Wifi Detalhado, Informações de CPU, Informações de Memória, Informações de Display (WINDOW MANAGER DISPLAY CONTENTS), Recursos, Resolução (Physical size), Dump de Tela (Arquivo .XML), Dump Backup (Backup Manager is enabled), Lista Aplicativos de Terceiros Instalados, Lista Aplicativos Nativos do Sistema, Contatos, SMS, Eventos do Sistema, Usuários Ativos, Versão do Android, DB Info (Applications Database Info), Histórico Liga/Desliga, LogCat, Informações de Espaço em Uso, Operadora, Bluetooth (Bluetooth Status), Localização dos Arquivos de Imagem, Localização dos Arquivos de Áudios, Localização dos Arquivos de Vídeos, DUMP do Reconhecimento Facial, Configurações Globais, Configurações de Segurança, Configurações do Sistema, Remover/Add PIN (Requer PIN atual), DUMP ADB (Conexões ADB), Reboot, Reboot Recovery Mode, Reboot Bootloader Mode, Reboot Fastboot Mode.
+5.	Busca da Lista de Contatos
+6.	Fotos Avatares e Contatos Excluídos do WhatsApp
+7.	Decryptação Databases WhatsApp
+8.	Capturas de Tela
+9.	DUMP de Tela
+10.	Chat Capture
+11.	Integração automática com o IPED
+12.	Integração automática com o AFLogical
+13.	Integração automática com o Alias Connector 
+14.	Conversão de .AB para .TAR
+15.	Varredura Rápida e Transferência em tempo real 
+16.	Localizador de Imagens (Hashs, Metadados, Geolocalização, Plotagem da localização no Google Maps e Google Earch)
+17.	Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch (geo.kml) com patch e miniaturas das imagens
+18.	Instalação e Desinstalação de APKs via ADB
+19.	Calculadora HASH
+20.	Navegador de Pastas Android (PULL e PUSH)
+21.	Espelhamento do Dispositivo
+22.	Raspagem de dados Instagram
+23.	Integração automática com o MVT-1.5.3
+24.	Acesso Através da Ferramenta ao JADX
+25.	Acesso Através da Ferramenta ao WhatsApp Viewer,
+26.	Acesso Através da Ferramenta ao BCV 
+27.	Acesso Através da Ferramenta ao SQLStudio.
+
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
