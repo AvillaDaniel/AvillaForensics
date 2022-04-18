@@ -3,7 +3,8 @@
 # Avilla Forensics 3.0
 
 # Descrição do Projeto
-- Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis.
+
+- Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis que permite realizar: Backup ADB, APK  Downgrade em 15 Aplicativos, Parser Chats WhatsApp, Coletas ADB diversas, Busca da Lista de Contatos, Fotos Avatares e Contatos Excluídos do WhatsApp, Decryptação Databases WhatsApp, Capturas de Tela, DUMP de Tela e Chat Capture, Integração automática com o IPED, Integração automática com o AFLogical, Integração automática com o Alias Connector, Conversão de .AB para .TAR, Varredura Rápida e Transferência em tempo real, Localizador de Imagens (Hashs, Metadados, Geolocalização, Plotagem da localização no Google Maps e Google Earch), Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch (geo.kml) com patch e miniaturas das imagens, Instalação e Desinstalação de APKs via ADB, Calculadora HASH, Navegador de Pastas Android (PULL e PUSH), Espelhamento do Dispositivo, Raspagem de dados Instagram, Integração automática com o MVT-1.5.3, Acesso Através da Ferramenta ao JADX, Acesso Através da Ferramenta ao WhatsApp Viewer, Acesso Através da Ferramenta ao BCV e Acesso Através da Ferramenta ao SQLStudio.
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
@@ -136,7 +137,7 @@
 - 1649374898421 (Unix Timestamp) = Thu Apr 07 2022 23:41:38 GMT+0000 (GMT)
 - https://www.unixtimestamp.com/
 
-### (NOVO) Busca da Lista de Contatos, Fotos Avatares e Contatos Excluídos.
+### (NOVO) Busca da Lista de Contatos, Fotos Avatares e Contatos Excluídos do WhatsApp
 
 1. Selecione a pasta: **\com.whatsapp\f\Avatars**
 2. Selecione aqruivo .DB: **\com.whatsapp\db\wa.db**
@@ -201,9 +202,12 @@
 
 https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090-b10c-5cd6f32ad023.mp4
 
-### (NOVO) Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch com patch e miniaturas das imagens.
+### (NOVO) Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch (geo.kml) com patch e miniaturas das imagens.
 
 - Obs: Para plotar as miniaturas junto com os pontos amarelos baixe o **Google Earch Pro**, caso plote no Google Earch Online somente serão plotados os pontos azuis sem as imagens.
+- Clique em **GERAR KML** para gerar em lotes o arquivo **geo.kml**
+
+![geo](https://user-images.githubusercontent.com/102838167/163811621-3a1c69f3-f74f-4488-a943-c866903a0341.PNG)
 
 ![2022-04-06](https://user-images.githubusercontent.com/102838167/163807399-c8de39b5-f8a1-4632-9d77-ba19ca2cd354.png)
 
@@ -227,7 +231,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-03-28 (9)](https://user-images.githubusercontent.com/102838167/161402185-07ef2510-735f-4940-b56a-a7624e42f711.png)
 
-### (NOVO) Navegador de Patas Android (PULL e PUSH)
+### (NOVO) Navegador de Pastas Android (PULL e PUSH)
 
 - Um Simples navegador de pastas para realizar o PULL e o PUSH de arquivos ou pastas.
 
@@ -242,7 +246,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-04-03 (7)](https://user-images.githubusercontent.com/102838167/161449129-c23ca774-f268-49ac-b7cf-30b1a305d4e5.png)
 
-### Instegração automática com o MVT-1.5.3
+### Integração automática com o MVT-1.5.3
 - "C:\Forensics\bin\mvt-1.5.3\mvt.bat"
 
 ![mvt](https://user-images.githubusercontent.com/102838167/161465986-08013fb5-d5b3-468f-bab2-a9f018904524.PNG)
@@ -255,6 +259,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ### Acesso Através da Ferramenta ao BCV (Byte Code Viewer)
 - "C:\Forensics\bin\bycodeviewer\GUI-ByteCode.bat"
+
+### Acesso Através da Ferramenta ao SQLStudio
+- "C:\Forensics\bin\SQLiteStudio\SQLiteStudio.exe"
 
 ## Pré-requisitos da Ferramenta
 - Conhecimentos TÉCNICOS de Forense em Dispositívos Móveis.
