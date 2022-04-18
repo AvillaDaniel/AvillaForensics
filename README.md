@@ -61,7 +61,7 @@
 - Mozilla Firefox (org.mozilla.firefox)
 - Dropbox (com.drobox.android) 
 - Alibaba (com.alibaba.intl.android.apps.poseidon) 
-- 
+
 - Exemplos:
 
 ![2022-04-02](https://user-images.githubusercontent.com/102838167/161398236-c20a9bd3-499d-49fc-b862-1694b369b334.png)
