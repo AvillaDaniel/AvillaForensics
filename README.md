@@ -136,6 +136,13 @@
 - 1649374898421 (Unix Timestamp) = Thu Apr 07 2022 23:41:38 GMT+0000 (GMT)
 - https://www.unixtimestamp.com/
 
+### (NOVO) Busca da Lista de Contatos, Fotos Avatares e Contatos Excluídos.
+
+1. Selecione a pasta: **\com.whatsapp\f\Avatars**
+2. Selecione aqruivo .DB: **\com.whatsapp\db\wa.db**
+
+![contatos](https://user-images.githubusercontent.com/102838167/163809831-53167b37-2da5-43d0-96dd-9b596f1d2191.PNG)
+
 ### Decryptação Databases WhatsApp
 - Crypt12.
 - Crypt14.
@@ -196,7 +203,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ### (NOVO) Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch com patch e miniaturas das imagens.
 
-Obs: Para plotar as miniaturas junto com os pontos amarelos baixe o **Google Earch Pro**, caso plote no Google Earch Online somente serão plotados os pontos azuis sem as imagens.
+- Obs: Para plotar as miniaturas junto com os pontos amarelos baixe o **Google Earch Pro**, caso plote no Google Earch Online somente serão plotados os pontos azuis sem as imagens.
 
 ![2022-04-06](https://user-images.githubusercontent.com/102838167/163807399-c8de39b5-f8a1-4632-9d77-ba19ca2cd354.png)
 
@@ -219,6 +226,12 @@ Obs: Para plotar as miniaturas junto com os pontos amarelos baixe o **Google Ear
 - SHA-MD5.
 
 ![2022-03-28 (9)](https://user-images.githubusercontent.com/102838167/161402185-07ef2510-735f-4940-b56a-a7624e42f711.png)
+
+### (NOVO) Navegador de Patas Android (PULL e PUSH)
+
+- Um Simples navegador de pastas para realizar o PULL e o PUSH de arquivos ou pastas.
+
+![2022-04-10 (1)](https://user-images.githubusercontent.com/102838167/163810052-a45ec6cc-8e92-4ff7-bfcd-b6da09e44a31.png)
 
 ### Espelhamento do Dispositivo
 - "C:\Forensics\bin\scrcpy"
@@ -339,6 +352,7 @@ Obs: Para plotar as miniaturas junto com os pontos amarelos baixe o **Google Ear
 - Exiftool: https://github.com/exiftool/exiftool
 - Grep: https://git-scm.com/docs/git-grep
 - Alias Connector: http://www.newseg.seg.br/newseg/
+- SqlStudio: https://sqlitestudio.pl/
 
 ## Agradecimentos
 
