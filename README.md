@@ -194,6 +194,18 @@
 
 https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090-b10c-5cd6f32ad023.mp4
 
+### (NOVO) Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch com patch e miniaturas das imagens.
+
+Obs: Para plotar as miniaturas junto com os pontos amarelos baixe o **Google Earch Pro**, caso plote no Google Earch Online somente serão plotados os pontos azuis sem as imagens.
+
+![2022-04-06](https://user-images.githubusercontent.com/102838167/163807399-c8de39b5-f8a1-4632-9d77-ba19ca2cd354.png)
+
+![2022-04-10 (6)](https://user-images.githubusercontent.com/102838167/163807446-07ec29a1-7393-4d98-9a47-7de8cf4a31ab.png)
+
+![2022-04-10 (8)](https://user-images.githubusercontent.com/102838167/163808357-38af47df-141c-400f-b848-634a7ef06ca3.png)
+
+![2022-04-10 (9)](https://user-images.githubusercontent.com/102838167/163808370-955743bd-bec6-483a-a8e2-e6e0b3349fca.png)
+
 ### Instalação e Desinstalação de APKs via ADB
 - Arquivos .APK
 
