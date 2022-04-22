@@ -37,7 +37,7 @@
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
-## Funcionalidades
+## 🕵️ Funcionalidades
 
 ### Backup ADB
 - Backup padrão do Android.
@@ -83,7 +83,7 @@
 6. Reinicializar telefone
 7. Configurações -> Configurações adicionais -> Opções do desenvolvedor -> **Ativar instalação via USB**    
 
-### (NOVO) Parser Chats WhatsApp do NOVO ESQUEMA de banco de dados
+### 💬 (NOVO) Parser Chats WhatsApp do NOVO ESQUEMA de banco de dados
 
 1. Selecione a pasta destino Chats (Copie a pasta "Media" neste mesmo local).
 2. Selecione a pasta: **\com.whatsapp\f\Avatars**
@@ -95,7 +95,7 @@
 
 ![chats](https://user-images.githubusercontent.com/102838167/163806409-d6efa011-9d9a-4675-a01c-15f570a105fb.png)
 
-### (NOVO) Parser Chats WhatsApp do esquema de banco de dados anterior
+### 💬 (NOVO) Parser Chats WhatsApp do esquema de banco de dados anterior
 
 1. Selecione a pasta destino Chats (Copie a pasta "Media" neste mesmo local).
 2. Selecione a pasta: **\com.whatsapp\f\Avatars**
@@ -105,7 +105,7 @@
 
 ![2022-04-17 (4)](https://user-images.githubusercontent.com/102838167/163806716-e2f002d0-45ec-42e8-be20-fdd8ace00129.png)
 
-### Coletas ADB diversas em formato .TXT
+### 📱 Coletas ADB diversas em formato .TXT
 - Propriedades do Sistema (Completo).
 - Dumpsys (Completo).
 - Disktats (Informações de disco).
@@ -184,7 +184,7 @@
 - Crypt12.
 - Crypt14.
 
-### Capturas de Tela, DUMP de Tela e Chat Capture. 
+### 📸 Capturas de Tela, DUMP de Tela e Chat Capture. 
 
 ![2022-04-03 (1)](https://user-images.githubusercontent.com/102838167/161448487-b4dea9e4-9293-4b65-8981-1de07caf7288.png)
 
@@ -299,16 +299,16 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### Acesso Através da Ferramenta ao SQLStudio
 - "C:\Forensics\bin\SQLiteStudio\SQLiteStudio.exe"
 
-## Pré-requisitos da Ferramenta
+## ⚙️ Pré-requisitos da Ferramenta
 - Conhecimentos TÉCNICOS de Forense em Dispositívos Móveis.
 - Dispositivo com modo DEPURAÇÂO ativado.
 - Windows 10/11 com suas devidas atualizações.
 
-## Pré-requisitos Ferramentas de Terceiros: 
+## ⚙️ Pré-requisitos Ferramentas de Terceiros: 
 - JAVA (https://www.java.com/pt-BR/).
 - PHYTON (https://www.python.org/).
 
-## Treinamentos
+## 📋 Treinamentos
 ![Banner sympla Extração Lógica Avançada com Avilla Forensics](https://user-images.githubusercontent.com/102838167/161400433-dd4cce07-161f-44b7-b506-378841ac64b4.png)
 
 - ACADEMIA DE FORENSE DIGITAL - AFD (Extração Avançada com Avilla Forensics).
@@ -321,15 +321,14 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - https://youtu.be/KuSmct1Qa30
 - [MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf](https://github.com/AvillaDaniel/AvillaForensics/files/8411988/MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf)
 
-
-## Instalação Avilla Forensics 3.0
+## 💻 Instalação Avilla Forensics 3.0 
 - Ferramenta autoexecutável, não requer instalação.
 - Execute como administrador o arquivo "Avilla_Forensics.exe".
 - Execute a ferramenta a partir do "C:\".
 - Exemplo: C:\Forensics".
 - Não coloque espaços no nome da pasta da ferramenta.
 
-## Instalação Ferramentas de Terceiros
+## 💻 Instalação Ferramentas de Terceiros
 ### Requer JAVA (https://www.java.com/pt-BR/):
 - IPED-3.18.12 "C:\Forensics\IPED-3.18.12_and_plugins" (Apenas instalar o JAVA).
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Apenas instalar o JAVA).
@@ -350,7 +349,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ```pip install --upgrade -r requirements.txt```  
 
-## Download
+## 🌐 Download
 ### v1_0_0_168
 - MD5: 33BA5B2786F1EDF5B87FCC0164EE9505
 - SHA1: BED2FAA157F37AA0665974FFC1AE3774BED32212
@@ -366,20 +365,20 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - SHA384: 61C28E6C0ACB50E760EAFE466D14712A55E5430BF1AB0558EFBFB4ADA9D07EE404C76E5C37D931DD075CEF90C3CF8F48
 - SHA512: 07A6315904956878B78343981BA14A49EE8CA319B75A529C7E3CCF424CDDB3647B509E2225E7AB8A9245FDBCADF1C656CFF3E99063C
 
-## Tecnologias utilizadas
+## ⚙️ Tecnologias utilizadas
 - C#.
 - Python.
 - Java.
 
-## Licença
+## 🚀 Licença
 - Software Livre.
 
-## Contatos
+## 🤖 Contatos
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
 - https://www.linkedin.com/in/daniel-a-avilla-0987/
 - daniel.avilla@policiacivil.sp.gov.br
 
-## Ferramentas de terceiros inclusas no pacote
+## 📱  Ferramentas de terceiros inclusas no pacote
 - IPED-3.18.12: https://github.com/sepinf-inc/IPED (Requer Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requer Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
@@ -397,7 +396,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Alias Connector: http://www.newseg.seg.br/newseg/
 - SqlStudio: https://sqlitestudio.pl/
 
-## Agradecimentos
+## 😎 Agradecimentos
 
 ![LogoGrandecopy](https://user-images.githubusercontent.com/102838167/161445299-a5d6a50f-e2de-440d-bcbc-d364a365e64d.png)
 
