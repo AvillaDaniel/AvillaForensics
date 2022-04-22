@@ -2,7 +2,7 @@
 
 # Avilla Forensics 3.0
 
-# Descrição do Projeto
+# ⭐️ Descrição do Projeto
 
 - Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis que permite realizar: 
 
@@ -39,10 +39,10 @@
 
 ## 🕵️ Funcionalidades
 
-### Backup ADB
+### 🤖 Backup ADB
 - Backup padrão do Android.
   
-### APK  Downgrade em 15 Aplicativos (Acesso aos arquivos raizes sem a necessidade do ROOT)
+### 📱 APK  Downgrade em 15 Aplicativos (Acesso aos arquivos raizes sem a necessidade do ROOT)
 
 ![APKS](https://user-images.githubusercontent.com/102838167/161399527-040d0624-f034-4d07-b8f0-494fb31e26d8.PNG)
       
@@ -72,7 +72,7 @@
   
 ![files-whats](https://user-images.githubusercontent.com/102838167/161401049-7402a3bd-06a2-48d8-9629-d0d93a61982a.PNG)
 
-### Teste de APK DOWNGRADE
+### 🛠 Teste de APK DOWNGRADE
 - A ferramanta faz um teste em um aplicativo genérico (**com.aplicacaoteste.apk**) antes de iniciar o processo de DOWNGRADE no APP alvo.
 - Dicas: Telefones **XIAOMI** podem vir com proteções USB, remova essas proteções **sem tirar o dispositivo do modo avião** seguindo os passos abaixo:
 1. Ative as opções do desenvolvedor.
@@ -166,21 +166,21 @@
 - 1649374898421 (Unix Timestamp) = Thu Apr 07 2022 23:41:38 GMT+0000 (GMT)
 - https://www.unixtimestamp.com/
 
-### (NOVO) Rastreamento, Download e Decryptação de arquivos .ENC do Whatsapp
+### ⚡️ (NOVO) Rastreamento, Download e Decryptação de arquivos .ENC do Whatsapp
 
 ![2022-04-10](https://user-images.githubusercontent.com/102838167/163823905-47262d30-d4c2-4a69-957a-80a765372247.png)
 - Gere o Script e execute o arquivo **.bat** gerado.
 
 "C:\Forensics\bin\whatsapp-media-decrypt\decrypt.py"
 
-### (NOVO) Busca da Lista de Contatos, Fotos Avatares e Contatos Excluídos do WhatsApp
+### ⚡️ (NOVO) Busca da Lista de Contatos, Fotos Avatares e Contatos Excluídos do WhatsApp
 
 1. Selecione a pasta: **\com.whatsapp\f\Avatars**
 2. Selecione aqruivo .DB: **\com.whatsapp\db\wa.db**
 
 ![contatos](https://user-images.githubusercontent.com/102838167/163809831-53167b37-2da5-43d0-96dd-9b596f1d2191.PNG)
 
-### Decryptação Databases WhatsApp
+### 📐 Decryptação Databases WhatsApp
 - Crypt12.
 - Crypt14.
 
@@ -190,34 +190,34 @@
 
 ![2022-04-03 (2)](https://user-images.githubusercontent.com/102838167/161448491-d9622700-c41e-41b0-8442-a055def05913.png)
 
-### Integração automática com o IPED
+### 🚀 Integração automática com o IPED
 - Indexação de pastas, .zip, .tar, .dd, .ufdr. 
 
 ![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
 
 ![2022-04-03 (11)](https://user-images.githubusercontent.com/102838167/161464428-226fe8f1-bebe-4d34-96af-95c7e0cff533.png)
 
-### Integração automática com o AFLogical OSE 1.5.2
+### 🚀 Integração automática com o AFLogical OSE 1.5.2
 
 - Realiza a aquisição de forma automatica sem intervensão do usuário.
 - "C:\Forensics\bin\AFLogicalOSE152OSE.apk"
 
 ![af](https://user-images.githubusercontent.com/102838167/161461445-74dc290d-7ba7-4369-8248-a796f7299c19.PNG)
 
-### Integração automática com o Alias Connector
+### 🚀 Integração automática com o Alias Connector
 - Realiza a aquisição de forma automatica sem intervensão do usuário.
 - "C:\Forensics\bin\com.alias.connector.apk"
 
 ![alias](https://user-images.githubusercontent.com/102838167/161463618-61745835-59f8-4d37-9512-f714dbc6effc.PNG)
 
-### Conversão de .AB para .TAR
+### 📐 Conversão de .AB para .TAR
 - Backups ADB com senha podem demorar mais tempo para converter.
 - Procure não colocar senhas nos backups solicitados no "Backup ADB" ou no "Downgrade", assim você agiliza o processo de conversão.  
 - Caso esse módulo não funcione procure adicionar nas variáveis do sistema o patch "C:\Forensics"
 
 ![variaveis](https://user-images.githubusercontent.com/102838167/161451033-a41c46a0-35cb-4c3b-9aa3-cafee9c92284.PNG)
 
-### Varredura Rápida e Transferência em tempo real
+### ♻ Varredura Rápida e Transferência em tempo real
 - Imagens: .jpg, .jpeg, .png, .psd, .nef, .tiff, .bmp, .tec, .tif, .webp
 - Videos: .aaf, .3gp, .asf, .avi, .m1v, .m2v, .m4v, .mp4, .mov, .mpeg, .mpg, .mpe, .mp4, .rm, .wmv, .mpv, .flv, .swf
 - Audios: .opus, .aiff, .aif, .flac, .wav, .m4a, .ape, .wma, .mp2, .mp1, .mp3, .aac, .mp4, .m4p, .m1a, .m2a, .m4r, .mpa, .m3u, .mid, .midi, .ogg
@@ -228,7 +228,7 @@
 
 ![2022-04-03 (5)](https://user-images.githubusercontent.com/102838167/161448785-6c0b41a0-3fa3-448c-bcf9-5836e92632c1.png)
 
-### Localizador de Imagens (Hashs, Metadados, Geolocalização, Plotagem da localização no Google Maps e Google Earch)
+### 🔠  Localizador de Imagens (Hashs, Metadados, Geolocalização, Plotagem da localização no Google Maps e Google Earch)
 
 - Obs: Para este módulo NÃO salve suas aquisições na Área de Trabalho, salve por exemplo no "C:\nome_da_pasta\coleta_01" para assim rodar a busca das imagens.
 
@@ -238,7 +238,7 @@
 
 https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090-b10c-5cd6f32ad023.mp4
 
-### (NOVO) Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch (geo.kml) com patch e miniaturas das imagens.
+### 📜 (NOVO) Plotagem (EM LOTES) da Geolocalização de imagens no Google Earch (geo.kml) com patch e miniaturas das imagens.
 
 - Obs: Para plotar as miniaturas junto com os pontos amarelos baixe o **Google Earch Pro**, caso plote no Google Earch Online somente serão plotados os pontos azuis sem as imagens.
 - Clique em **GERAR KML** para gerar em lotes o arquivo **geo.kml**
@@ -253,10 +253,10 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-04-10 (9)](https://user-images.githubusercontent.com/102838167/163808370-955743bd-bec6-483a-a8e2-e6e0b3349fca.png)
 
-### Instalação e Desinstalação de APKs via ADB
+### 🛠 Instalação e Desinstalação de APKs via ADB
 - Arquivos .APK
 
-### Calculadora HASH
+### ⏳ Calculadora HASH
 - Obs: Para este módulo NÃO salve suas aquisições na Área de Trabalho, salve por exemplo no "C:\nome_da_pasta\coleta_02" para assim calcular as Hashs dos arquivos.
 - Calcula as Hashs de todos os arquivos de uma aquisição.
 - SHA-256.
@@ -267,36 +267,36 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-03-28 (9)](https://user-images.githubusercontent.com/102838167/161402185-07ef2510-735f-4940-b56a-a7624e42f711.png)
 
-### (NOVO) Navegador de Pastas Android (PULL e PUSH)
+### 📱 (NOVO) Navegador de Pastas Android (PULL e PUSH)
 
 - Um Simples navegador de pastas para realizar o PULL e o PUSH de arquivos ou pastas.
 
 ![2022-04-10 (1)](https://user-images.githubusercontent.com/102838167/163810052-a45ec6cc-8e92-4ff7-bfcd-b6da09e44a31.png)
 
-### Espelhamento do Dispositivo
+### 🎥 Espelhamento do Dispositivo
 - "C:\Forensics\bin\scrcpy"
 
 ![espeçhamento](https://user-images.githubusercontent.com/102838167/161463105-71285aa7-715c-450f-b259-c40c00b3a0a7.PNG)
 
-### Raspagem de dados Instagram
+### 🚀 Raspagem de dados Instagram
 
 ![2022-04-03 (7)](https://user-images.githubusercontent.com/102838167/161449129-c23ca774-f268-49ac-b7cf-30b1a305d4e5.png)
 
-### Integração automática com o MVT-1.5.3
+### 🚀 Integração automática com o MVT-1.5.3
 - "C:\Forensics\bin\mvt-1.5.3\mvt.bat"
 
 ![mvt](https://user-images.githubusercontent.com/102838167/161465986-08013fb5-d5b3-468f-bab2-a9f018904524.PNG)
 
-### Acesso Através da Ferramenta ao JADX (Dex to Java Decompiler)
+### 🚀 Acesso Através da Ferramenta ao JADX (Dex to Java Decompiler)
 - "C:\Forensics\bin\jadx-1.2.0\jadx-gui-1.2.0-no-jre-win.exe"
 
-### Acesso Através da Ferramenta ao WhatsApp Viewer
+### 🚀 Acesso Através da Ferramenta ao WhatsApp Viewer
 - "C:\Forensics\bin\WhatsAppViewer.exe"
 
-### Acesso Através da Ferramenta ao BCV (Byte Code Viewer)
+### 🚀 Acesso Através da Ferramenta ao BCV (Byte Code Viewer)
 - "C:\Forensics\bin\bycodeviewer\GUI-ByteCode.bat"
 
-### Acesso Através da Ferramenta ao SQLStudio
+### 🚀 Acesso Através da Ferramenta ao SQLStudio
 - "C:\Forensics\bin\SQLiteStudio\SQLiteStudio.exe"
 
 ## ⚙️ Pré-requisitos da Ferramenta
