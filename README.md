@@ -371,7 +371,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Java.
 
 ## 🚀 Licença
-- Software Livre.
+- Software Gratuito.
 
 ## 🤖 Contatos
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
@@ -379,7 +379,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 📱  Ferramentas de terceiros inclusas no pacote
-- IPED-3.18.12: https://github.com/sepinf-inc/IPED (Requer Java).
+- IPED-3.18.14: https://github.com/sepinf-inc/IPED (Requer Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requer Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
 - Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requer Java).
