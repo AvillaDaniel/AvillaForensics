@@ -4,7 +4,7 @@
 
 # ⭐️ Descrição do Projeto
 
-- Ferramenta Livre e Gratuita de Forense em Dispositivos Móveis que permite realizar: 
+- Ferramenta Gratuita de Forense em Dispositivos Móveis que permite realizar: 
 
 1.	Backup ADB.
 2.	APK Downgrade em 15 Aplicativos: WhatsApp (com.whatsapp), Telegram (org.telegram.messenger), Messenger (com.facebook.orca), ICQ (com.icq.mobile.client), Twitter (com.twitter.android), Instagram (com.instagram.android), Signal (org.thoughtcrime.securems), Linkdin (com.linkedin.android), Tiktok (com.zhiliaoapp.musically), Snapchat (com.snapchat.android), Tinder (com.tinder), Badoo (com.badoo.mobile), Mozilla Firefox (org.mozilla.firefox), Dropbox (com.drobox.android), Alibaba (com.alibaba.intl.android.apps.poseidon)).
