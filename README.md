@@ -391,7 +391,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Instaloader: https://github.com/instaloader/instaloader (Requer Python).
 - MVT-1.5.3: https://github.com/mvt-project/mvt (Requer Python).
 - Whatsapp Encryption and Decryption: https://github.com/B16f00t/whapa (Requer Python).
-- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt
+- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requer Python).
 
 - Screen Copy: https://github.com/Genymobile/scrcpy
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics
