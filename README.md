@@ -350,7 +350,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ```pip install --upgrade -r requirements.txt```  
 
 - Whatsapp Media Decrypt: Para instalar execute o arquivo "C:\Forensics\bin\install_wmd.bat" ou:
-- 
+
 ```pip install pycryptodome```  
 
 ## 🌐 Download
