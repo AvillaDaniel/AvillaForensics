@@ -337,17 +337,21 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - O módulo Backup Extrator (.AB para .TAR) pode exigir que vc adicione o patch "C:\Forensics" nas variáveis do sistema.
 
 ### Requer PHYTON (https://www.python.org/):
-- Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\instalar.bat" ou:
+- Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\install_instaloader.bat" ou:
 
 ```pip install instaloader```
 
-- MVT-1.5.3: Para instalar execute o arquivo "C:\Forensics\bin\mvt-1.5.3\install.bat" ou:
+- MVT-1.5.3: Para instalar execute o arquivo "C:\Forensics\bin\mvt-1.5.3\install_mvt.bat" ou:
 
 ```pip install mvt```
 
-- Whacipher: Para instalar execute o arquivo "C:\Forensics\bin\pipPython.bat" ou:
+- Whacipher: Para instalar execute o arquivo "C:\Forensics\bin\install_whacipher.bat" ou:
 
 ```pip install --upgrade -r requirements.txt```  
+
+- Whatsapp Media Decrypt: Para instalar execute o arquivo "C:\Forensics\bin\install_wmd.bat" ou:
+- 
+```pip install pycryptodome```  
 
 ## 🌐 Download
 ### v1_0_0_168
