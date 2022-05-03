@@ -34,6 +34,7 @@
 26.	Acesso Através da Ferramenta ao WhatsApp Viewer.
 27.	Acesso Através da Ferramenta ao BCV. 
 28.	Acesso Através da Ferramenta ao SQLStudio.
+29. Acesso Através da Ferramenta ao GPS PRUNE.
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
@@ -299,6 +300,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### 🚀 Acesso Através da Ferramenta ao SQLStudio
 - "C:\Forensics\bin\SQLiteStudio\SQLiteStudio.exe"
 
+### 🚀 Acesso Através da Ferramenta ao GPS PRUNE
+- "C:\Forensics\bin\gpsprune\GUI-GPSPrune.bat"
+
 ## ⚙️ Pré-requisitos da Ferramenta
 - Conhecimentos TÉCNICOS de Forense em Dispositívos Móveis.
 - Dispositivo com modo DEPURAÇÂO ativado.
@@ -335,6 +339,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Apenas instalar o JAVA).
 - Backup Extractor: "C:\Forensics\backup_extractor" (Apenas instalar o JAVA).
 - O módulo Backup Extrator (.AB para .TAR) pode exigir que vc adicione o patch "C:\Forensics" nas variáveis do sistema.
+- GPS PRUNE "C:\Forensics\bin\gpsprune" (Apenas instalar o JAVA)..
 
 ### Requer PHYTON (https://www.python.org/):
 - Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\install_instaloader.bat" ou:
@@ -354,20 +359,14 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ```pip install pycryptodome```  
 
 ## 🌐 Download
-### v1_0_0_168
-- MD5: 33BA5B2786F1EDF5B87FCC0164EE9505
-- SHA1: BED2FAA157F37AA0665974FFC1AE3774BED32212
-- SHA256: C8E7DA6C889DBBE1B4A2AD756B548020AA4ECC21B6A318ABA6BBD2AF955C1007
-- SHA384: 87355ED5E6D2F7891623908F9ACB8766C8F270D3648C824A003F05162FA341A17E4644AF1796DF31B3C6CF5DF5A4B93C
-- SHA512: 8DD4B705CDEFCBB7BD44819EC7435BFC03C5A84B2D8D4C2C5B8A9D088C21E4A5368BA65D0C571783F7DB7F6D7DA307C5D6C101886D85D43A974E15F866F7E955
 
-### (NOVO) v1_0_0_173 - 18/04/2022 (985 MB) 
+### (NOVO) v1_0_0_177 - 02/05/2022 (980 MB) 
 - https://www.avillaforensics.com.br/forensics.zip
-- MD5: D57D610728DC5F42906B5E34DBFF2326
-- SHA1: 9637E842EDF10ECB4D1F751B9BEC0660F6E96A5C
-- SHA256: 5645E717749D788034547A497CFFBABCD72234F9F66C142B00DE32ED639A0133
-- SHA384: 61C28E6C0ACB50E760EAFE466D14712A55E5430BF1AB0558EFBFB4ADA9D07EE404C76E5C37D931DD075CEF90C3CF8F48
-- SHA512: 07A6315904956878B78343981BA14A49EE8CA319B75A529C7E3CCF424CDDB3647B509E2225E7AB8A9245FDBCADF1C656CFF3E99063C
+- MD5: A24D7F943FB6D2EFD67C0C517383B915
+- SHA1: 913FDD2D5392BB9FF2487521843C4A2CF13CC59B
+- SHA256: AC02FE209C19F1D1C01BEB8E457A148E7C7820D3D5C1AB882FDB30F7DBA54E8F
+- SHA384: E8249466558B17CA365F8860CE839B3BF76F5F0FB67AE15CCB7DC3AF5B04C53FF5A070A7A6372475CBDD788F0237CD68
+- SHA512: B8CB81A365FBE3A962F71AE2986C683B4CA12AA8CAC5313E419DC11CCB9DB06B141022E1D06E13AC00690FC72D3C390110146F6A8BA
 
 ## ⚙️ Tecnologias utilizadas
 - C#.
@@ -387,6 +386,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requer Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
 - Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requer Java).
+- GPS PRUNE: https://activityworkshop.net/software/gpsprune/download.html (Requer Java).
 
 - Instaloader: https://github.com/instaloader/instaloader (Requer Python).
 - MVT-1.5.3: https://github.com/mvt-project/mvt (Requer Python).
