@@ -362,7 +362,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### Requires python (https://www.python.org/):
 - Instaloader: To install run the file "C:\Forensics\bin\instaloader-master\install_instaloader.bat" or:
 
-```pip install installloader```
+```pip install instaloader```
 
 - MVT-1.5.3: To install run the file "C:\Forensics\bin\mvt-1.5.3\install_mvt.bat" or:
 
