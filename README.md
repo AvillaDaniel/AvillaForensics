@@ -2,7 +2,7 @@
 
 # Avilla Forensics 3.0 (Soon translated version into English)
 
-# ⭐️ Project description
+# ⭐️ Project description:
 
 - Free Mobile Forensics Tool that allows you to: 
 
@@ -38,12 +38,12 @@
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
-## 🕵️ Functionalities
+## 🕵️ Functionalities:
 
-### 🤖 Backup ADB
+### 🤖 Backup ADB:
 - Android default backup.
   
-### 📱 APK Downgrade in 15 Applications (Access to root files without the need for ROOT)
+### 📱 APK Downgrade in 15 Applications (Access to root files without the need for ROOT):
 
 ![APKS](https://user-images.githubusercontent.com/102838167/161399527-040d0624-f034-4d07-b8f0-494fb31e26d8.PNG)
       
@@ -73,13 +73,13 @@
   
 ![files-whats](https://user-images.githubusercontent.com/102838167/161401049-7402a3bd-06a2-48d8-9629-d0d93a61982a.PNG)
 
-### 📱 Caution
+### 📱 Caution:
 
 ![atencao](https://user-images.githubusercontent.com/102838167/173718670-c863f680-b356-4ea6-af10-2376783d9cee.png)
 
 - The Backup Downgrade procedure in ANDROID 12 can damage the database
 
-### 🛠 DOWNGRADE APK Test
+### 🛠 DOWNGRADE APK Test:
 - The tool does a test in a generic application (**com.aplicacaoteste.apk**) before starting the DOWNGRADE process in the target APP.
 - Tips: **XIAOMI** phones may come with USB protections, remove these protections **without taking the device out of airplane mode** by following the steps below:
 1. Enable developer options.
@@ -90,33 +90,16 @@
 6. Reset phone
 7. Settings -> Additional Settings -> Developer Options -> **Enable USB Installation**    
 
-### 💬 (NEW) Parser Chats WhatsApp from NEW Database SCHEME
+### 💬 (NEW) Parser Chats WhatsApp from NEW Database SCHEME:
 
 1. Select the Chats destination folder (Copy the **"Media"** folder in this same location).
 2. Select the folder: **\com.whatsapp\f\Avatars**
 3. Select the .DB file: **\com.whatsapp\db\msgstore.db**
 
-New Schema (Table: **message**)
-_id
-chat_row_id
-from_me
-key_id
-sender_jid_row_id
-status,broadcast
-recipient_count
-participant_hash
-origination_flags
-origin
-timestamp
-received_timestamp
-receipt_server_timestamp
-message_type
-text_data (Mensagens)
-starred
-lookup_tables
-message_add_on_flags
-sort_id
-
+- New Schema (Table: **message**):
+- Fields:
+- _id, chat_row_id, from_me, key_id, sender_jid_row_id, status,broadcast, recipient_count, participant_hash, origination_flags, origin, timestamp
+received_timestamp, receipt_server_timestamp, message_type, text_data (Mensagens), starred, lookup_tables, message_add_on_flags, sort_id
 
 ![2022-04-17 (5)](https://user-images.githubusercontent.com/102838167/163806359-d86b2de8-9aeb-4bdb-a1f6-198b7563317b.png)
 
@@ -124,62 +107,23 @@ sort_id
 
 ![chats](https://user-images.githubusercontent.com/102838167/163806409-d6efa011-9d9a-4675-a01c-15f570a105fb.png)
 
-### 💬 (NEW) Parser Chats WhatsApp from previous database schema
+### 💬 (NEW) Parser Chats WhatsApp from previous database schema:
 
 1. Select the Chats destination folder (Copy the "Media" folder in this same location).
 2. Select the folder: **\com.whatsapp\f\Avatars**
 3. Select the .DB file: **\com.whatsapp\db\msgstore.db**
 
-Old Schema (Table: **messages**)
-
-_id
-key_remote_jid
-key_from_me
-key_id
-status
-needs_push
-data (Mensagens)
-timestamp
-media_url
-media_mime_type
-media_wa_type
-media_size
-media_name
-media_caption
-media_hash
-media_durationorigin
-latitude
-longitude
-thumb_image
-remote_resource
-received_timestamp
-send_timestamp
-receipt_server_timestamp
-receipt_device_timestamp
-read_device_timestamp
-played_device_timestamp
-raw_data
-recipient_count
-participant_hash
-starred
-quoted_row_id
-mentioned_jids
-multicast_id
-edit_version
-media_enc_hash
-payment_transaction_id
-forwarded
-preview_type
-send_count
-lookup_tables
-future_message_type
-message_add_on_flags
+- Old Schema (Table: **messages**)
+- Fields:
+- _id, key_remote_jid, key_from_me, key_id, status, needs_push, data (Mensagens), timestamp, media_url, media_mime_type, media_wa_type, media_size, media_name, media_caption, media_hash, media_durationorigin, latitude, longitude, thumb_image, remote_resource, received_timestamp, send_timestamp,
+receipt_server_timestamp, receipt_device_timestamp, read_device_timestamp, played_device_timestamp, raw_data, recipient_count, participant_hash, starred,
+quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payment_transaction_id, forwarded, preview_type, send_count, lookup_tables, future_message_type, message_add_on_flags.
 
 ![2022-04-17](https://user-images.githubusercontent.com/102838167/163806680-08ae4135-d180-48f5-8c3e-99fc83a86a34.png)
 
 ![2022-04-17 (4)](https://user-images.githubusercontent.com/102838167/163806716-e2f002d0-45ec-42e8-be20-fdd8ace00129.png)
 
-### 📱 Miscellaneous ADB collections in .TXT format
+### 📱 Miscellaneous ADB collections in .TXT format:
 - System Properties (Full).
 - Dumpsys (Complete).
 - Disktats (Disk information).
@@ -241,58 +185,58 @@ message_add_on_flags
 - 
 - https://www.unixtimestamp.com/
 
-### ⚡️ (NEW) Tracking, Downloading and Decrypting Whatsapp .ENC Files
+### ⚡️ (NEW) Tracking, Downloading and Decrypting Whatsapp .ENC Files:
 
 ![2022-04-10](https://user-images.githubusercontent.com/102838167/163823905-47262d30-d4c2-4a69-957a-80a765372247.png)
 - Generate the Script and run the generated **.bat** file.
 
 "C:\Forensics\bin\whatsapp-media-decrypt\decrypt.py"
 
-### ⚡️ (NEW) Contact List Search, Avatar Photos and Deleted WhatsApp Contacts
+### ⚡️ (NEW) Contact List Search, Avatar Photos and Deleted WhatsApp Contacts:
 
 1. Select the folder: **\com.whatsapp\f\Avatars**
 2. Select .DB file: **\com.whatsapp\db\wa.db**
 
 ![contatos](https://user-images.githubusercontent.com/102838167/163809831-53167b37-2da5-43d0-96dd-9b596f1d2191.PNG)
 
-### 📐 WhatsApp Database Decryption
+### 📐 WhatsApp Database Decryption:
 - Crypt12.
 - Crypt14.
 
-### 📸 Screenshots, Screen DUMP and Chat Capture. 
+### 📸 Screenshots, Screen DUMP and Chat Capture: 
 
 ![2022-04-03 (1)](https://user-images.githubusercontent.com/102838167/161448487-b4dea9e4-9293-4b65-8981-1de07caf7288.png)
 
 ![2022-04-03 (2)](https://user-images.githubusercontent.com/102838167/161448491-d9622700-c41e-41b0-8442-a055def05913.png)
 
-### 🚀 Automatic integration with IPED.
+### 🚀 Automatic integration with IPED:
 - Indexing of folders, .zip, .tar, .dd, .ufdr.
 
 ![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
 
 ![2022-04-03 (11)](https://user-images.githubusercontent.com/102838167/161464428-226fe8f1-bebe-4d34-96af-95c7e0cff533.png)
 
-### 🚀 Automatic integration with AFLogical OSE 1.5.2.
+### 🚀 Automatic integration with AFLogical OSE 1.5.2:
 
 - Performs the acquisition automatically without user intervention.
 - "C:\Forensics\bin\AFLogicalOSE152OSE.apk"
 
 ![af](https://user-images.githubusercontent.com/102838167/161461445-74dc290d-7ba7-4369-8248-a796f7299c19.PNG)
 
-### 🚀 Automatic integration with Alias Connector
+### 🚀 Automatic integration with Alias Connector:
 - Performs the acquisition automatically without user intervention.
 - "C:\Forensics\bin\com.alias.connector.apk"
 
 ![alias](https://user-images.githubusercontent.com/102838167/161463618-61745835-59f8-4d37-9512-f714dbc6effc.PNG)
 
-### 📐 Conversion from .AB to .TAR
+### 📐 Conversion from .AB to .TAR:
 - Passworded ADB backups may take longer to convert.
 - Try not to put passwords in the backups requested in "ADB Backup" or "Downgrade", so you speed up the conversion process.
 - If this module doesn't work, try to add the **"C:\Forensics"** patch to the system variables
 
 ![variaveis](https://user-images.githubusercontent.com/102838167/161451033-a41c46a0-35cb-4c3b-9aa3-cafee9c92284.PNG)
 
-### ♻ Fast Scan and Real-time Transfer
+### ♻ Fast Scan and Real-time Transfer:
 - Images: .jpg, .jpeg, .png, .psd, .nef, .tiff, .bmp, .tec, .tif, .webp
 - Videos: .aaf, .3gp, .asf, .avi, .m1v, .m2v, .m4v, .mp4, .mov, .mpeg, .mpg, .mpe, .mp4, .rm, .wmv, .mpv , .flv, .swf
 - Audios: .opus, .aiff, .aif, .flac, .wav, .m4a, .ape, .wma, .mp2, .mp1, .mp3, .aac, .mp4, .m4p, .m1a, .m2a , .m4r, .mpa, .m3u, .mid, .midi, .ogg
@@ -303,7 +247,7 @@ message_add_on_flags
 - 
 ![2022-04-03 (5)](https://user-images.githubusercontent.com/102838167/161448785-6c0b41a0-3fa3-448c-bcf9-5836e92632c1.png)
 
-### 🔠  Image Finder (Hash, Metadata, Geolocation, Plot location on Google Maps and Google Earch)
+### 🔠  Image Finder (Hash, Metadata, Geolocation, Plot location on Google Maps and Google Earch):
 
 - Note: For this module DO NOT save your acquisitions on the Desktop, save for example in "C:\folder_name\collection_01" to run the image search.
 
@@ -313,7 +257,7 @@ message_add_on_flags
 
 https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090-b10c-5cd6f32ad023.mp4
 
-### 📜 (NEW) Plot (BATCH) of Geolocation of images on Google Earch (geo.kml) with patch and thumbnails of images.
+### 📜 (NEW) Plot (BATCH) of Geolocation of images on Google Earch (geo.kml) with patch and thumbnails of images:
 
 - Note: To plot the thumbnails along with the yellow points, download **Google Earch Pro**, if you plot on Google Earch Online, only the blue points will be plotted without the images.
 - Click on **GENERATE KML** to batch generate the **geo.kml** file
@@ -328,10 +272,10 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-04-10 (9)](https://user-images.githubusercontent.com/102838167/163808370-955743bd-bec6-483a-a8e2-e6e0b3349fca.png)
 
-### 🛠 Installing and Uninstalling APKs via ADB
+### 🛠 Installing and Uninstalling APKs via ADB:
 - .APK files
 
-### ⏳ HASH Calculator
+### ⏳ HASH Calculator:
 - Note: For this module DO NOT save your acquisitions on the Desktop, save for example in "C:\folder_name\collection_02" to calculate the Hashs of the files.
 - Calculates the Hash of all files in an acquisition.
 - SHA-256.
@@ -342,99 +286,99 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-03-28 (9)](https://user-images.githubusercontent.com/102838167/161402185-07ef2510-735f-4940-b56a-a7624e42f711.png)
 
-### 📱 (NOVO) Navegador de Pastas Android (PULL e PUSH)
-
-- Um Simples navegador de pastas para realizar o PULL e o PUSH de arquivos ou pastas.
+### 📱 (NEW) Android Folder Browser (PULL and PUSH):
+- A Simple folder browser to PULL and PUSH files or folders.
 
 ![2022-04-10 (1)](https://user-images.githubusercontent.com/102838167/163810052-a45ec6cc-8e92-4ff7-bfcd-b6da09e44a31.png)
 
-### 🎥 Espelhamento do Dispositivo
+### 🎥 Device Mirroring:
 - "C:\Forensics\bin\scrcpy"
 
 ![espeçhamento](https://user-images.githubusercontent.com/102838167/161463105-71285aa7-715c-450f-b259-c40c00b3a0a7.PNG)
 
-### 🚀 Raspagem de dados Instagram
+### 🚀 Instagram data scraping:
 
 ![2022-04-03 (7)](https://user-images.githubusercontent.com/102838167/161449129-c23ca774-f268-49ac-b7cf-30b1a305d4e5.png)
 
-### 🚀 Integração automática com o MVT-1.5.3
+### 🚀 Automatic integration with MVT-1.5.3:
 - "C:\Forensics\bin\mvt-1.5.3\mvt.bat"
 
 ![mvt](https://user-images.githubusercontent.com/102838167/161465986-08013fb5-d5b3-468f-bab2-a9f018904524.PNG)
 
-### 🚀 Acesso Através da Ferramenta ao JADX (Dex to Java Decompiler)
+### 🚀 Access Through the Tool to JADX (Dex to Java Decompiler):
 - "C:\Forensics\bin\jadx-1.2.0\jadx-gui-1.2.0-no-jre-win.exe"
 
-### 🚀 Acesso Através da Ferramenta ao WhatsApp Viewer
+### 🚀 Access Via Tool to WhatsApp Viewer:
 - "C:\Forensics\bin\WhatsAppViewer.exe"
 
-### 🚀 Acesso Através da Ferramenta ao BCV (Byte Code Viewer)
+### 🚀 Access Through the Tool to BCV (Byte Code Viewer):
 - "C:\Forensics\bin\bycodeviewer\GUI-ByteCode.bat"
 
-### 🚀 Acesso Através da Ferramenta ao SQLStudio
+### 🚀 Access Through the Tool to SQLStudio:
 - "C:\Forensics\bin\SQLiteStudio\SQLiteStudio.exe"
 
-### 🚀 Acesso Através da Ferramenta ao GPS PRUNE
+### 🚀 PRUNE GPS Tool Access:
 - "C:\Forensics\bin\gpsprune\GUI-GPSPrune.bat"
 
-## ⚙️ Pré-requisitos da Ferramenta
-- Conhecimentos TÉCNICOS de Forense em Dispositívos Móveis.
-- Dispositivo com modo DEPURAÇÂO ativado.
-- Windows 10/11 com suas devidas atualizações.
+## ⚙️ Tool Prerequisites:
+- TECHNICAL knowledge of Forensics in Mobile Devices.
+- Minimal computer knowledge
+- Device with DEBUG mode activated.
+- Windows 10/11 with its proper updates.
 
-## ⚙️ Pré-requisitos Ferramentas de Terceiros: 
+## ⚙️ Prerequisites Third-Party Tools: 
 - JAVA (https://www.java.com/pt-BR/).
 - PHYTON (https://www.python.org/).
 
-## 📋 Treinamentos
+## 📋 Trainings
 ![Banner sympla Extração Lógica Avançada com Avilla Forensics](https://user-images.githubusercontent.com/102838167/161400433-dd4cce07-161f-44b7-b506-378841ac64b4.png)
 
-- ACADEMIA DE FORENSE DIGITAL - AFD (Extração Avançada com Avilla Forensics).
+- ACADEMIA DE FORENSE DIGITAL - AFD (Advanced Extraction with Avilla Forensics).
 - https://academiadeforensedigital.com.br/
-- Sobre o curso: https://academiadeforensedigital.com.br/treinamentos/extracao-logica-avancada-com-avilla-forensics/
-- Link curso: https://pay2.provi.com.br/checkout/academia-de-forense-digital?courses=%5B33759%5D
-- Conteúdo do Curso: https://drive.google.com/file/d/1mARPeClW1o3EBNIcLh3i9YzBn_fGuSet/view
+- About the course: https://academiadeforensedigital.com.br/treinamentos/extracao-logica-avancada-com-avilla-forensics/
+- Course link: https://pay2.provi.com.br/checkout/academia-de-forense-digital?courses=%5B33759%5D
+- Course content: https://drive.google.com/file/d/1mARPeClW1o3EBNIcLh3i9YzBn_fGuSet/view
 - Webinar: [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
-- Manual e vídeo passo a passo elaborado pelo Policial Civil Emerson Borges - PC MG: 
+- Manual and step-by-step video prepared by Police Officer Emerson Borges - POLICE OF MINAS GERAIS - BRAZIL 
 - https://youtu.be/KuSmct1Qa30
 - [MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf](https://github.com/AvillaDaniel/AvillaForensics/files/8411988/MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf)
 
-## 💻 Instalação Avilla Forensics 3.0 
-- Ferramenta autoexecutável, não requer instalação.
-- Execute como administrador o arquivo "Avilla_Forensics.exe".
-- Execute a ferramenta a partir do "C:\".
-- Exemplo: C:\Forensics".
-- Não coloque espaços no nome da pasta da ferramenta.
+## 💻 Installation Avilla Forensics 3.0
+- Self-executing tool, no installation required.
+- Run the "Avilla_Forensics.exe" file as administrator.
+- Run the tool from "C:\".
+- Example: C:\Forensics".
+- **Do not put spaces in the tool folder name.**
 
-## 💻 Instalação Ferramentas de Terceiros
-### Requer JAVA (https://www.java.com/pt-BR/):
-- IPED-3.18.12 "C:\Forensics\IPED-3.18.12_and_plugins" (Apenas instalar o JAVA).
-- Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Apenas instalar o JAVA).
-- Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Apenas instalar o JAVA).
-- Backup Extractor: "C:\Forensics\backup_extractor" (Apenas instalar o JAVA).
-- O módulo Backup Extrator (.AB para .TAR) pode exigir que vc adicione o patch "C:\Forensics" nas variáveis do sistema.
-- GPS PRUNE "C:\Forensics\bin\gpsprune" (Apenas instalar o JAVA)..
+## 💻 Installing Third-Party Tools
+### Requires JAVA (https://www.java.com/pt-BR/):
+- IPED-3.18.12 "C:\Forensics\IPED-3.18.12_and_plugins" (Just install JAVA).
+- Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Just install JAVA).
+- Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA).
+- Backup Extractor: "C:\Forensics\backup_extractor" (Just install JAVA).
+- The Backup Extractor module (.AB to .TAR) may require you to add the "C:\Forensics" patch to the system variables.
+- GPS PRUNE "C:\Forensics\bin\gpsprune" (Just install JAVA).
 
-### Requer PHYTON (https://www.python.org/):
-- Instaloader: Para instalar execute o arquivo "C:\Forensics\bin\instaloader-master\install_instaloader.bat" ou:
+### Requires python (https://www.python.org/):
+- Instaloader: To install run the file "C:\Forensics\bin\instaloader-master\install_instaloader.bat" or:
 
-```pip install instaloader```
+```pip install installloader```
 
-- MVT-1.5.3: Para instalar execute o arquivo "C:\Forensics\bin\mvt-1.5.3\install_mvt.bat" ou:
+- MVT-1.5.3: To install run the file "C:\Forensics\bin\mvt-1.5.3\install_mvt.bat" or:
 
 ```pip install mvt```
 
-- Whacipher: Para instalar execute o arquivo "C:\Forensics\bin\install_whacipher.bat" ou:
+- Whacipher: To install run the file "C:\Forensics\bin\install_whacipher.bat" or:
 
-```pip install --upgrade -r requirements.txt```  
+```pip install --upgrade -r requirements.txt```
 
-- Whatsapp Media Decrypt: Para instalar execute o arquivo "C:\Forensics\bin\install_wmd.bat" ou:
+- Whatsapp Media Decrypt: To install run the file "C:\Forensics\bin\install_wmd.bat" or:
 
 ```pip install pycryptodome```  
 
 ## 🌐 Download
 
-### (NOVO) v1_0_0_177 - 02/05/2022 (980 MB) 
+### (NEW) v1_0_0_177 - 02/05/2022 (980 MB) 
 - https://www.avillaforensics.com.br/forensics.zip
 - MD5: A24D7F943FB6D2EFD67C0C517383B915
 - SHA1: 913FDD2D5392BB9FF2487521843C4A2CF13CC59B
@@ -442,30 +386,32 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - SHA384: E8249466558B17CA365F8860CE839B3BF76F5F0FB67AE15CCB7DC3AF5B04C53FF5A070A7A6372475CBDD788F0237CD68
 - SHA512: B8CB81A365FBE3A962F71AE2986C683B4CA12AA8CAC5313E419DC11CCB9DB06B141022E1D06E13AC00690FC72D3C390110146F6A8BA
 
-## ⚙️ Tecnologias utilizadas
+### BRIEF IN ENGLISH
+
+## ⚙️ Technologies used
 - C#.
 - Python.
 - Java.
+- 
+## 🚀 License
+- Free Software.
 
-## 🚀 Licença
-- Software Gratuito.
-
-## 🤖 Contatos
+## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
 - https://www.linkedin.com/in/daniel-a-avilla-0987/
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 📱  Ferramentas de terceiros inclusas no pacote
-- IPED-3.18.14: https://github.com/sepinf-inc/IPED (Requer Java).
-- Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requer Java).
+- IPED-3.18.14: https://github.com/sepinf-inc/IPED (Requires Java).
+- Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
-- Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requer Java).
-- GPS PRUNE: https://activityworkshop.net/software/gpsprune/download.html (Requer Java).
+- Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requires Java).
+- GPS PRUNE: https://activityworkshop.net/software/gpsprune/download.html (Requires Java).
 
-- Instaloader: https://github.com/instaloader/instaloader (Requer Python).
+- Instaloader: https://github.com/instaloader/instaloader (Requires Python).
 - MVT-1.5.3: https://github.com/mvt-project/mvt (Requer Python).
-- Whatsapp Encryption and Decryption: https://github.com/B16f00t/whapa (Requer Python).
-- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requer Python).
+- Whatsapp Encryption and Decryption: https://github.com/B16f00t/whapa (Requires Python).
+- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python).
 
 - Screen Copy: https://github.com/Genymobile/scrcpy
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics
@@ -474,7 +420,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Alias Connector: http://www.newseg.seg.br/newseg/
 - SqlStudio: https://sqlitestudio.pl/
 
-## 😎 Agradecimentos
+## 😎 Thanks
 
 ![LogoGrandecopy](https://user-images.githubusercontent.com/102838167/161445299-a5d6a50f-e2de-440d-bcbc-d364a365e64d.png)
 
