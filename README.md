@@ -73,6 +73,12 @@
   
 ![files-whats](https://user-images.githubusercontent.com/102838167/161401049-7402a3bd-06a2-48d8-9629-d0d93a61982a.PNG)
 
+### 📱 Caution
+
+![png-transparent-scalable-graphics-lib-computer-file-attention-angle-triangle-warning-sign](https://user-images.githubusercontent.com/102838167/173718191-2a69ef15-abcf-4a54-8d36-f81cfc402b39.png)
+
+- The Backup Downgrade procedure in ANDROID 12 can damage the database
+
 ### 🛠 Teste de APK DOWNGRADE
 - A ferramanta faz um teste em um aplicativo genérico (**com.aplicacaoteste.apk**) antes de iniciar o processo de DOWNGRADE no APP alvo.
 - Dicas: Telefones **XIAOMI** podem vir com proteções USB, remova essas proteções **sem tirar o dispositivo do modo avião** seguindo os passos abaixo:
