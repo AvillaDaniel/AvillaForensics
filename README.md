@@ -343,6 +343,8 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - In this example below, more than 36 thousand points were plotted on the map
 - Example data from .csv file: 2022-04-15T02:59:45.368Z,2022-04-15T02:59:45.368, (Latitude/Column 2) -23.7416538, (Longitude/Column 3) -46.5744873,15,WIFI,1663554331,ANDROID
 
+![print-kml-1](https://user-images.githubusercontent.com/102838167/176760912-73580348-6503-43b6-b1dc-071996cca99d.PNG)
+
 ![plotagem2](https://user-images.githubusercontent.com/102838167/176758721-70e53924-bc1f-4c83-bb81-54061fb1a328.PNG)
 
 ![plotagem3](https://user-images.githubusercontent.com/102838167/176758738-fea4c916-9bea-4cb3-9190-24e199522aa2.PNG)
