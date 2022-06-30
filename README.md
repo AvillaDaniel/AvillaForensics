@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# Avilla Forensics 3.0 (Soon translated version into English)
+# Avilla Forensics 3.0 - Translated into english (v1_0_0_183)
 
 # ⭐️ Project description:
 
@@ -96,6 +96,9 @@
 2. Select the folder: **\com.whatsapp\f\Avatars**
 3. Select the .DB file: **\com.whatsapp\db\msgstore.db**
 
+- (NEW) In the "Generate Whatsapp Chats" modules it is possible to plot the transcripts in HTML.
+- (NEW) You can also transcribe the audios along with Whatsapp parser process.
+
 - New Schema (Table: **message**):
 - Fields:
 - _id, chat_row_id, from_me, key_id, sender_jid_row_id, status,broadcast, recipient_count, participant_hash, origination_flags, origin, timestamp
@@ -113,6 +116,9 @@ received_timestamp, receipt_server_timestamp, message_type, text_data (Mensagens
 2. Select the folder: **\com.whatsapp\f\Avatars**
 3. Select the .DB file: **\com.whatsapp\db\msgstore.db**
 
+- (NEW) In the "Generate Whatsapp Chats" modules it is possible to plot the transcripts in HTML.
+- (NEW) You can also transcribe the audios along with Whatsapp parser process.
+
 - Old Schema (Table: **messages**)
 - Fields:
 - _id, key_remote_jid, key_from_me, key_id, status, needs_push, data (Mensagens), timestamp, media_url, media_mime_type, media_wa_type, media_size, media_name, media_caption, media_hash, media_durationorigin, latitude, longitude, thumb_image, remote_resource, received_timestamp, send_timestamp,
@@ -122,6 +128,18 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 ![2022-04-17](https://user-images.githubusercontent.com/102838167/163806680-08ae4135-d180-48f5-8c3e-99fc83a86a34.png)
 
 ![2022-04-17 (4)](https://user-images.githubusercontent.com/102838167/163806716-e2f002d0-45ec-42e8-be20-fdd8ace00129.png)
+
+### 💬 (NEW) Whatsapp .opus audio transcription and transcription plot in CHATS HTML PARSER:
+
+- In the "OPUS audio transcription" module you can transcribe one or thousands of audios at the same time.
+- In the "Generate Whatsapp Chats" modules it is possible to plot the transcripts in HTML.
+- You can also transcribe the audios along with Whatsapp parser process.
+
+![Print-Opus](https://user-images.githubusercontent.com/102838167/176755084-6182aba3-5e71-4d50-b2e1-9ede2b20b632.PNG)
+
+![Print-Opus1](https://user-images.githubusercontent.com/102838167/176755130-c1be9908-fb8e-4756-b377-9caa522aa68b.PNG)
+
+![parser](https://user-images.githubusercontent.com/102838167/176756128-efc2febf-56da-4083-be5b-31604418083b.PNG)
 
 ### 📱 Miscellaneous ADB collections in .TXT format:
 - System Properties (Full).
@@ -320,6 +338,15 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### 🚀 PRUNE GPS Tool Access:
 - "C:\Forensics\bin\gpsprune\GUI-GPSPrune.bat"
 
+### 📱 Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
+- Plotting thousands of points on the map in seconds
+- In this example below, more than 36 thousand points were plotted on the map
+- Example data from .csv file: 2022-04-15T02:59:45.368Z,2022-04-15T02:59:45.368, (Latitude/Column 2) -23.7416538, (Longitude/Column 3) -46.5744873,15,WIFI,1663554331,ANDROID
+
+![plotagem2](https://user-images.githubusercontent.com/102838167/176758721-70e53924-bc1f-4c83-bb81-54061fb1a328.PNG)
+
+![plotagem3](https://user-images.githubusercontent.com/102838167/176758738-fea4c916-9bea-4cb3-9190-24e199522aa2.PNG)
+
 ## ⚙️ Tool Prerequisites:
 - TECHNICAL knowledge of Forensics in Mobile Devices.
 - Minimal computer knowledge
@@ -330,7 +357,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - JAVA (https://www.java.com/pt-BR/).
 - PHYTON (https://www.python.org/).
 
-## 📋 Trainings
+## 📋 Trainings (Portuguese)
 ![Banner sympla Extração Lógica Avançada com Avilla Forensics](https://user-images.githubusercontent.com/102838167/161400433-dd4cce07-161f-44b7-b506-378841ac64b4.png)
 
 - ACADEMIA DE FORENSE DIGITAL - AFD (Advanced Extraction with Avilla Forensics).
@@ -342,6 +369,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Manual and step-by-step video prepared by Police Officer Emerson Borges - POLICE OF MINAS GERAIS - BRAZIL 
 - https://youtu.be/KuSmct1Qa30
 - [MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf](https://github.com/AvillaDaniel/AvillaForensics/files/8411988/MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf)
+
+## 📋 Trainings (English)
+- In progress
 
 ## 💻 Installation Avilla Forensics 3.0
 - Self-executing tool, no installation required.
@@ -378,15 +408,13 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 🌐 Download
 
-### (NEW) v1_0_0_177 - 02/05/2022 (980 MB) 
+### (NEW) Translated into english (v1_0_0_183) - 30/06/2022 (1,71 GB) 
 - https://www.avillaforensics.com.br/forensics.zip
-- MD5: A24D7F943FB6D2EFD67C0C517383B915
-- SHA1: 913FDD2D5392BB9FF2487521843C4A2CF13CC59B
-- SHA256: AC02FE209C19F1D1C01BEB8E457A148E7C7820D3D5C1AB882FDB30F7DBA54E8F
-- SHA384: E8249466558B17CA365F8860CE839B3BF76F5F0FB67AE15CCB7DC3AF5B04C53FF5A070A7A6372475CBDD788F0237CD68
-- SHA512: B8CB81A365FBE3A962F71AE2986C683B4CA12AA8CAC5313E419DC11CCB9DB06B141022E1D06E13AC00690FC72D3C390110146F6A8BA
-
-### BRIEF IN ENGLISH
+- MD5: E479583BBDFE5DF73FB11AB2770B2E09
+- SHA1: 3E36FD6FB0272A28C911A89B1B734490075865CD
+- SHA256: AAED259E0E7D6ECC0533CDB1DFE29F00FAEBDFA331CC4218A521DFB49854F59E
+- SHA384: 04E1C85C9461EDBECDDFA805B2D0899AE0BAD1D8822483C1AE164BD4512E263833CBFA134E5C3C44BA2090C07C2ED32B
+- SHA512: 120E5A57307B005A1AEF0BCA61031C26EC6E22904D04D22035D0D679EF0E7BB1C13AEAFA99D05D77EA0577A685145FC1A3DEAA74C846FD2C0533DDED1EA2D50B
 
 ## ⚙️ Technologies used
 - C#.
@@ -401,7 +429,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - https://www.linkedin.com/in/daniel-a-avilla-0987/
 - daniel.avilla@policiacivil.sp.gov.br
 
-## 📱  Ferramentas de terceiros inclusas no pacote
+## 📱  Third-party tools included in the package
 - IPED-3.18.14: https://github.com/sepinf-inc/IPED (Requires Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
@@ -419,6 +447,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Grep: https://git-scm.com/docs/git-grep
 - Alias Connector: http://www.newseg.seg.br/newseg/
 - SqlStudio: https://sqlitestudio.pl/
+- https://github.com/Uberi/speech_recognition
+- https://github.com/delcristianoritta/whatsapptranscriber
+- http://www.newseg.seg.br/newseg/
 
 ## 😎 Thanks
 
