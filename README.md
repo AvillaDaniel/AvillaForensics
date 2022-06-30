@@ -4,7 +4,9 @@
 
 # ⭐️ Project description:
 
-- Free Mobile Forensics Tool that allows you to: 
+- Free Mobile Forensics Tool that allows you to:
+- It is important that you take the training to ensure greater security and success in acquisitions without data loss (Brief training in the English language).
+- É importante que você faça o treinamento para garantir maior segurança e sucesso nas aquisições sem perda de dados, veja no final da página.
 
 1.	Backup ADB.
 2.	APK Downgrade in 15 Apps: WhatsApp (com.whatsapp), Telegram (org.telegram.messenger), Messenger (com.facebook.orca), ICQ (com.icq.mobile.client), Twitter (com.twitter.android), Instagram (com.instagram.android), Signal (org.thoughtcrime.securems), Linkdin (com.linkedin.android), Tiktok (com.zhiliaoapp.musically), Snapchat (com.snapchat.android), Tinder (com.tinder), Badoo (com.badoo.mobile), Mozilla Firefox (org.mozilla.firefox), Dropbox (com.drobox.android), Alibaba (com.alibaba.intl.android.apps.poseidon)).
