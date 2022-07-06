@@ -428,7 +428,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### 🚀 Donate:
 
 - Donate Pypal:
-- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Ferananda Santos)
+- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
 
 ![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
 
