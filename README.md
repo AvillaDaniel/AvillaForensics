@@ -136,12 +136,15 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 - In the "OPUS audio transcription" module you can transcribe one or thousands of audios at the same time.
 - In the "Generate Whatsapp Chats" modules it is possible to plot the transcripts in HTML.
 - You can also transcribe the audios along with Whatsapp parser process.
+- Generate HTML report with transcribed texts, hash, contact linked to audio and chat linked to audio.
 
 ![Print-Opus](https://user-images.githubusercontent.com/102838167/176755084-6182aba3-5e71-4d50-b2e1-9ede2b20b632.PNG)
 
 ![Print-Opus1](https://user-images.githubusercontent.com/102838167/176755130-c1be9908-fb8e-4756-b377-9caa522aa68b.PNG)
 
 ![parser](https://user-images.githubusercontent.com/102838167/176756128-efc2febf-56da-4083-be5b-31604418083b.PNG)
+
+![Print_relatorio-audios](https://user-images.githubusercontent.com/102838167/177615504-59968751-d504-496d-bfa8-1316a5790c46.PNG)
 
 ### 📱 Miscellaneous ADB collections in .TXT format:
 - System Properties (Full).
@@ -412,13 +415,27 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 🌐 Download
 
-### (NEW) Translated into english (v1_0_0_183) - 30/06/2022 (1,71 GB) 
-- https://www.avillaforensics.com.br/forensics.zip
-- MD5: E479583BBDFE5DF73FB11AB2770B2E09
-- SHA1: 3E36FD6FB0272A28C911A89B1B734490075865CD
-- SHA256: AAED259E0E7D6ECC0533CDB1DFE29F00FAEBDFA331CC4218A521DFB49854F59E
-- SHA384: 04E1C85C9461EDBECDDFA805B2D0899AE0BAD1D8822483C1AE164BD4512E263833CBFA134E5C3C44BA2090C07C2ED32B
-- SHA512: 120E5A57307B005A1AEF0BCA61031C26EC6E22904D04D22035D0D679EF0E7BB1C13AEAFA99D05D77EA0577A685145FC1A3DEAA74C846FD2C0533DDED1EA2D50B
+### (NEW) Translated into english (v1_0_0_185) - 06/07/2022 (1,19 GB) 
+- https://www.avillaforensics.com.br/avilla/forensics.zip
+- https://1drv.ms/u/s!AuRZbqnWANDKve0XC1CWoHWgFhDNrg?e=HrY8oN (Ondrive)
+- https://drive.google.com/drive/folders/1OXVhSyn8363gpqsc47u3tFNB7FqVfV21?usp=sharing (Google Drive)
+- MD5: 60F7E593A66D963965E99C4DC4CAF795
+- SHA1: FB7879CCF0F89EAF24F0F980A67E0F70C980596F
+- SHA256: ABDE5E529D160560B37F4A1A1FBF7B93EA379082D40F7DAC85164F11AABB0B93
+- SHA384: 39E71FF69106040E90FA3D46E1EEE7CE0063896E143D7CCF476AF8AC0A85E4741A25FCA9939C852A56C4B780DD7E0F59
+- SHA512: 0C20790B2915723EA486ECE1E74AA503D3C58E5B8DC1D169ECEFF8D8B5BE94795B533569071D6D62F8AE6382DEB4A49E495E2F89316AF247A8CDE929FE870E70
+
+### 🚀 Donate:
+
+- Donate Pypal:
+![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
+- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG 
+- (Ferananda Santos)
+
+- Doação pagseguro:
+![pag](https://user-images.githubusercontent.com/102838167/177612602-10a397c7-8f6a-43e5-9e8e-7d3e12d54f9a.PNG)
+- Link: https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=2930fa8d59164d594a4c5b9b217472d79419ae9b60896765812aa72b1c1f38f7&e=true
+- (Daniel Hubscher Avilla)
 
 ## ⚙️ Technologies used
 - C#.
