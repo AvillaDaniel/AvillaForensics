@@ -415,7 +415,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 🌐 Download
 
-### (NEW) Translated into english (v1_0_0_185) - 06/07/2022 (1,19 GB) 
+### (NEW) Translated into english (v1_0_0_186) - 06/07/2022 (1,19 GB) 
 - https://www.avillaforensics.com.br/avilla/forensics.zip
 - https://1drv.ms/u/s!AuRZbqnWANDKve0XC1CWoHWgFhDNrg?e=HrY8oN (Ondrive)
 - https://drive.google.com/drive/folders/1OXVhSyn8363gpqsc47u3tFNB7FqVfV21?usp=sharing (Google Drive)
@@ -428,14 +428,15 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### 🚀 Donate:
 
 - Donate Pypal:
+- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Ferananda Santos)
+
 ![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
-- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG 
-- (Ferananda Santos)
 
 - Doação pagseguro:
+
+- Link: https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=2930fa8d59164d594a4c5b9b217472d79419ae9b60896765812aa72b1c1f38f7&e=true (Daniel Hubscher Avilla)
+
 ![pag](https://user-images.githubusercontent.com/102838167/177612602-10a397c7-8f6a-43e5-9e8e-7d3e12d54f9a.PNG)
-- Link: https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=2930fa8d59164d594a4c5b9b217472d79419ae9b60896765812aa72b1c1f38f7&e=true
-- (Daniel Hubscher Avilla)
 
 ## ⚙️ Technologies used
 - C#.
