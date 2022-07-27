@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# Avilla Forensics 3.0 - Translated into english (v1_0_0_183)
+# Avilla Forensics 3.0 - Translated into english (v1_0_0_186)
 
 # ⭐️ Project description:
 
@@ -11,32 +11,34 @@
 1.	Backup ADB.
 2.	APK Downgrade in 15 Apps: WhatsApp (com.whatsapp), Telegram (org.telegram.messenger), Messenger (com.facebook.orca), ICQ (com.icq.mobile.client), Twitter (com.twitter.android), Instagram (com.instagram.android), Signal (org.thoughtcrime.securems), Linkdin (com.linkedin.android), Tiktok (com.zhiliaoapp.musically), Snapchat (com.snapchat.android), Tinder (com.tinder), Badoo (com.badoo.mobile), Mozilla Firefox (org.mozilla.firefox), Dropbox (com.drobox.android), Alibaba (com.alibaba.intl.android.apps.poseidon)).
 3.	Parser Chats WhatsApp.
-4. Miscellaneous ADB collections: (System Properties (Full), Dumpsys (Full), Disktats (Disk Information), Android Geolocation Dump (Location Manager State), IMEI (01 ,02), S/N (Serial Number), Processes, TCP (Active Internet connections), Accounts (UserInfo), DUMP Wifi, DUMP Detailed Wifi, CPU Information, Memory Information, Display Information (WINDOW MANAGER DISPLAY CONTENTS), Resources, Resolution (Physical size), Screen Dump (.XML file), Dump Backup (Backup Manager is enabled), List Installed Third-Party Applications, List Native System Applications, Contacts, SMS, System Events, Active Users, Android Version, DB Info (Applications Database Info), On/Off History, LogCat, Space In Use Information, Carrier, Bluetooth (Bluetooth Status), Image File Location, Audio File Location, Video File Location, Face Recognition DUMP, Global Settings, Security Settings a, System Settings, Remove/Add PIN (Requires current PIN), DUMP ADB (ADB Connections), Reboot, Reboot Recovery Mode, Reboot Bootloader Mode, Reboot Fastboot Mode.
-5. Tracking, Downloading and Decryption of Whatsapp .ENC files.
-6. Contact List Search.
-7. Deleted WhatsApp Photos Avatars and Contacts.
-8. Decrypting WhatsApp Databases.
-9. Screenshots.
-10. Screen DUMP.
-11. Chat Capture.
-12. Automatic integration with IPED.
-13. Automatic integration with AFLogical.
-14. Automatic integration with Alias ​​Connector.
-15. Conversion from .AB to .TAR.
-16. Fast Scan and Real-time Transfer .
-17. Image Finder (Hash, Metadata, Geolocation, Plotting the location on Google Maps and Google Earch).
-18. Plotting (IN BATCHES) of the Geolocation of images on Google Earch (geo.kml) with patch and thumbnails of the images.
-19. Installing and Uninstalling APKs via ADB.
-20. HASH Calculator.
-21. Android Folder Browser (PULL and PUSH).
-22. Device Mirroring.
-23. Instagram Data Scraping.
-24. Automatic integration with MVT-1.5.3.
-25. Access Through the Tool to JADX.
-26. Access Through the Tool to WhatsApp Viewer.
-27. Access Through the Tool to the BCV.
-28. Access Through the Tool to SQLStudio.
-29. PRUNE GPS Tool Access.
+4. (NEW) Whatsapp .opus audio transcription and transcription plot in CHATS HTML PARSER:
+5. Miscellaneous ADB collections: (System Properties (Full), Dumpsys (Full), Disktats (Disk Information), Android Geolocation Dump (Location Manager State), IMEI (01 ,02), S/N (Serial Number), Processes, TCP (Active Internet connections), Accounts (UserInfo), DUMP Wifi, DUMP Detailed Wifi, CPU Information, Memory Information, Display Information (WINDOW MANAGER DISPLAY CONTENTS), Resources, Resolution (Physical size), Screen Dump (.XML file), Dump Backup (Backup Manager is enabled), List Installed Third-Party Applications, List Native System Applications, Contacts, SMS, System Events, Active Users, Android Version, DB Info (Applications Database Info), On/Off History, LogCat, Space In Use Information, Carrier, Bluetooth (Bluetooth Status), Image File Location, Audio File Location, Video File Location, Face Recognition DUMP, Global Settings, Security Settings a, System Settings, Remove/Add PIN (Requires current PIN), DUMP ADB (ADB Connections), Reboot, Reboot Recovery Mode, Reboot Bootloader Mode, Reboot Fastboot Mode.
+6. Tracking, Downloading and Decryption of Whatsapp .ENC files.
+7. Contact List Search.
+8. Deleted WhatsApp Photos Avatars and Contacts.
+9. Decrypting WhatsApp Databases.
+10. Screenshots.
+11. Screen DUMP.
+12. Chat Capture.
+13. Automatic integration with IPED.
+14. Automatic integration with AFLogical.
+15. Automatic integration with Alias ​​Connector.
+16. Conversion from .AB to .TAR.
+17. Fast Scan and Real-time Transfer .
+18. Image Finder (Hash, Metadata, Geolocation, Plotting the location on Google Maps and Google Earch).
+19. Plotting (IN BATCHES) of the Geolocation of images on Google Earch (geo.kml) with patch and thumbnails of the images.
+20. Installing and Uninstalling APKs via ADB.
+21. HASH Calculator.
+22. Android Folder Browser (PULL and PUSH).
+23. Device Mirroring.
+24. Instagram Data Scraping.
+25. Automatic integration with MVT-1.5.3.
+26. Access Through the Tool to JADX.
+27. Access Through the Tool to WhatsApp Viewer.
+28. Access Through the Tool to the BCV.
+29. Access Through the Tool to SQLStudio.
+30. PRUNE GPS Tool Access.
+31.  Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
