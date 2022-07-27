@@ -372,7 +372,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - ACADEMIA DE FORENSE DIGITAL - AFD (Advanced Extraction with Avilla Forensics).
 - https://academiadeforensedigital.com.br/
 - About the course: https://academiadeforensedigital.com.br/treinamentos/extracao-logica-avancada-com-avilla-forensics/
-- Course link: https://pay2.provi.com.br/checkout/academia-de-forense-digital?courses=%5B33759%5D
 - Course content: https://drive.google.com/file/d/1mARPeClW1o3EBNIcLh3i9YzBn_fGuSet/view
 - Webinar: [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
 - Manual and step-by-step video prepared by Police Officer Emerson Borges - POLICE OF MINAS GERAIS - BRAZIL 
