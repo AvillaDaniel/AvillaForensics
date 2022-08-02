@@ -22,7 +22,7 @@
 12. Chat Capture.
 13. Automatic integration with IPED.
 14. Automatic integration with AFLogical.
-15. Automatic integration with Alias ​​Connector.
+15. Automatic integration with Alias Connector.
 16. Conversion from .AB to .TAR.
 17. Fast Scan and Real-time Transfer .
 18. Image Finder (Hash, Metadata, Geolocation, Plotting the location on Google Maps and Google Earch).
@@ -390,7 +390,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 💻 Installing Third-Party Tools
 ### Requires JAVA (https://www.java.com/pt-BR/):
-- IPED-3.18.12 "C:\Forensics\IPED-3.18.12_and_plugins" (Just install JAVA).
+- IPED-4.0.1 "C:\Forensics\IPED-4.0.1_and_plugins" (Just install JAVA).
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Just install JAVA).
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA).
 - Backup Extractor: "C:\Forensics\backup_extractor" (Just install JAVA).
@@ -452,7 +452,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 📱  Third-party tools included in the package
-- IPED-3.18.14: https://github.com/sepinf-inc/IPED (Requires Java).
+- IPED-4.0.1: https://github.com/sepinf-inc/IPED (Requires Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
 - Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requires Java).
@@ -469,9 +469,10 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Grep: https://git-scm.com/docs/git-grep
 - Alias Connector: http://www.newseg.seg.br/newseg/
 - SqlStudio: https://sqlitestudio.pl/
-- https://github.com/Uberi/speech_recognition
-- https://github.com/delcristianoritta/whatsapptranscriber
-- http://www.newseg.seg.br/newseg/
+- Audio transcription: https://github.com/Uberi/speech_recognition
+- Audio transcription: https://github.com/delcristianoritta/whatsapptranscriber
+- Audio transcription: http://www.newseg.seg.br/newseg/
+- IPED Tools: https://github.com/thiagofuer/IPEDTools_Releases/releases/tag/2.0.0
 
 ## 😎 Thanks
 
