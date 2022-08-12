@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# Avilla Forensics 3.0 - Translated into english (v1_0_0_186)
+# Avilla Forensics 3.0 - Translated into english (v1_0_0_188)
 
 # ⭐️ Project description:
 
@@ -16,29 +16,32 @@
 6. Tracking, Downloading and Decryption of Whatsapp .ENC files.
 7. Contact List Search.
 8. Deleted WhatsApp Photos Avatars and Contacts.
-9. Decrypting WhatsApp Databases.
+9. (NEW) Decrypting WhatsApp Databases Crypt 14/15
 10. Screenshots.
 11. Screen DUMP.
 12. Chat Capture.
 13. Automatic integration with IPED.
-14. Automatic integration with AFLogical.
-15. Automatic integration with Alias Connector.
-16. Conversion from .AB to .TAR.
-17. Fast Scan and Real-time Transfer .
-18. Image Finder (Hash, Metadata, Geolocation, Plotting the location on Google Maps and Google Earch).
-19. Plotting (IN BATCHES) of the Geolocation of images on Google Earch (geo.kml) with patch and thumbnails of the images.
-20. Installing and Uninstalling APKs via ADB.
-21. HASH Calculator.
-22. Android Folder Browser (PULL and PUSH).
-23. Device Mirroring.
-24. Instagram Data Scraping.
-25. Automatic integration with MVT-1.5.3.
-26. Access Through the Tool to JADX.
-27. Access Through the Tool to WhatsApp Viewer.
-28. Access Through the Tool to the BCV.
-29. Access Through the Tool to SQLStudio.
-30. PRUNE GPS Tool Access.
-31.  Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
+14. (NEW) Access Through the Tool to IPED Tools.
+15. Automatic integration with AFLogical.
+16. Automatic integration with Alias Connector.
+17. Conversion from .AB to .TAR.
+18. Fast Scan and Real-time Transfer .
+19. Image Finder (Hash, Metadata, Geolocation, Plotting the location on Google Maps and Google Earch).
+20. Plotting (IN BATCHES) of the Geolocation of images on Google Earch (geo.kml) with patch and thumbnails of the images.
+21. Installing and Uninstalling APKs via ADB.
+22. HASH Calculator.
+23. Android Folder Browser (PULL and PUSH).
+24. Device Mirroring.
+25. Instagram Data Scraping.
+26. General single copy
+27. Automatic integration with MVT-1.5.3.
+28. Access Through the Tool to JADX.
+29. Access Through the Tool to WhatsApp Viewer.
+30. Access Through the Tool to the BCV.
+31. Access Through the Tool to SQLStudio.
+32. PRUNE GPS Tool Access.
+33. Access Through the Tool to jExiftool GUI.
+34. Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
@@ -224,9 +227,11 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 
 ![contatos](https://user-images.githubusercontent.com/102838167/163809831-53167b37-2da5-43d0-96dd-9b596f1d2191.PNG)
 
-### 📐 WhatsApp Database Decryption:
-- Crypt12.
+### (NEW) 📐 WhatsApp Database Decryption:
 - Crypt14.
+- **Crypt15.**
+
+![3](https://user-images.githubusercontent.com/102838167/184434584-78a39ba9-6879-4c98-b512-4c91a81d0966.PNG)
 
 ### 📸 Screenshots, Screen DUMP and Chat Capture: 
 
@@ -240,6 +245,11 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 ![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
 
 ![2022-04-03 (11)](https://user-images.githubusercontent.com/102838167/161464428-226fe8f1-bebe-4d34-96af-95c7e0cff533.png)
+
+### 🚀 (NEW) Access Through the Tool to IPED Tools.
+- "C:\Forensics\bin\IPEDTools\IPEDTools.exe"
+
+![2](https://user-images.githubusercontent.com/102838167/184431890-01639fa1-82ad-4052-8e5e-e1eeaa621124.PNG)
 
 ### 🚀 Automatic integration with AFLogical OSE 1.5.2:
 
@@ -325,6 +335,12 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![2022-04-03 (7)](https://user-images.githubusercontent.com/102838167/161449129-c23ca774-f268-49ac-b7cf-30b1a305d4e5.png)
 
+### 🚀 General single copy:
+
+- If you have problems with "adb pull" or "adb backup", copy all files from the device in separate processes, copying one at a time.
+
+![1](https://user-images.githubusercontent.com/102838167/184433978-562436fb-3e5a-4bad-a00c-c9a932aa9bb2.PNG)
+
 ### 🚀 Automatic integration with MVT-1.5.3:
 - "C:\Forensics\bin\mvt-1.5.3\mvt.bat"
 
@@ -344,6 +360,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ### 🚀 PRUNE GPS Tool Access:
 - "C:\Forensics\bin\gpsprune\GUI-GPSPrune.bat"
+
+### 🚀 Access Through the Tool to jExiftool GUI:
+- "C:\Forensics\bin\exiftoolgui\jExifToolGUI.exe"
 
 ### 📱 Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
 - Plotting thousands of points on the map in seconds
@@ -390,12 +409,14 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 💻 Installing Third-Party Tools
 ### Requires JAVA (https://www.java.com/pt-BR/):
-- IPED-4.0.1 "C:\Forensics\IPED-4.0.1_and_plugins" (Just install JAVA).
+- IPED-4.0.1: "C:\Forensics\IPED-4.0.1_and_plugins" (Just install JAVA).
+- IPED Tools: "C:\Forensics\bin\IPEDTools\IPEDTools.exe" Just install JAVA).
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Just install JAVA).
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA).
 - Backup Extractor: "C:\Forensics\backup_extractor" (Just install JAVA).
 - The Backup Extractor module (.AB to .TAR) may require you to add the "C:\Forensics" patch to the system variables.
-- GPS PRUNE "C:\Forensics\bin\gpsprune" (Just install JAVA).
+- GPS PRUNE: "C:\Forensics\bin\gpsprune" (Just install JAVA).
+- jExiftool GUI: "C:\Forensics\bin\exiftoolgui\jExifToolGUI.exe" (Just install JAVA).
 
 ### Requires python (https://www.python.org/):
 - Instaloader: To install run the file "C:\Forensics\bin\instaloader-master\install_instaloader.bat" or:
@@ -410,21 +431,21 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ```pip install --upgrade -r requirements.txt```
 
-- Whatsapp Media Decrypt: To install run the file "C:\Forensics\bin\install_wmd.bat" or:
+- WhatsApp-Crypt14-Crypt15-Decrypt: To install run the file "C:\Forensics\bin\WhatsApp-Crypt14-Crypt15-Decrypter-main\install-Decrypter.bat" or:
 
-```pip install pycryptodome```  
+```pip install -r requirements.txt```  
 
 ## 🌐 Download
 
-### (NEW) Translated into english (v1_0_0_186) - 06/07/2022 (1,19 GB) 
-- https://www.avillaforensics.com.br/avilla/forensics.zip
-- https://1drv.ms/u/s!AuRZbqnWANDKve0XC1CWoHWgFhDNrg?e=HrY8oN (Ondrive)
-- https://drive.google.com/drive/folders/1OXVhSyn8363gpqsc47u3tFNB7FqVfV21?usp=sharing (Google Drive)
-- MD5: 60F7E593A66D963965E99C4DC4CAF795
-- SHA1: FB7879CCF0F89EAF24F0F980A67E0F70C980596F
-- SHA256: ABDE5E529D160560B37F4A1A1FBF7B93EA379082D40F7DAC85164F11AABB0B93
-- SHA384: 39E71FF69106040E90FA3D46E1EEE7CE0063896E143D7CCF476AF8AC0A85E4741A25FCA9939C852A56C4B780DD7E0F59
-- SHA512: 0C20790B2915723EA486ECE1E74AA503D3C58E5B8DC1D169ECEFF8D8B5BE94795B533569071D6D62F8AE6382DEB4A49E495E2F89316AF247A8CDE929FE870E70
+### (NEW) Translated into english (v1_0_0_188)
+- 
+- (Ondrive)
+- (Google Drive)
+- MD5: 
+- SHA1: 
+- SHA256: 
+- SHA384: 
+- SHA512:
 
 ### 🚀 Donate:
 
@@ -453,14 +474,16 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 📱  Third-party tools included in the package
 - IPED-4.0.1: https://github.com/sepinf-inc/IPED (Requires Java).
+- IPED Tools: https://github.com/thiagofuer/IPEDTools_Releases/releases (Requires Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
 - Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requires Java).
 - GPS PRUNE: https://activityworkshop.net/software/gpsprune/download.html (Requires Java).
+- jExiftool GUI: https://github.com/hvdwolf/jExifToolGUI (Requires Java).
 
 - Instaloader: https://github.com/instaloader/instaloader (Requires Python).
 - MVT-1.5.3: https://github.com/mvt-project/mvt (Requer Python).
-- Whatsapp Encryption and Decryption: https://github.com/B16f00t/whapa (Requires Python).
+- WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python).
 - Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python).
 
 - Screen Copy: https://github.com/Genymobile/scrcpy
@@ -472,7 +495,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Audio transcription: https://github.com/Uberi/speech_recognition
 - Audio transcription: https://github.com/delcristianoritta/whatsapptranscriber
 - Audio transcription: http://www.newseg.seg.br/newseg/
-- IPED Tools: https://github.com/thiagofuer/IPEDTools_Releases/releases/tag/2.0.0
 
 ## 😎 Thanks
 
