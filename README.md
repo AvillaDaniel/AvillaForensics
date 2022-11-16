@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# Avilla Forensics 3.0 - Translated into english (v1_0_0_188)
+# Avilla Forensics 3.0 - Translated into english (v1_0_0_204)
 
 # ⭐️ Project description:
 
@@ -42,6 +42,7 @@
 32. PRUNE GPS Tool Access.
 33. Access Through the Tool to jExiftool GUI.
 34. Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
+35. Merge WhatsApp DATABASES
 
 ![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
 
@@ -375,6 +376,12 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![plotagem3](https://user-images.githubusercontent.com/102838167/176758738-fea4c916-9bea-4cb3-9190-24e199522aa2.PNG)
 
+### (NEW) 📱 Merge WhatsApp DATABASES:
+
+- "C:\Forensics\bin\merge\merge_databases_exe\merge_databases.exe -lv"
+
+![merge](https://user-images.githubusercontent.com/102838167/202287723-390aabae-6d06-47aa-975b-360a0c0bb841.PNG)
+
 ## ⚙️ Tool Prerequisites:
 - TECHNICAL knowledge of Forensics in Mobile Devices.
 - Minimal computer knowledge
@@ -409,7 +416,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 💻 Installing Third-Party Tools
 ### Requires JAVA (https://www.java.com/pt-BR/):
-- IPED-4.0.1: "C:\Forensics\IPED-4.0.1_and_plugins" (Just install JAVA).
+- IPED-4.0.1: "C:\Forensics\IPED-4.0.6_and_plugins" (Just install JAVA).
 - IPED Tools: "C:\Forensics\bin\IPEDTools\IPEDTools.exe" Just install JAVA).
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Just install JAVA).
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA).
@@ -437,17 +444,13 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 🌐 Download
 
-### (NEW) Translated into english (v1_0_0_188) - (1.17 GB)
-- https://www.avillaforensics.com.br/avilla/Forensics.zip
-- https://1drv.ms/u/s!AuRZbqnWANDKve0XC1CWoHWgFhDNrg?e=4gzQio (Ondrive)
-- https://drive.google.com/file/d/155NtMyd0hVSzovbSnmgWKGG-wYRoBSx7/view?usp=sharing (Google Drive)
-- MD5: A800F47B699DF7677AD260520A052F96
-- SHA1: 45E940B1C615F41080DB7C4AB9E887587D2D6FDC
-- SHA256: E77DB3875E0C2936B39CE2704F186026DFD2DC371CA72F38BA0827BA15B732EF
-- SHA384: F5F75B8826A445430B3F67978A97B8C21D35C8131D80396B143F3B6A0375CBA7CD1212DBF505054A915C10341242D53F
-- SHA512: 955335CC58549A4E8E504B247512C02049CE1EC3F452B6901920782A46DA297A74E3934F7988361DDA5B5082C54B937AB6289482D3DF0ED74534FDB5629DEFF3
+### (NEW) Translated into english (v1_0_0_204) - (1.20 GB)
+- https://drive.google.com/file/d/19bhsjHrh8MdW8mgSh_K5pc1rlfLcasA7/view?usp=share_link(Google Drive)
+- SHA256: 4ABE4EE30FA82A30EE3BAAE0F3CB1602E1EF291F8C1C082F479042E259CA9F50
 
 ### 🚀 Donate:
+
+- PIX: 32145140832 (DANIEL HUBSCHER AVILLA)
 
 - Donate Pypal:
 - Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
@@ -473,7 +476,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 📱  Third-party tools included in the package
-- IPED-4.0.1: https://github.com/sepinf-inc/IPED (Requires Java).
+- IPED-4.0.6: https://github.com/sepinf-inc/IPED (Requires Java).
 - IPED Tools: https://github.com/thiagofuer/IPEDTools_Releases/releases (Requires Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
@@ -482,7 +485,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - jExiftool GUI: https://github.com/hvdwolf/jExifToolGUI (Requires Java).
 
 - Instaloader: https://github.com/instaloader/instaloader (Requires Python).
-- MVT-1.5.3: https://github.com/mvt-project/mvt (Requer Python).
+- MVT: https://github.com/mvt-project/mvt (Requer Python).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python).
 - Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python).
 
