@@ -450,17 +450,12 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ### 🚀 Donate:
 
-- PIX: 32145140832 (DANIEL HUBSCHER AVILLA)
+- CHAVE PIX: 3901d8ea-22ca-4ba8-a0fb-2615e5485b2c
 
 - Donate Pypal:
 - Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
 
 ![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
-
-- Doação pagseguro:
-- Link: https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=2930fa8d59164d594a4c5b9b217472d79419ae9b60896765812aa72b1c1f38f7&e=true (Daniel Hubscher Avilla)
-
-![pag](https://user-images.githubusercontent.com/102838167/177616982-741c2ba7-9b52-4d6d-911b-3887fc4b433e.PNG)
 
 ## ⚙️ Technologies used
 - C#.
