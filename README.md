@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# Avilla Forensics 3.0 - Translated into english (v1_0_0_204)
+# Avilla Forensics 3.5 - (v1_0_0_264)
 
 # ⭐️ Project description:
 - I have a passion for mobile digital forensics and the art of data extractions.
@@ -416,7 +416,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 💻 Installing Third-Party Tools
 ### Requires JAVA (https://www.java.com/pt-BR/):
-- IPED-4.0.1: "C:\Forensics\IPED-4.0.6_and_plugins" (Just install JAVA).
+- IPED-4.1.1: "C:\Forensics\IPED-4.0.6_and_plugins" (Just install JAVA).
 - IPED Tools: "C:\Forensics\bin\IPEDTools\IPEDTools.exe" Just install JAVA).
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Just install JAVA).
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA).
@@ -444,9 +444,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 🌐 Download
 
-### (NEW) Translated into english (v1_0_0_204) - (1.20 GB)
-- https://drive.google.com/file/d/19bhsjHrh8MdW8mgSh_K5pc1rlfLcasA7/view?usp=share_link (Google Drive)
-- SHA256: 4ABE4EE30FA82A30EE3BAAE0F3CB1602E1EF291F8C1C082F479042E259CA9F50
+### (NEW) Translated into english (v1_0_0_264) - (1.94 GB)
+- https://academiadeforensedigital.com.br/treinamento-oficial-sobre-avilla-forensics/
+- SHA256: 77ba64d3211eabe8020ec6ac81f9ff2d42966724a699b913a8c8b36454d4db3a
 
 ### 🚀 Donate:
 
@@ -471,7 +471,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 📱  Third-party tools included in the package
-- IPED-4.0.6: https://github.com/sepinf-inc/IPED (Requires Java).
+- IPED-4.1.1: https://github.com/sepinf-inc/IPED (Requires Java).
 - IPED Tools: https://github.com/thiagofuer/IPEDTools_Releases/releases (Requires Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
