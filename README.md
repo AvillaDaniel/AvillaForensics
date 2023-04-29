@@ -394,12 +394,13 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ## 📋 Trainings (English)
 - In progress
 
-## 💻 Installation Avilla Forensics 3.0
-- Self-executing tool, no installation required.
-- Run the "Avilla_Forensics.exe" file as administrator.
+## 💻 Installation Avilla Forensics 3.5
+
 - Run the tool from "C:\".
-- Example: C:\Forensics".
+- Example: C:\Forensics-3-5".
 - **Do not put spaces in the tool folder name.**
+
+![INSTALL](https://user-images.githubusercontent.com/102838167/235308795-9bbf5afd-24b3-4be9-b011-d4b53e6fabed.PNG)
 
 ## 💻 Installing Third-Party Tools
 ### Requires JAVA (https://www.java.com/pt-BR/):
