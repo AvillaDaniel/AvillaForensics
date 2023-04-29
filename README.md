@@ -396,8 +396,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 💻 Installation Avilla Forensics 3.5
 
-- Run the tool from "C:\".
-- Example: C:\Forensics-3-5".
+- Extract the tool from "C:\Forensics-3-5".
 - **Do not put spaces in the tool folder name.**
 
 ![INSTALL](https://user-images.githubusercontent.com/102838167/235308795-9bbf5afd-24b3-4be9-b011-d4b53e6fabed.PNG)
