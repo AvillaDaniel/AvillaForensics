@@ -44,7 +44,7 @@
 34. Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
 35. Merge WhatsApp DATABASES
 
-![2022-04-16](https://user-images.githubusercontent.com/102838167/163805274-3a8d13e6-2201-4527-8eb4-333068811e14.png)
+![4](https://user-images.githubusercontent.com/102838167/235308549-9d408ed6-19a8-4707-b8fe-197d2ffb6c85.JPG)
 
 ## 🕵️ Functionalities:
 
@@ -73,7 +73,7 @@
 
 - Examples:
 
-![2022-04-02](https://user-images.githubusercontent.com/102838167/161398236-c20a9bd3-499d-49fc-b862-1694b369b334.png)
+![24](https://user-images.githubusercontent.com/102838167/235308589-4e061b01-8341-4e98-b6ba-43fefeb20b94.JPG)
 
 ![Screenshot_20210621-140950](https://user-images.githubusercontent.com/102838167/161463461-c402a208-324f-42c5-a1c2-9f15852731be.png)
 
@@ -81,22 +81,9 @@
   
 ![files-whats](https://user-images.githubusercontent.com/102838167/161401049-7402a3bd-06a2-48d8-9629-d0d93a61982a.PNG)
 
-### 📱 Caution:
-
-![atencao](https://user-images.githubusercontent.com/102838167/173718670-c863f680-b356-4ea6-af10-2376783d9cee.png)
-
-- The Backup Downgrade procedure in ANDROID 12 can damage the database
-
 ### 🛠 DOWNGRADE APK Test:
 - The tool does a test in a generic application (**com.aplicacaoteste.apk**) before starting the DOWNGRADE process in the target APP.
 - Tips: **XIAOMI** phones may come with USB protections, remove these protections **without taking the device out of airplane mode** by following the steps below:
-1. Enable developer options.
-2. Settings -> Additional Settings -> **Disable MIUI optimizations**
-3. Reset phone
-4. Settings -> Additional Settings -> Developer Options -> **Allow USB Debugging**
-5. Security (system app) -> Manage apps -> Permissions -> Gear icon (top right) -> **Install via USB (true)**
-6. Reset phone
-7. Settings -> Additional Settings -> Developer Options -> **Enable USB Installation**    
 
 ### 💬 (NEW) Parser Chats WhatsApp from NEW Database SCHEME:
 
