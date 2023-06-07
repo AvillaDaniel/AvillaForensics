@@ -433,6 +433,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ### (NEW) Translated into english (v1_0_0_264) - (1.94 GB)
 - https://academiadeforensedigital.com.br/treinamento-oficial-sobre-avilla-forensics/
+- https://drive.google.com/u/0/uc?id=10zA6CDzIQDGvGfhvuR20fNFY5ix76pv-&export=download/
 - SHA256: 77ba64d3211eabe8020ec6ac81f9ff2d42966724a699b913a8c8b36454d4db3a
 
 ### 🚀 Donate:
