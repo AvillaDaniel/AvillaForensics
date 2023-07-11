@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# Avilla Forensics 3.5 - (v1_0_0_264)
+# (NEW) Avilla Forensics 3.6
 
 # ⭐️ Project description:
 - I have a passion for mobile digital forensics and the art of data extractions.
@@ -101,10 +101,6 @@ received_timestamp, receipt_server_timestamp, message_type, text_data (Mensagens
 
 ![2022-04-17 (5)](https://user-images.githubusercontent.com/102838167/163806359-d86b2de8-9aeb-4bdb-a1f6-198b7563317b.png)
 
-![2022-04-17 (8)](https://user-images.githubusercontent.com/102838167/163806376-9dd34207-d3d8-466a-82c0-e676f0fdf85f.png)
-
-![chats](https://user-images.githubusercontent.com/102838167/163806409-d6efa011-9d9a-4675-a01c-15f570a105fb.png)
-
 ### 💬 (NEW) Parser Chats WhatsApp from previous database schema:
 
 1. Select the Chats destination folder (Copy the "Media" folder in this same location).
@@ -122,8 +118,6 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 
 ![2022-04-17](https://user-images.githubusercontent.com/102838167/163806680-08ae4135-d180-48f5-8c3e-99fc83a86a34.png)
 
-![2022-04-17 (4)](https://user-images.githubusercontent.com/102838167/163806716-e2f002d0-45ec-42e8-be20-fdd8ace00129.png)
-
 ### 💬 (NEW) Whatsapp .opus audio transcription and transcription plot in CHATS HTML PARSER:
 
 - In the "OPUS audio transcription" module you can transcribe one or thousands of audios at the same time.
@@ -132,8 +126,6 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 - Generate HTML report with transcribed texts, hash, contact linked to audio and chat linked to audio.
 
 ![Print-Opus](https://user-images.githubusercontent.com/102838167/176755084-6182aba3-5e71-4d50-b2e1-9ede2b20b632.PNG)
-
-![Print-Opus1](https://user-images.githubusercontent.com/102838167/176755130-c1be9908-fb8e-4756-b377-9caa522aa68b.PNG)
 
 ![parser](https://user-images.githubusercontent.com/102838167/176756128-efc2febf-56da-4083-be5b-31604418083b.PNG)
 
@@ -226,13 +218,6 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 ![2022-04-03 (1)](https://user-images.githubusercontent.com/102838167/161448487-b4dea9e4-9293-4b65-8981-1de07caf7288.png)
 
 ![2022-04-03 (2)](https://user-images.githubusercontent.com/102838167/161448491-d9622700-c41e-41b0-8442-a055def05913.png)
-
-### 🚀 Automatic integration with IPED:
-- Indexing of folders, .zip, .tar, .dd, .ufdr.
-
-![2022-04-03 (3)](https://user-images.githubusercontent.com/102838167/161448593-ba22fdde-f6ce-4dff-b065-9b1d5a177b63.png)
-
-![2022-04-03 (11)](https://user-images.githubusercontent.com/102838167/161464428-226fe8f1-bebe-4d34-96af-95c7e0cff533.png)
 
 ### 🚀 (NEW) Access Through the Tool to IPED Tools.
 - "C:\Forensics\bin\IPEDTools\IPEDTools.exe"
@@ -403,7 +388,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 💻 Installing Third-Party Tools
 ### Requires JAVA (https://www.java.com/pt-BR/):
-- IPED-4.1.1: "C:\Forensics\IPED-4.0.6_and_plugins" (Just install JAVA).
 - IPED Tools: "C:\Forensics\bin\IPEDTools\IPEDTools.exe" Just install JAVA).
 - Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Just install JAVA).
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA).
@@ -431,18 +415,12 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 🌐 Download
 
-### (NEW) Translated into english (v1_0_0_264) - (1.94 GB)
-- https://academiadeforensedigital.com.br/treinamento-oficial-sobre-avilla-forensics/
-- https://drive.google.com/u/0/uc?id=10zA6CDzIQDGvGfhvuR20fNFY5ix76pv-&export=download/
-- SHA256: 77ba64d3211eabe8020ec6ac81f9ff2d42966724a699b913a8c8b36454d4db3a
+### (NEW) Avilla Forensics 3.6
 
 ### 🚀 Donate:
 
 - CHAVE PIX: 3901d8ea-22ca-4ba8-a0fb-2615e5485b2c
-
-- Donate Pypal:
-- Link: https://www.paypal.com/donate/?hosted_button_id=PCMBCJFU2T4CG (Fernanda Santos)
-
+- 
 ![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
 
 ## ⚙️ Technologies used
@@ -451,7 +429,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Java.
 - 
 ## 🚀 License
-- Free Software.
+- Freeware
 
 ## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
@@ -459,7 +437,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 📱  Third-party tools included in the package
-- IPED-4.1.1: https://github.com/sepinf-inc/IPED (Requires Java).
 - IPED Tools: https://github.com/thiagofuer/IPEDTools_Releases/releases (Requires Java).
 - Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
