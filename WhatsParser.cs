@@ -2127,16 +2127,6 @@ namespace Avilla_Forensics
             checkBoxEscreverAudio.Checked = true;
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             textBox2.Text = @listBox1.Text;
