@@ -376,9 +376,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - https://youtu.be/KuSmct1Qa30
 - [MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf](https://github.com/AvillaDaniel/AvillaForensics/files/8411988/MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf)
 
-## 📋 Trainings (English)
-- In progress
-
 ## 💻 Installation Avilla Forensics 3.6
 
 - Extract the tool from "C:\Forensics-3-6".
@@ -388,34 +385,23 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 💻 Installing Third-Party Tools
 ### Requires JAVA (https://www.java.com/pt-BR/):
-- IPED Tools: "C:\Forensics\bin\IPEDTools\IPEDTools.exe" Just install JAVA).
-- Bycode Viewer: "C:\Forensics\bin\bycodeviewer" (Just install JAVA).
-- Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA).
-- Backup Extractor: "C:\Forensics\backup_extractor" (Just install JAVA).
+- Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA). (APACHE LICENSE)
+- Backup Extractor: "C:\Forensics\backup_extractor" (Just install JAVA). (APACHE LICENSE)
 - The Backup Extractor module (.AB to .TAR) may require you to add the "C:\Forensics" patch to the system variables.
-- GPS PRUNE: "C:\Forensics\bin\gpsprune" (Just install JAVA).
-- jExiftool GUI: "C:\Forensics\bin\exiftoolgui\jExifToolGUI.exe" (Just install JAVA).
 
 ### Requires python (https://www.python.org/):
-- Instaloader: To install run the file "C:\Forensics\bin\instaloader-master\install_instaloader.bat" or:
-
-```pip install instaloader```
-
-- MVT-1.5.3: To install run the file "C:\Forensics\bin\mvt-1.5.3\install_mvt.bat" or:
-
-```pip install mvt```
-
-- Whacipher: To install run the file "C:\Forensics\bin\install_whacipher.bat" or:
-
-```pip install --upgrade -r requirements.txt```
 
 - WhatsApp-Crypt14-Crypt15-Decrypt: To install run the file "C:\Forensics\bin\WhatsApp-Crypt14-Crypt15-Decrypter-main\install-Decrypter.bat" or:
 
 ```pip install -r requirements.txt```  
 
+- Whatsapp-media-decrypt: To install run the file "C:\Forensics-3-5\bin\install_wmd.bat"
+
+```pip install pycryptodome```  
+
 ## 🌐 Download
 
-### (NEW) Avilla Forensics 3.6
+### (NEW) Avilla Forensics 3.6 (Wait)
 
 ### 🚀 Donate:
 
@@ -427,7 +413,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Java.
     
 ## 🚀 License
-- Freeware
+- Freeware.
 
 ## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
@@ -435,27 +421,30 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 📱  Third-party tools included in the package
-- IPED Tools: https://github.com/thiagofuer/IPEDTools_Releases/releases (Requires Java).
-- Bytecode Viewer: https://github.com/phith0n/bytecode-viewer (Requires Java).
-- Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). 
-- Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requires Java).
-- GPS PRUNE: https://activityworkshop.net/software/gpsprune/download.html (Requires Java).
-- jExiftool GUI: https://github.com/hvdwolf/jExifToolGUI (Requires Java).
 
-- Instaloader: https://github.com/instaloader/instaloader (Requires Python).
-- MVT: https://github.com/mvt-project/mvt (Requer Python).
-- WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python).
-- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python).
+- ADB: https://developer.android.com/tools/adb (APACHE LICENSE).
+- Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). (APACHE LICENSE).
+- Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requires Java). (APACHE LICENSE).
+- Instaloader: https://github.com/instaloader/instaloader (Requires Python). (APACHE LICENSE).
+- Screen Copy: https://github.com/Genymobile/scrcpy (APACHE LICENSE).
+ 
+- Audio transcription: https://github.com/Uberi/speech_recognition (BSD LICENSE).
+  
+- Alias Connector: http://www.newseg.seg.br/newseg/ (Freeware LICENSE). 
+- Audio transcription: http://www.newseg.seg.br/newseg/ (Freeware LICENSE)
+- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python). (UNDEFINED).
+- Grep: https://git-scm.com/docs/git-grep.
+  
+- Itunes_backup2hashcat: https://github.com/philsmd/itunes_backup2hashcat/ (PUBLIC DOMAIN).
+  
+- Hashcat: https://hashcat.net/hashcat/ (MIT LICENSE).
+- Whatsapp-Viewer https://github.com/andreas-mausch/whatsapp-viewer (MIT LICENSE).
 
-- Screen Copy: https://github.com/Genymobile/scrcpy
-- AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics
-- Exiftool: https://github.com/exiftool/exiftool
-- Grep: https://git-scm.com/docs/git-grep
-- Alias Connector: http://www.newseg.seg.br/newseg/
-- SqlStudio: https://sqlitestudio.pl/
-- Audio transcription: https://github.com/Uberi/speech_recognition
-- Audio transcription: https://github.com/delcristianoritta/whatsapptranscriber
-- Audio transcription: http://www.newseg.seg.br/newseg/
+- AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
+- SqlStudio: https://sqlitestudio.pl/ (GNU GENERAL PUBLIC LICENSE).
+- Exiftool: https://github.com/exiftool/exiftool (GNU GENERAL PUBLIC LICENSE).
+- WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE).
+- Libimobiledevice https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE).  
 
 ## 😎 Thanks
 
