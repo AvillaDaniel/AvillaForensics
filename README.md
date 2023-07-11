@@ -442,7 +442,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Whatsapp-Viewer https://github.com/andreas-mausch/whatsapp-viewer (MIT LICENSE).
 - iTunes-Backup-Explorer: https://github.com/MaxiHuHe04/iTunes-Backup-Explorer (MIT LICENSE).
 
-## (Source code for this module available above)
+## (Source code for these modules available above)
 
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE). (FormDecript.cs)
