@@ -432,6 +432,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
   
 - Alias Connector: http://www.newseg.seg.br/newseg/ (Freeware LICENSE). 
 - Audio transcription: http://www.newseg.seg.br/newseg/ (Freeware LICENSE)
+  
 - Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python). (UNDEFINED).
 - Grep: https://git-scm.com/docs/git-grep.
   
@@ -439,10 +440,11 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
   
 - Hashcat: https://hashcat.net/hashcat/ (MIT LICENSE).
 - Whatsapp-Viewer https://github.com/andreas-mausch/whatsapp-viewer (MIT LICENSE).
+- iTunes-Backup-Explorer: https://github.com/MaxiHuHe04/iTunes-Backup-Explorer (MIT LICENSE).
+
+(Source code for this module available above)
 
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
-- SqlStudio: https://sqlitestudio.pl/ (GNU GENERAL PUBLIC LICENSE).
-- Exiftool: https://github.com/exiftool/exiftool (GNU GENERAL PUBLIC LICENSE).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE).
 - Libimobiledevice https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE).  
 
