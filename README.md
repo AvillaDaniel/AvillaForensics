@@ -379,9 +379,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ## 📋 Trainings (English)
 - In progress
 
-## 💻 Installation Avilla Forensics 3.5
+## 💻 Installation Avilla Forensics 3.6
 
-- Extract the tool from "C:\Forensics-3-5".
+- Extract the tool from "C:\Forensics-3-6".
 - **Do not put spaces in the tool folder name.**
 
 ![INSTALL](https://user-images.githubusercontent.com/102838167/235308795-9bbf5afd-24b3-4be9-b011-d4b53e6fabed.PNG)
@@ -420,8 +420,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ### 🚀 Donate:
 
 - CHAVE PIX: 3901d8ea-22ca-4ba8-a0fb-2615e5485b2c
-- 
-![py](https://user-images.githubusercontent.com/102838167/177612624-86f0eb35-c66c-4edd-9bb5-c813feae2565.PNG)
 
 ## ⚙️ Technologies used
 - C#.
