@@ -446,7 +446,8 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE). (FormDecript.cs)
-- Libimobiledevice https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE). (FormIOS.cs) 
+- Libimobiledevice https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE). (FormIOS.cs)
+- IPED PARSERS: https://github.com/sepinf-inc/IPED/tree/master/iped-parsers/iped-parsers-impl/src/main/resources/iped/parsers/whatsapp (GNU GENERAL PUBLIC LICENSE). (WhatsParser.cs and WhatsParserAntigocs.cs)
 
 ## 😎 Thanks
 
