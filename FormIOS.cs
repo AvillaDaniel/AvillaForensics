@@ -35,30 +35,6 @@ namespace Avilla_Forensics
             process5.Close();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            string pathADB = @"libimobiledevice";
-            string fullPath;
-            fullPath = Path.GetFullPath(pathADB);
-
-            Process process3 = new Process();
-            ProcessStartInfo startInfo3 = new ProcessStartInfo();
-            startInfo3.WindowStyle = ProcessWindowStyle.Hidden;
-            startInfo3.CreateNoWindow = true;
-            startInfo3.UseShellExecute = false;
-            startInfo3.RedirectStandardOutput = true;
-            startInfo3.FileName = fullPath + "\\idevicebackup2.exe";
-            startInfo3.Arguments = " unback \"" + textBox2.Text + "\"";
-            process3.StartInfo = startInfo3;
-            process3.Start();
-            textBox1.Text = process3.StandardOutput.ReadToEnd();
-        }
-
         private void button4_Click(object sender, EventArgs e)
         {
             string pathADB = @"libimobiledevice";
