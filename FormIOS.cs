@@ -41,11 +41,6 @@ namespace Avilla_Forensics
             process5.Close();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button3_Click(object sender, EventArgs e)
         {
             string pathADB = @"libimobiledevice";
@@ -297,11 +292,6 @@ namespace Avilla_Forensics
             }
         }
 
-        private void backgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
-        {
-
-        }
-
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             pictureBox2.Visible = false;
@@ -449,11 +439,6 @@ namespace Avilla_Forensics
                 processAPPT.StandardInput.WriteLine(" java -jar " + fullPathExplorer + "\\itunes-backup-explorer-1.4.jar");
                 processAPPT.StandardInput.Close();
             }
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void textBox2_MouseClick(object sender, MouseEventArgs e)
