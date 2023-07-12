@@ -413,7 +413,9 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Java.
     
 ## 🚀 License
-- Freeware.
+- Avilla Forensics DOWNGRADE AND OTHERS = Freeware.
+- PARSER Whatsapp Modules GNU GENERAL PUBLIC LICENSE.
+- IOS Extraction Module = GNU GENERAL PUBLIC LICENSE.
 
 ## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
