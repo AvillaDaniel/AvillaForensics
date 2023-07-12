@@ -37,12 +37,10 @@
 27. Automatic integration with MVT-1.5.3.
 28. Access Through the Tool to JADX.
 29. Access Through the Tool to WhatsApp Viewer.
-30. Access Through the Tool to the BCV.
-31. Access Through the Tool to SQLStudio.
-32. PRUNE GPS Tool Access.
-33. Access Through the Tool to jExiftool GUI.
-34. Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
-35. Merge WhatsApp DATABASES
+30. Access Through the Tool to jExiftool GUI.
+32. Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
+32. Merge WhatsApp DATABASES
+33. IOS Data Extraction Module
 
 ![4](https://user-images.githubusercontent.com/102838167/235308549-9d408ed6-19a8-4707-b8fe-197d2ffb6c85.JPG)
 
@@ -324,18 +322,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ### 🚀 Access Via Tool to WhatsApp Viewer:
 - "C:\Forensics\bin\WhatsAppViewer.exe"
-
-### 🚀 Access Through the Tool to BCV (Byte Code Viewer):
-- "C:\Forensics\bin\bycodeviewer\GUI-ByteCode.bat"
-
-### 🚀 Access Through the Tool to SQLStudio:
-- "C:\Forensics\bin\SQLiteStudio\SQLiteStudio.exe"
-
-### 🚀 PRUNE GPS Tool Access:
-- "C:\Forensics\bin\gpsprune\GUI-GPSPrune.bat"
-
-### 🚀 Access Through the Tool to jExiftool GUI:
-- "C:\Forensics\bin\exiftoolgui\jExifToolGUI.exe"
 
 ### 📱 Conversion of .csv/.txt files with GEOLIZATION information provided by court decisions into .KML for police investigations.
 - Plotting thousands of points on the map in seconds
