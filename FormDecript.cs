@@ -1,4 +1,4 @@
-//                GNU GENERAL PUBLIC LICENSE
+﻿//                GNU GENERAL PUBLIC LICENSE
 //                  Version 3, 29 June 2007 
 //Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
 //Everyone is permitted to copy and distribute verbatim copies 
@@ -122,6 +122,16 @@ namespace Avilla_Forensics
         private void backgroundWorker1_RunWorkerCompleted(object sender, System.ComponentModel.RunWorkerCompletedEventArgs e)
         {
             pictureBox2.Visible = false;
+        }
+
+        private void backgroundWorker1_ProgressChanged(object sender, System.ComponentModel.ProgressChangedEventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

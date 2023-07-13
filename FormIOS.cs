@@ -1,4 +1,4 @@
-//                GNU GENERAL PUBLIC LICENSE
+﻿//                GNU GENERAL PUBLIC LICENSE
 //                  Version 3, 29 June 2007 
 //Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
 //Everyone is permitted to copy and distribute verbatim copies 
@@ -39,25 +39,6 @@ namespace Avilla_Forensics
             process5.Start();
             textBox1.Text = process5.StandardOutput.ReadToEnd();
             process5.Close();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            string pathADB = @"libimobiledevice";
-            string fullPath;
-            fullPath = Path.GetFullPath(pathADB);
-
-            Process process3 = new Process();
-            ProcessStartInfo startInfo3 = new ProcessStartInfo();
-            startInfo3.WindowStyle = ProcessWindowStyle.Hidden;
-            startInfo3.CreateNoWindow = true;
-            startInfo3.UseShellExecute = false;
-            startInfo3.RedirectStandardOutput = true;
-            startInfo3.FileName = fullPath + "\\idevicebackup2.exe";
-            startInfo3.Arguments = " unback \"" + textBox2.Text + "\"";
-            process3.StartInfo = startInfo3;
-            process3.Start();
-            textBox1.Text = process3.StandardOutput.ReadToEnd();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -292,6 +273,11 @@ namespace Avilla_Forensics
             }
         }
 
+        private void backgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
+        {
+
+        }
+
         private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             pictureBox2.Visible = false;
@@ -439,6 +425,11 @@ namespace Avilla_Forensics
                 processAPPT.StandardInput.WriteLine(" java -jar " + fullPathExplorer + "\\itunes-backup-explorer-1.4.jar");
                 processAPPT.StandardInput.Close();
             }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
         private void textBox2_MouseClick(object sender, MouseEventArgs e)
