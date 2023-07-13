@@ -2,6 +2,14 @@
 
 # (NEW) Avilla Forensics 3.6
 
+## 🚀 License
+-  GNU GENERAL PUBLIC LICENSE
+-  Version 3, 29 June 2007
+
+- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+- Everyone is permitted to copy and distribute verbatim copies
+- of this license document, but changing it is not allowed.
+
 # ⭐️ Project description:
 - I have a passion for mobile digital forensics and the art of data extractions.
 - Free Mobile Forensics Tool that allows you to:
@@ -396,12 +404,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ## ⚙️ Technologies used
 - C#.
 - Python.
-- Java.
-    
-## 🚀 License
-- Avilla Forensics DOWNGRADE AND OTHERS = Freeware.
-- PARSER Whatsapp Modules GNU GENERAL PUBLIC LICENSE.
-- IOS Extraction Module = GNU GENERAL PUBLIC LICENSE.
+- Java.   
 
 ## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
@@ -429,9 +432,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Hashcat: https://hashcat.net/hashcat/ (MIT LICENSE).
 - Whatsapp-Viewer https://github.com/andreas-mausch/whatsapp-viewer (MIT LICENSE).
 - iTunes-Backup-Explorer: https://github.com/MaxiHuHe04/iTunes-Backup-Explorer (MIT LICENSE).
-
-## (Source code for these modules available above)
-
+  
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE). (FormDecript.cs)
 - Libimobiledevice https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE). (FormIOS.cs)
