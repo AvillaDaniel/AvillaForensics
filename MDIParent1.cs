@@ -1,8 +1,17 @@
-﻿//                GNU GENERAL PUBLIC LICENSE
-//                  Version 3, 29 June 2007 
-//Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
-//Everyone is permitted to copy and distribute verbatim copies 
-//of this license document, but changing it is not allowed.
+﻿////Avilla Forensics - Copyright (C) 2023 – Daniel Hubscher Avilla 
+
+//This program is free software: you can redistribute it and/or modify 
+//it under the terms of the GNU General Public License as published by 
+//the Free Software Foundation, either version 3 of the License, or
+//(at your option) any later version.
+
+//This program is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+//General Public License for more details.
+
+//You should have received a copy of the GNU General Public License
+//along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 using Analisador_Arquivos_DEIC_SBC;
 using System;
@@ -977,6 +986,22 @@ namespace Avilla_Forensics
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             System.Diagnostics.Process.Start("https://www.ucapem.group/site/repositorio/avilla-forensic/");
+        }
+
+        private void toolStripButton5_Click(object sender, EventArgs e)
+        {
+            FormIPED newMDIChild = new FormIPED();
+            newMDIChild.MdiParent = this;
+            newMDIChild.Show();
+        }
+
+        private void toolStripButton17_Click_1(object sender, EventArgs e)
+        {
+            string pathBin = @"bin\IPEDTools";
+            string fullPathBin;
+            fullPathBin = Path.GetFullPath(pathBin);
+
+            System.Diagnostics.Process.Start(fullPathBin + "\\IPEDTools.exe");
         }
     }
 }

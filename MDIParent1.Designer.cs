@@ -92,6 +92,8 @@ namespace Avilla_Forensics
             this.toolStripSeparator27 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripLabel3 = new System.Windows.Forms.ToolStripLabel();
             this.toolStripSeparator28 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripButton5 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator7 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripButton19 = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator31 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripButton21 = new System.Windows.Forms.ToolStripButton();
@@ -110,6 +112,7 @@ namespace Avilla_Forensics
             this.backgroundWorker2 = new System.ComponentModel.BackgroundWorker();
             this.backgroundWorker3 = new System.ComponentModel.BackgroundWorker();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label7 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
@@ -159,6 +162,8 @@ namespace Avilla_Forensics
             this.toolStripButton32 = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator42 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStrip2 = new System.Windows.Forms.ToolStrip();
+            this.toolStripButton17 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator16 = new System.Windows.Forms.ToolStripSeparator();
             this.statusStrip.SuspendLayout();
             this.toolStrip.SuspendLayout();
             this.toolStrip1.SuspendLayout();
@@ -208,8 +213,8 @@ namespace Avilla_Forensics
             this.toolStripStatusLabel.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.toolStripStatusLabel.ForeColor = System.Drawing.Color.Black;
             this.toolStripStatusLabel.Name = "toolStripStatusLabel";
-            this.toolStripStatusLabel.Size = new System.Drawing.Size(533, 20);
-            this.toolStripStatusLabel.Text = "Developed by: Daniel Hubscher Avilla - Copyright © 2023 - All rights reserved";
+            this.toolStripStatusLabel.Size = new System.Drawing.Size(308, 20);
+            this.toolStripStatusLabel.Text = "Developed by: Daniel Hubscher Avilla - 2023";
             // 
             // toolStripStatusLabel1
             // 
@@ -694,6 +699,8 @@ namespace Avilla_Forensics
             this.toolStripSeparator27,
             this.toolStripLabel3,
             this.toolStripSeparator28,
+            this.toolStripButton5,
+            this.toolStripSeparator7,
             this.toolStripButton19,
             this.toolStripSeparator31,
             this.toolStripButton21,
@@ -730,6 +737,22 @@ namespace Avilla_Forensics
             // 
             this.toolStripSeparator28.Name = "toolStripSeparator28";
             this.toolStripSeparator28.Size = new System.Drawing.Size(139, 6);
+            // 
+            // toolStripButton5
+            // 
+            this.toolStripButton5.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton5.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton5.Image")));
+            this.toolStripButton5.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton5.Name = "toolStripButton5";
+            this.toolStripButton5.Size = new System.Drawing.Size(139, 44);
+            this.toolStripButton5.Text = "toolStripButton5";
+            this.toolStripButton5.ToolTipText = "IPED - PF";
+            this.toolStripButton5.Click += new System.EventHandler(this.toolStripButton5_Click);
+            // 
+            // toolStripSeparator7
+            // 
+            this.toolStripSeparator7.Name = "toolStripSeparator7";
+            this.toolStripSeparator7.Size = new System.Drawing.Size(139, 6);
             // 
             // toolStripButton19
             // 
@@ -862,6 +885,7 @@ namespace Avilla_Forensics
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.BackColor = System.Drawing.Color.Lavender;
+            this.panel1.Controls.Add(this.label7);
             this.panel1.Controls.Add(this.pictureBox2);
             this.panel1.Controls.Add(this.label6);
             this.panel1.Controls.Add(this.linkLabel1);
@@ -886,6 +910,18 @@ namespace Avilla_Forensics
             this.panel1.Size = new System.Drawing.Size(1285, 700);
             this.panel1.TabIndex = 41;
             // 
+            // label7
+            // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 6F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.DimGray;
+            this.label7.Location = new System.Drawing.Point(21, 409);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(443, 169);
+            this.label7.TabIndex = 70;
+            this.label7.Text = resources.GetString("label7.Text");
+            // 
             // pictureBox2
             // 
             this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -904,7 +940,7 @@ namespace Avilla_Forensics
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.DimGray;
-            this.label6.Location = new System.Drawing.Point(288, 356);
+            this.label6.Location = new System.Drawing.Point(288, 325);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(440, 20);
             this.label6.TabIndex = 67;
@@ -920,7 +956,7 @@ namespace Avilla_Forensics
             this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel1.ForeColor = System.Drawing.Color.Black;
             this.linkLabel1.LinkColor = System.Drawing.Color.DimGray;
-            this.linkLabel1.Location = new System.Drawing.Point(288, 384);
+            this.linkLabel1.Location = new System.Drawing.Point(288, 353);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(494, 20);
             this.linkLabel1.TabIndex = 68;
@@ -1356,13 +1392,31 @@ namespace Avilla_Forensics
             this.toolStripLabel5,
             this.toolStripSeparator39,
             this.toolStripButton32,
-            this.toolStripSeparator42});
+            this.toolStripSeparator42,
+            this.toolStripButton17,
+            this.toolStripSeparator16});
             this.toolStrip2.Location = new System.Drawing.Point(1430, 71);
             this.toolStrip2.Name = "toolStrip2";
             this.toolStrip2.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
             this.toolStrip2.Size = new System.Drawing.Size(110, 730);
             this.toolStrip2.TabIndex = 37;
             this.toolStrip2.Text = "toolStrip2";
+            // 
+            // toolStripButton17
+            // 
+            this.toolStripButton17.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton17.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton17.Image")));
+            this.toolStripButton17.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton17.Name = "toolStripButton17";
+            this.toolStripButton17.Size = new System.Drawing.Size(107, 44);
+            this.toolStripButton17.Text = "toolStripButton17";
+            this.toolStripButton17.ToolTipText = "IPED Tools";
+            this.toolStripButton17.Click += new System.EventHandler(this.toolStripButton17_Click_1);
+            // 
+            // toolStripSeparator16
+            // 
+            this.toolStripSeparator16.Name = "toolStripSeparator16";
+            this.toolStripSeparator16.Size = new System.Drawing.Size(107, 6);
             // 
             // MDIParent1
             // 
@@ -1386,8 +1440,8 @@ namespace Avilla_Forensics
             this.MainMenuStrip = this.menuStrip;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MDIParent1";
-            this.Text = "Avilla Forensics 3.6 -  ATTENTION: THIS TOOL IS FREE - v1_0_0_264                " +
-    "";
+            this.Text = "Avilla Forensics 3.6 -  ATTENTION: THIS TOOL IS FREE - Vesion 1_0_0_294          " +
+    "     ";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.MDIParent1_Load);
             this.statusStrip.ResumeLayout(false);
@@ -1544,6 +1598,11 @@ namespace Avilla_Forensics
         private System.Windows.Forms.ToolStripButton toolStripButton32;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator42;
         private System.Windows.Forms.ToolStrip toolStrip2;
+        private System.Windows.Forms.ToolStripButton toolStripButton5;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator7;
+        private System.Windows.Forms.ToolStripButton toolStripButton17;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator16;
+        private System.Windows.Forms.Label label7;
     }
 }
 

@@ -335,6 +335,7 @@ namespace Avilla_Forensics
             this.Name = "DeviceExplorer";
             this.Text = "Device Explorer";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.DeviceExplorer_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

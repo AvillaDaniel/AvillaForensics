@@ -68,6 +68,9 @@ namespace Avilla_Forensics
             this.button15 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
             this.panel6 = new System.Windows.Forms.Panel();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.radioButtonDOWN = new System.Windows.Forms.RadioButton();
+            this.radioButtonUP = new System.Windows.Forms.RadioButton();
             this.button20 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
             this.button18 = new System.Windows.Forms.Button();
@@ -94,6 +97,7 @@ namespace Avilla_Forensics
             this.panel7.SuspendLayout();
             this.panel8.SuspendLayout();
             this.panel6.SuspendLayout();
+            this.panel10.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel9.SuspendLayout();
             this.SuspendLayout();
@@ -425,7 +429,7 @@ namespace Avilla_Forensics
             this.linkLabel1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel1.Location = new System.Drawing.Point(66, 329);
+            this.linkLabel1.Location = new System.Drawing.Point(59, 253);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(222, 18);
             this.linkLabel1.TabIndex = 45;
@@ -439,7 +443,7 @@ namespace Avilla_Forensics
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Red;
-            this.label9.Location = new System.Drawing.Point(101, 290);
+            this.label9.Location = new System.Drawing.Point(105, 218);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(129, 24);
             this.label9.TabIndex = 37;
@@ -448,10 +452,10 @@ namespace Avilla_Forensics
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(93, 39);
+            this.pictureBox1.Location = new System.Drawing.Point(115, 19);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(165, 167);
+            this.pictureBox1.Size = new System.Drawing.Size(121, 129);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 29;
             this.pictureBox1.TabStop = false;
@@ -499,7 +503,7 @@ namespace Avilla_Forensics
             this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel7.Controls.Add(this.button16);
             this.panel7.Controls.Add(this.button6);
-            this.panel7.Location = new System.Drawing.Point(21, 372);
+            this.panel7.Location = new System.Drawing.Point(21, 285);
             this.panel7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(319, 68);
@@ -540,7 +544,7 @@ namespace Avilla_Forensics
             this.panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel8.Controls.Add(this.button15);
             this.panel8.Controls.Add(this.button11);
-            this.panel8.Location = new System.Drawing.Point(21, 446);
+            this.panel8.Location = new System.Drawing.Point(21, 359);
             this.panel8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(319, 83);
@@ -579,6 +583,7 @@ namespace Avilla_Forensics
             // 
             this.panel6.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel6.Controls.Add(this.panel10);
             this.panel6.Controls.Add(this.button20);
             this.panel6.Controls.Add(this.button19);
             this.panel6.Controls.Add(this.button18);
@@ -587,11 +592,48 @@ namespace Avilla_Forensics
             this.panel6.Controls.Add(this.button13);
             this.panel6.Controls.Add(this.button14);
             this.panel6.Controls.Add(this.button12);
-            this.panel6.Location = new System.Drawing.Point(21, 534);
+            this.panel6.Location = new System.Drawing.Point(21, 447);
             this.panel6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(319, 288);
+            this.panel6.Size = new System.Drawing.Size(319, 386);
             this.panel6.TabIndex = 56;
+            // 
+            // panel10
+            // 
+            this.panel10.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.panel10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel10.Controls.Add(this.radioButtonDOWN);
+            this.panel10.Controls.Add(this.radioButtonUP);
+            this.panel10.Location = new System.Drawing.Point(41, 190);
+            this.panel10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(226, 67);
+            this.panel10.TabIndex = 57;
+            // 
+            // radioButtonDOWN
+            // 
+            this.radioButtonDOWN.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.radioButtonDOWN.AutoSize = true;
+            this.radioButtonDOWN.Location = new System.Drawing.Point(68, 35);
+            this.radioButtonDOWN.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.radioButtonDOWN.Name = "radioButtonDOWN";
+            this.radioButtonDOWN.Size = new System.Drawing.Size(104, 21);
+            this.radioButtonDOWN.TabIndex = 38;
+            this.radioButtonDOWN.Text = "Scroll-Down";
+            this.radioButtonDOWN.UseVisualStyleBackColor = true;
+            // 
+            // radioButtonUP
+            // 
+            this.radioButtonUP.AutoSize = true;
+            this.radioButtonUP.Checked = true;
+            this.radioButtonUP.Location = new System.Drawing.Point(63, 9);
+            this.radioButtonUP.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.radioButtonUP.Name = "radioButtonUP";
+            this.radioButtonUP.Size = new System.Drawing.Size(87, 21);
+            this.radioButtonUP.TabIndex = 39;
+            this.radioButtonUP.TabStop = true;
+            this.radioButtonUP.Text = "Scroll-Up";
+            this.radioButtonUP.UseVisualStyleBackColor = true;
             // 
             // button20
             // 
@@ -599,7 +641,7 @@ namespace Avilla_Forensics
             this.button20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button20.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button20.ForeColor = System.Drawing.Color.White;
-            this.button20.Location = new System.Drawing.Point(41, 231);
+            this.button20.Location = new System.Drawing.Point(42, 306);
             this.button20.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(225, 36);
@@ -662,7 +704,7 @@ namespace Avilla_Forensics
             this.button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button13.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button13.ForeColor = System.Drawing.Color.White;
-            this.button13.Location = new System.Drawing.Point(41, 188);
+            this.button13.Location = new System.Drawing.Point(42, 264);
             this.button13.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(225, 36);
@@ -704,7 +746,7 @@ namespace Avilla_Forensics
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(59, 230);
+            this.label1.Location = new System.Drawing.Point(62, 156);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(227, 50);
             this.label1.TabIndex = 20;
@@ -838,6 +880,8 @@ namespace Avilla_Forensics
             this.panel8.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panel9.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -901,5 +945,8 @@ namespace Avilla_Forensics
         private System.Windows.Forms.Button button18;
         private System.Windows.Forms.Button button19;
         private System.Windows.Forms.Button button20;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.RadioButton radioButtonDOWN;
+        private System.Windows.Forms.RadioButton radioButtonUP;
     }
 }

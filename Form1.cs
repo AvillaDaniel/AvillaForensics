@@ -1,8 +1,17 @@
-﻿//                GNU GENERAL PUBLIC LICENSE
-//                  Version 3, 29 June 2007 
-//Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
-//Everyone is permitted to copy and distribute verbatim copies 
-//of this license document, but changing it is not allowed.
+﻿//Avilla Forensics - Copyright (C) 2023 – Daniel Hubscher Avilla 
+
+//This program is free software: you can redistribute it and/or modify 
+//it under the terms of the GNU General Public License as published by 
+//the Free Software Foundation, either version 3 of the License, or
+//(at your option) any later version.
+
+//This program is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+//General Public License for more details.
+
+//You should have received a copy of the GNU General Public License
+//along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 using System;
 using System.ComponentModel;
@@ -56,7 +65,7 @@ namespace Analisador_Arquivos_DEIC_SBC
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("https://www.google.com.br/maps/place/");
+            //webBrowser1.Navigate("https://www.openstreetmap.org/#map=16/-23.6769/-46.5320");
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -234,7 +243,7 @@ namespace Analisador_Arquivos_DEIC_SBC
         {
             TXTMeta.Text = "";
             TxtGEO.Text = "";
-            webBrowser1.Navigate("https://www.google.com.br/maps/place/");
+            //webBrowser1.Navigate("https://www.google.com.br/maps/place/");
 
             String navegar = listView1.Items[listView1.FocusedItem.Index].Text;
             textBox1.Text = navegar;
@@ -308,7 +317,7 @@ namespace Analisador_Arquivos_DEIC_SBC
                     TxtGEO.Text = dadosGeo[1];
 
                     //GPS Position
-                    webBrowser1.Navigate("https://www.google.com.br/maps/place/" + TxtGEO.Text);
+                    //webBrowser1.Navigate("https://www.google.com.br/maps/place/" + TxtGEO.Text);
                 }
                 catch
                 {

@@ -26,7 +26,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>293</ApplicationRevision>
+    <ApplicationRevision>295</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -255,6 +255,12 @@
     <Compile Include="FormIOS.Designer.cs">
       <DependentUpon>FormIOS.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormIPED.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIPED.Designer.cs">
+      <DependentUpon>FormIPED.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMidias.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -379,6 +385,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormIOS.resx">
       <DependentUpon>FormIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIPED.resx">
+      <DependentUpon>FormIPED.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMidias.resx">
       <DependentUpon>FormMidias.cs</DependentUpon>

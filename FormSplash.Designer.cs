@@ -79,9 +79,9 @@ namespace Avilla_Forensics
             this.label2.BackColor = System.Drawing.Color.Gainsboro;
             this.label2.Location = new System.Drawing.Point(735, 13);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(135, 17);
+            this.label2.Size = new System.Drawing.Size(127, 17);
             this.label2.TabIndex = 54;
-            this.label2.Text = "Vesion 1_0_0_264  ";
+            this.label2.Text = "Vesion 1_0_0_294";
             // 
             // label1
             // 
@@ -90,10 +90,10 @@ namespace Avilla_Forensics
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(14, 430);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(740, 18);
+            this.label1.Size = new System.Drawing.Size(533, 18);
             this.label1.TabIndex = 58;
-            this.label1.Text = "Developed by: Daniel Hubscher Avilla - Copyright © 2023 - All rights reserved - d" +
-    "aniel.avilla@policiacivil.sp.gov.br";
+            this.label1.Text = "Developed by: Daniel Hubscher Avilla -  2023 - daniel.avilla@policiacivil.sp.gov." +
+    "br";
             // 
             // panel1
             // 

@@ -623,7 +623,7 @@ namespace Analisador_Arquivos_DEIC_SBC
             this.TxtGEO.Multiline = true;
             this.TxtGEO.Name = "TxtGEO";
             this.TxtGEO.ReadOnly = true;
-            this.TxtGEO.Size = new System.Drawing.Size(394, 28);
+            this.TxtGEO.Size = new System.Drawing.Size(563, 28);
             this.TxtGEO.TabIndex = 36;
             // 
             // webBrowser1

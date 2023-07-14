@@ -1,8 +1,17 @@
-﻿//                GNU GENERAL PUBLIC LICENSE
-//                  Version 3, 29 June 2007 
-//Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
-//Everyone is permitted to copy and distribute verbatim copies 
-//of this license document, but changing it is not allowed.
+﻿//Avilla Forensics - Copyright (C) 2023 – Daniel Hubscher Avilla 
+
+//This program is free software: you can redistribute it and/or modify 
+//it under the terms of the GNU General Public License as published by 
+//the Free Software Foundation, either version 3 of the License, or
+//(at your option) any later version.
+
+//This program is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+//General Public License for more details.
+
+//You should have received a copy of the GNU General Public License
+//along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 using System;
 using System.ComponentModel;
@@ -360,8 +369,12 @@ namespace Avilla_Forensics
             LbVersion.Text = file.ReadLine();
             file.Close();
 
-            string[] ID2 = LbVersion.Text.Split(' ');
-            textBoxIOS.Text = ID2[1];
+            try
+            {
+                string[] ID2 = LbVersion.Text.Split(' ');
+                textBoxIOS.Text = ID2[1];
+            }
+            catch { }
 
             //PhoneNumber
             ProcessStartInfo processStartInfoAPPT2 = new ProcessStartInfo("cmd.exe");
@@ -564,6 +577,10 @@ namespace Avilla_Forensics
             string fullPathPRINT;
             fullPathPRINT = Path.GetFullPath(pathPRINT);
 
+            string pathBin = @"bin\voices";
+            string fullPathBin;
+            fullPathBin = Path.GetFullPath(pathBin);
+
             webBrowser1.Navigate(fullPathPRINT);
 
             Process process3 = new Process();
@@ -579,8 +596,16 @@ namespace Avilla_Forensics
             textBox1.Text = process3.StandardOutput.ReadToEnd();
             process3.Close();
 
-            SoundPlayer simpleSound = new SoundPlayer(@"C:\teste\ss_ios164\Scroll-Up.wav");
-            simpleSound.Play();
+            if (radioButtonUP.Checked)
+            {
+                SoundPlayer simpleSound = new SoundPlayer(@fullPathBin + "\\Scroll-Up.wav");
+                simpleSound.Play();
+            }
+            else
+            {
+                SoundPlayer simpleSound = new SoundPlayer(@fullPathBin + "\\Scroll-Down.wav");
+                simpleSound.Play();
+            }
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -593,6 +618,10 @@ namespace Avilla_Forensics
             string fullPathPRINT;
             fullPathPRINT = Path.GetFullPath(pathPRINT);
 
+            string pathBin = @"bin\voices";
+            string fullPathBin;
+            fullPathBin = Path.GetFullPath(pathBin);
+
             webBrowser1.Navigate(fullPathPRINT);
 
             Process process3 = new Process();
@@ -608,8 +637,16 @@ namespace Avilla_Forensics
             textBox1.Text = process3.StandardOutput.ReadToEnd();
             process3.Close();
 
-            SoundPlayer simpleSound = new SoundPlayer(@"C:\teste\ss_ios164\Scroll-Up.wav");
-            simpleSound.Play();
+            if (radioButtonUP.Checked) 
+            {
+                SoundPlayer simpleSound = new SoundPlayer(@fullPathBin + "\\Scroll-Up.wav");
+                simpleSound.Play();
+            }
+            else 
+            {
+                SoundPlayer simpleSound = new SoundPlayer(@fullPathBin + "\\Scroll-Down.wav");
+                simpleSound.Play();
+            }
         }
 
         private void button13_Click(object sender, EventArgs e)
@@ -651,8 +688,12 @@ namespace Avilla_Forensics
             LbVersion.Text = file.ReadLine();
             file.Close();
 
-            string[] ID2 = LbVersion.Text.Split(' ');
-            textBoxIOS.Text = ID2[1];
+            try
+            {
+                string[] ID2 = LbVersion.Text.Split(' ');
+                textBoxIOS.Text = ID2[1];
+            }
+            catch { }
 
             ////////////////////////////////////////////////////////////////////
             
