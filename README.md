@@ -409,7 +409,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 - SIZE: 2,53 GB
 - HASH SHA-256: 580653BB264CC3E3759FCA1FDED13CFD72D5DF7ADAB20C2DDCAC1D5817F1CD35
-- https://drive.google.com/file/d/1t1FyltnAx2GpvsSMMyhV-nGSLYlBLlI4/view?usp=sharing
+- https://drive.google.com/u/0/uc?id=1t1FyltnAx2GpvsSMMyhV-nGSLYlBLlI4&export=download
 
 ### 🚀 Donate:
 
