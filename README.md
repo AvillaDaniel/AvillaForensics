@@ -457,6 +457,10 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
   
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE). (FormDecript.cs)
+- SQLiteStudio: https://github.com/pawelsalawa/sqlitestudio (GNU GENERAL PUBLIC LICENSE).
+- jExifToolGUI: https://github.com/hvdwolf/jExifToolGUI (GNU GENERAL PUBLIC LICENSE).
+- GpsPrune: https://activityworkshop.net/software/gpsprune/ https://github.com/activityworkshop/GpsPrune (GNU GENERAL PUBLIC LICENSE).
+- Bytecode Viewer: https://github.com/Konloch/bytecode-viewer (GNU GENERAL PUBLIC LICENSE).
 
 ## 😎 Thanks
 
