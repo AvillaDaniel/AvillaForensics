@@ -430,37 +430,45 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ## 📱  Third-party tools included in the package
 
+- **APACHE LICENSE**
 - ADB: https://developer.android.com/tools/adb (APACHE LICENSE).
 - Jadx-1.2.0: https://github.com/skylot/jadx (Requer Java). (APACHE LICENSE).
 - Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requires Java). (APACHE LICENSE).
 - Instaloader: https://github.com/instaloader/instaloader (Requires Python). (APACHE LICENSE).
 - Screen Copy: https://github.com/Genymobile/scrcpy (APACHE LICENSE).
 
+- **GNU GENERAL PUBLIC LICENSE**
 - Libimobiledevice: https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE). (FormIOS.cs)
 - IPED: https://github.com/sepinf-inc/IPED (GNU GENERAL PUBLIC LICENSE)
 - IPED PARSERS: https://github.com/sepinf-inc/IPED/tree/master/iped-parsers/iped-parsers-impl/src/main/resources/iped/parsers/whatsapp https://github.com/tc-wleite (GNU GENERAL PUBLIC LICENSE). (WhatsParser.cs and WhatsParserAntigocs.cs)
 - IPEDTools: https://github.com/thiagofuer/IPEDTools_Releases/releases (GNU GENERAL PUBLIC LICENSE)
- 
-- Audio transcription: https://github.com/Uberi/speech_recognition (BSD LICENSE).
-  
-- Alias Connector: http://www.newseg.seg.br/newseg/ (Freeware LICENSE). 
-- Audio transcription: http://www.newseg.seg.br/newseg/ (Freeware LICENSE)
-  
-- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python). (UNDEFINED).
-- Grep: https://git-scm.com/docs/git-grep.
-  
-- Itunes_backup2hashcat: https://github.com/philsmd/itunes_backup2hashcat/ (PUBLIC DOMAIN).
-  
-- Hashcat: https://hashcat.net/hashcat/ (MIT LICENSE).
-- Whatsapp-Viewer https://github.com/andreas-mausch/whatsapp-viewer (MIT LICENSE).
-- iTunes-Backup-Explorer: https://github.com/MaxiHuHe04/iTunes-Backup-Explorer (MIT LICENSE).
-  
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE). (FormDecript.cs)
 - SQLiteStudio: https://github.com/pawelsalawa/sqlitestudio (GNU GENERAL PUBLIC LICENSE).
 - jExifToolGUI: https://github.com/hvdwolf/jExifToolGUI (GNU GENERAL PUBLIC LICENSE).
 - GpsPrune: https://activityworkshop.net/software/gpsprune/ https://github.com/activityworkshop/GpsPrune (GNU GENERAL PUBLIC LICENSE).
 - Bytecode Viewer: https://github.com/Konloch/bytecode-viewer (GNU GENERAL PUBLIC LICENSE).
+
+- **MIT LICENSE**
+- ALEAPP: https://github.com/abrignoni/ALEAPP (MIT LICENSE).
+- iLEAPP: https://github.com/abrignoni/iLEAPP (MIT LICENSE).  
+- Hashcat: https://hashcat.net/hashcat/ (MIT LICENSE).
+- Whatsapp-Viewer https://github.com/andreas-mausch/whatsapp-viewer (MIT LICENSE).
+- iTunes-Backup-Explorer: https://github.com/MaxiHuHe04/iTunes-Backup-Explorer (MIT LICENSE).
+- 
+- **BSD LICENSE**
+- Audio transcription: https://github.com/Uberi/speech_recognition (BSD LICENSE).
+
+- **Freeware LICENSE**  
+- Alias Connector: http://www.newseg.seg.br/newseg/ (Freeware LICENSE). 
+- Audio transcription: http://www.newseg.seg.br/newseg/ (Freeware LICENSE)
+
+ - **PUBLIC DOMAIN**  
+ - Itunes_backup2hashcat: https://github.com/philsmd/itunes_backup2hashcat/ (PUBLIC DOMAIN).
+
+- **UNDEFINED**  
+- Whatsapp-media-decrypt: https://github.com/sh4dowb/whatsapp-media-decrypt (Requires Python). (UNDEFINED).
+- Grep: https://git-scm.com/docs/git-grep. (UNDEFINED).  
 
 ## 😎 Thanks
 
