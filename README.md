@@ -435,6 +435,11 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Android Backup Extractor: https://github.com/nelenkov/android-backup-extractor (Requires Java). (APACHE LICENSE).
 - Instaloader: https://github.com/instaloader/instaloader (Requires Python). (APACHE LICENSE).
 - Screen Copy: https://github.com/Genymobile/scrcpy (APACHE LICENSE).
+
+- Libimobiledevice: https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE). (FormIOS.cs)
+- IPED: https://github.com/sepinf-inc/IPED (GNU GENERAL PUBLIC LICENSE)
+- IPED PARSERS: https://github.com/sepinf-inc/IPED/tree/master/iped-parsers/iped-parsers-impl/src/main/resources/iped/parsers/whatsapp https://github.com/tc-wleite (GNU GENERAL PUBLIC LICENSE). (WhatsParser.cs and WhatsParserAntigocs.cs)
+- IPEDTools: https://github.com/thiagofuer/IPEDTools_Releases/releases (GNU GENERAL PUBLIC LICENSE)
  
 - Audio transcription: https://github.com/Uberi/speech_recognition (BSD LICENSE).
   
@@ -452,8 +457,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
   
 - AFLogical OSE 1.5.2: https://github.com/nowsecure/android-forensics (GNU GENERAL PUBLIC LICENSE).
 - WhatsApp-Crypt14-Crypt15-Decrypter: https://github.com/ElDavoo/WhatsApp-Crypt14-Crypt15-Decrypter (Requires Python). (GNU GENERAL PUBLIC LICENSE). (FormDecript.cs)
-- Libimobiledevice https://github.com/libimobiledevice/libimobiledevice (GNU GENERAL PUBLIC LICENSE). (FormIOS.cs)
-- IPED PARSERS: https://github.com/sepinf-inc/IPED/tree/master/iped-parsers/iped-parsers-impl/src/main/resources/iped/parsers/whatsapp https://github.com/tc-wleite (GNU GENERAL PUBLIC LICENSE). (WhatsParser.cs and WhatsParserAntigocs.cs)
 
 ## 😎 Thanks
 
