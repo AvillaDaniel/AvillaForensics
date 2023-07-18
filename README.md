@@ -455,7 +455,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Hashcat: https://hashcat.net/hashcat/ (MIT LICENSE).
 - Whatsapp-Viewer https://github.com/andreas-mausch/whatsapp-viewer (MIT LICENSE).
 - iTunes-Backup-Explorer: https://github.com/MaxiHuHe04/iTunes-Backup-Explorer (MIT LICENSE).
-- 
+  
 - **BSD LICENSE**
 - Audio transcription: https://github.com/Uberi/speech_recognition (BSD LICENSE).
 
