@@ -2,6 +2,12 @@
 
 # (NEW) Avilla Forensics 3.6
 
+Avilla Forensics takes first place in the international award of Forensics 4:Cast🥇🏆, in the category of non-commercial tool, announced at the SANS Institute Sans Summit event.
+
+Thanks for the votes, without you this would not be possible.
+
+![Capturar](https://github.com/AvillaDaniel/AvillaForensics/assets/102838167/db1ed699-eb99-48e7-9ec9-8475b7e94aad)
+
 ## 🚀 License
 Avilla Forensics - Copyright (C) 2023 – Daniel Hubscher Avilla 
 
