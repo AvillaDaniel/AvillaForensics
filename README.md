@@ -2,7 +2,7 @@
 
 # (NEW) Avilla Forensics 3.6
 
-Avilla Forensics takes first place in the international award of Forensics 4:Cast🥇🏆, in the category of non-commercial tool, announced at the SANS Institute Sans Summit event.
+Avilla Forensics is located in first place in the award international Forensics 4:Cast 🥇🏆, in the tool category no commercial. Announcement made at the event from the SANS Institute.
 
 Thanks for the votes, without you this would not be possible.
 
