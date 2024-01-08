@@ -8,6 +8,18 @@ Thanks for the votes, without you this would not be possible.
 
 ![Capturar](https://github.com/AvillaDaniel/AvillaForensics/assets/102838167/db1ed699-eb99-48e7-9ec9-8475b7e94aad)
 
+## 📋 Trainings (Portuguese) (Advanced Extraction with Avilla Forensics).
+
+- ACADEMIA DE FORENSE DIGITAL - AFD: 
+- https://academiadeforensedigital.com.br/
+- https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/ (26, 27, 28 e 29 de Fevereiro de 2024 das 19h às 23h)  
+- Webinar: [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
+- https://youtu.be/KuSmct1Qa30  
+  
+- WB EDUCAÇÃO:
+- https://wbeduca.com.br/pt
+- https://wbeduca.com.br/pt/cursos/curso-de-ferramentas-criadas-por-policiais-para-investigacao-telematica-2a-edicao (Dias 19, 20, 21, 25, 26 e 27 de março de 2024, das 19h às 22h, via Google Meet. Conteúdo será gravado!!)
+
 ## 🚀 License
 Avilla Forensics - Copyright (C) 2023 – Daniel Hubscher Avilla 
 
@@ -371,18 +383,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 ## ⚙️ Prerequisites Third-Party Tools: 
 - JAVA (https://www.java.com/pt-BR/).
 - PHYTON (https://www.python.org/).
-
-## 📋 Trainings (Portuguese)
-![Banner sympla Extração Lógica Avançada com Avilla Forensics](https://user-images.githubusercontent.com/102838167/161400433-dd4cce07-161f-44b7-b506-378841ac64b4.png)
-
-- ACADEMIA DE FORENSE DIGITAL - AFD (Advanced Extraction with Avilla Forensics).
-- https://academiadeforensedigital.com.br/
-- About the course: https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/
-- Course content: https://drive.google.com/file/d/1mARPeClW1o3EBNIcLh3i9YzBn_fGuSet/view
-- Webinar: [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
-- Manual and step-by-step video prepared by Police Officer Emerson Borges - POLICE OF MINAS GERAIS - BRAZIL 
-- https://youtu.be/KuSmct1Qa30
-- [MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf](https://github.com/AvillaDaniel/AvillaForensics/files/8411988/MANUAL_EXTRACAO_AVILLA_FORENSICS.pdf)
 
 ## 💻 Installation Avilla Forensics 3.6
 
