@@ -22,6 +22,7 @@ Thanks for the votes, without you this would not be possible.
 ## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
 - https://www.linkedin.com/in/daniel-a-avilla-0987/
+- https://www.instagram.com/perito_daniel_avilla
 - daniel.avilla@policiacivil.sp.gov.br
 
 ## 🌐 Download
