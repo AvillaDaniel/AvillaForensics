@@ -13,6 +13,12 @@ Thanks for the votes, without you this would not be possible.
 - ACADEMIA DE FORENSE DIGITAL - AFD: 
 - https://academiadeforensedigital.com.br/
 - https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/ (26, 27, 28 e 29 de Fevereiro de 2024 das 19h às 23h)  
+  
+- WB EDUCAÇÃO:
+- https://wbeduca.com.br/pt
+- https://wbeduca.com.br/pt/cursos/curso-de-ferramentas-criadas-por-policiais-para-investigacao-telematica-2a-edicao (Dias 19, 20, 21, 25, 26 e 27 de março de 2024, das 19h às 22h, via Google Meet. Conteúdo será gravado!!)
+
+## 📋 Webinars.
 - Webinar:  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ)
 
 - New Webinar: https://www.youtube.com/watch?v=H-rtMs3DgmM
@@ -26,10 +32,6 @@ Thanks for the votes, without you this would not be possible.
 ✅ Who can have access to this tool?
 ✅ Live practical examples!
 ✅ And much more!
-  
-- WB EDUCAÇÃO:
-- https://wbeduca.com.br/pt
-- https://wbeduca.com.br/pt/cursos/curso-de-ferramentas-criadas-por-policiais-para-investigacao-telematica-2a-edicao (Dias 19, 20, 21, 25, 26 e 27 de março de 2024, das 19h às 22h, via Google Meet. Conteúdo será gravado!!)
 
 ## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
