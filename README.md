@@ -20,7 +20,7 @@ Thanks for the votes, without you this would not be possible.
 - Prof. Daniel Avilla teaches the "Avilla Forensics – Official Training" and "Avilla Forensics Bootcamp" training courses at AFD, Civil Police Agent in the State of São Paulo, President of the Technology Development Committee for Mobile Forensics at APECOF, Graduate in Systems Analysis and Postgraduate in Computer Forensics and developer of the Avilla Forensics tool, a tool that allows the forensic acquisition of applications on any device, going beyond basic market tools.
 
 - Prof. Avilla will share with us what's new about the new version of Avilla Forensics.
-- 
+  
 - In this episode, we'll talk about:
 ✅ What's new in Avilla Forensics?
 ✅ Who can have access to this tool?
