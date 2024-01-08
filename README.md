@@ -13,8 +13,7 @@ Thanks for the votes, without you this would not be possible.
 - ACADEMIA DE FORENSE DIGITAL - AFD: 
 - https://academiadeforensedigital.com.br/
 - https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/ (26, 27, 28 e 29 de Fevereiro de 2024 das 19h às 23h)  
-- Webinar: [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
-- https://youtu.be/KuSmct1Qa30  
+- Webinar:  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ) 
   
 - WB EDUCAÇÃO:
 - https://wbeduca.com.br/pt
