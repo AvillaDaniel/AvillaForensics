@@ -16,12 +16,12 @@ Thanks for the votes, without you this would not be possible.
 - Webinar:  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ)
 
 - New Webinar: https://www.youtube.com/watch?v=H-rtMs3DgmM
--In this Webinar we will welcome our Professor and Civil Police Agent of SP, Daniel Avilla, who will share with us what is new about the new version of the Avilla Forensics tool.
--Prof. Daniel Avilla teaches the "Avilla Forensics – Official Training" and "Avilla Forensics Bootcamp" training courses at AFD, Civil Police Agent in the State of São Paulo, President of the Technology Development Committee for Mobile Forensics at APECOF, Graduate in Systems Analysis and Postgraduate in Computer Forensics and developer of the Avilla Forensics tool, a tool that allows the forensic acquisition of applications on any device, going beyond basic market tools.
+- In this Webinar we will welcome our Professor and Civil Police Agent of SP, Daniel Avilla, who will share with us what is new about the new version of the Avilla Forensics tool.
+- Prof. Daniel Avilla teaches the "Avilla Forensics – Official Training" and "Avilla Forensics Bootcamp" training courses at AFD, Civil Police Agent in the State of São Paulo, President of the Technology Development Committee for Mobile Forensics at APECOF, Graduate in Systems Analysis and Postgraduate in Computer Forensics and developer of the Avilla Forensics tool, a tool that allows the forensic acquisition of applications on any device, going beyond basic market tools.
 
--Prof. Avilla will share with us what's new about the new version of Avilla Forensics.
-
--In this episode, we'll talk about:
+- Prof. Avilla will share with us what's new about the new version of Avilla Forensics.
+- 
+- In this episode, we'll talk about:
 ✅ What's new in Avilla Forensics?
 ✅ Who can have access to this tool?
 ✅ Live practical examples!
