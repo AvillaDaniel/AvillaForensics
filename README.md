@@ -20,9 +20,9 @@ Thanks for the votes, without you this would not be possible.
 - Developed by São Paulo State Police Officer Daniel Avilla, this tool enables logical data extraction and the conversion of backups to formats compatible with detailed forensic analyses, such as IPED software or Cellebrite Physical Analyser.
 - In version 3.7 of Avilla Forensics, numerous improvements and new functionalities for mobile data extraction and analysis were implemented. This update introduced an integrity system that generates AES-256 encrypted logs (.avilla), containing hashes of the collected files. In addition to encryption, the .avilla file features an HMAC signature, creating a second layer of protection for file integrity.
 - Version 3.7 significantly enhances the capabilities for data extraction and analysis, offering new integrity functionalities and advanced tools for handling backups and extracting app data. These improvements make the tool even more robust and effective for forensic investigations.
-- With features that allow interaction with mobile devices through the Android Debug Bridge (ADB) interface, Avilla Forensics offers a versatile command-line tool that facilitates device communication.
--Developed in C#, the tool is compatible and operates stably in Windows 10/11 environments, including their latest updates.
--The main feature of the tool is the APK Downgrade module, which enables data collection from over 15 applications, making it an indispensable tool for forensic investigations.
+- With features that allow interaction with mobile devices through the Android Debug Bridge (ADB) interface, Avilla Forensics offers a versatile tool that facilitates communication with the device.
+- Developed in C#, the tool is compatible and operates stably in Windows 10/11 environments, including their latest updates.
+- The main feature of the tool is the APK Downgrade module, which enables data collection from over 15 applications, making it an indispensable tool for forensic investigations.
 
 ## 📋 Webinars
 
