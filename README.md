@@ -14,7 +14,7 @@ Thanks for the votes, without you this would not be possible.
 - https://academiadeforensedigital.com.br/
 - https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/ (Gravado)
 
-## 📋 Webinars.
+## 📋 Webinars
 
 - Avilla Forensics: What's New in the New Version - Broadcast live on April 23. 2024 - AFD (https://www.youtube.com/watch?v=H-rtMs3DgmM)
 
