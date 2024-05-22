@@ -12,22 +12,33 @@ Thanks for the votes, without you this would not be possible.
 
 - ACADEMIA DE FORENSE DIGITAL - AFD: 
 - https://academiadeforensedigital.com.br/
-- https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/ (26, 27, 28 e 29 de Fevereiro de 2024 das 19h às 23h)  
+- https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/ (Gravado)
 
 ## 📋 Webinars.
-- Webinar:  [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=zQigjIIkBjQ)](https://www.youtube.com/watch?v=zQigjIIkBjQ)
 
-- New Webinar: https://www.youtube.com/watch?v=H-rtMs3DgmM
-- In this Webinar we will welcome our Professor and Civil Police Agent of SP, Daniel Avilla, who will share with us what is new about the new version of the Avilla Forensics tool.
-- Prof. Daniel Avilla teaches the "Avilla Forensics – Official Training" and "Avilla Forensics Bootcamp" training courses at AFD, Civil Police Agent in the State of São Paulo, President of the Technology Development Committee for Mobile Forensics at APECOF, Graduate in Systems Analysis and Postgraduate in Computer Forensics and developer of the Avilla Forensics tool, a tool that allows the forensic acquisition of applications on any device, going beyond basic market tools.
+- Avilla Forensics: What's New in the New Version - Broadcast live on April 23. 2024 - AFD (https://www.youtube.com/watch?v=H-rtMs3DgmM)
 
-- Prof. Avilla will share with us what's new about the new version of Avilla Forensics.
+- How to Simulate Applications using Avilla App Simulator (Step by Step Tutorial) - It premiered on April 23. 2024 - AFD (https://youtu.be/3WNStFaztfc?si=7QUu5SFZ-eONvGRt)
   
-- In this episode, we'll talk about:
-✅ What's new in Avilla Forensics?
-✅ Who can have access to this tool?
-✅ Live practical examples!
-✅ And much more!
+- Avilla Universal Whatsapp Extraction - It premiered on January 5th. 2024 (https://youtu.be/jqF89Xyv-YA?si=OknE6Oo6MLaZCVUj)
+
+- Avilla App Simulator - Broadcast live on April 6th. 2023 - AFD (https://www.youtube.com/live/6G4Y3_pk18A?si=Rww8JkobPh9bqKkI) 
+
+- AVILLA FORENSICS 3.5 - Broadcast live on March 17th. 2023 UCAPEM GROUP - (https://www.youtube.com/live/5ndIo1Kx8fk?si=RIKdix6wDkKVVLuj)
+
+- Signal Forensics: Data Extraction and Decryption on Signal - Broadcast live on Nov 24th. 2022 - AFD (https://www.youtube.com/live/NezodJcGyQ4?si=0piGWLhHz1Xbf9hT)
+
+- MOBILE FORENSIC EXTRACTION - USING AVILLA FORENSICS SOFTWARE - LOGIC EXTRACTION AND APK DOWNGRADE - Aug 5 2022 - By Emerson Borges (https://youtu.be/KuSmct1Qa30?si=-D2LbqtkfORdcgfQ)
+
+- Automatic WhatsApp audio transcription with Avilla Forensics - Broadcast live on Jul 6. 2022 - AFD (https://www.youtube.com/live/EyYayEqmpkE?si=Cdd8QfP1IcXehNti)
+  
+- Broadcast live on March 15th. 2022 - AFD (https://www.youtube.com/live/zQigjIIkBjQ?si=uanfwVUt33IqlWXt)
+  
+- I have a passion for mobile digital forensics and the art of data extractions.
+
+- "The pursuit of truth and justice through science."
+
+- Daniel Avilla is Teacher of Forensics in Mobile Devices at Academia de Forense Digital - AFD, Police Detective in the State of São Paulo, Teacher in the first Brazilian Graduate Course in Mobile Forensics – Blu Ead, Instructor and official representative of UCAPEM Group Academy in Brazil, Teacher of Expertise in Informatics at WB Educacional, Teacher at Universidade Makenzie São Paulo and President of the Technology Development Commission for Mobile Forensics at the National Association of Experts in Computer Forensics – APECOF. In addition, he has a degree in Systems Analysis, a postgraduate degree in Computational Forensics and a postgraduate degree in Cyber Security. He has technical training in Mobile Devices and Advanced Extraction (ChipOff, EDL and ISP) from AFD. Daniel Avilla has been a researcher in the field of technology since 1998, developer of the tool “Avilla Forensics”, a world-renowned free software that allows forensic acquisition on mobile devices.
 
 ## 🤖 Contacts
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-a-avilla-0987/)](https://www.linkedin.com/in/daniel-a-avilla-0987/)
