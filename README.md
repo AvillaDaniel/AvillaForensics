@@ -23,6 +23,7 @@ Thanks for the votes, without you this would not be possible.
 - With features that allow interaction with mobile devices through the Android Debug Bridge (ADB) interface, Avilla Forensics offers a versatile tool that facilitates communication with the device.
 - Developed in C#, the tool is compatible and operates stably in Windows 10/11 environments, including their latest updates.
 - The main feature of the tool is the APK Downgrade module, which enables data collection from over 15 applications, making it an indispensable tool for forensic investigations.
+- The Avilla Forensics suite does not replace existing tools, but complements them, offering new additional possibilities.
 
 ## 📋 Webinars
 
