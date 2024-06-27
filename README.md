@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# (NEW) Avilla Forensics 3.6
+# (NEW) Avilla Forensics 3.7
 
 Avilla Forensics is located in first place in the award international Forensics 4:Cast 🥇🏆, in the tool category no commercial. Announcement made at the event from the SANS Institute.
 
@@ -58,19 +58,19 @@ Thanks for the votes, without you this would not be possible.
 
 ## 🌐 Download
 
-### (NEW) Avilla Forensics 3.6
+### (NEW) Avilla Forensics 3.7
 
-**Download Setup-Forensics-3-6.exe:**
+**Download AFD-Setup-Forensics-3-7.exe:**
 
-- SIZE: 2,53 GB
-- HASH SHA-256: 580653BB264CC3E3759FCA1FDED13CFD72D5DF7ADAB20C2DDCAC1D5817F1CD35
-  
-- Link 01: https://drive.google.com/u/0/uc?id=1t1FyltnAx2GpvsSMMyhV-nGSLYlBLlI4&export=download
-- Link 02: https://drive.google.com/u/0/uc?id=1CpZ6I1H4nO5N_WjmkUqw3BpCMYaUkrU2&export=download
-- Link 03: https://drive.google.com/u/0/uc?id=133SyqurFzFB-ClO0J84SXUzNC_tm_I1T&export=download
+- SIZE: 3,25 GB
+- Hash Sha-256: 6530ba50325af012775047ab03f991969d47502680235e142e296d0b9a45b922
+- Hash Sha-512: 4170211efdf0c97b6eb1c3bd939a39954ad82c50415a570ba983263d337d45eacc8b65b2e094d4f0c503dfffd1f34cb08066ad60c825f40eae708196e46374b7  
+
+- Sign up to download the tool, which is free!
+- Link 01: https://academiadeforensedigital.com.br/ferramenta-avilla-forensics 
 
 ## 🚀 License
-Avilla Forensics - Copyright (C) 2023 – Daniel Hubscher Avilla 
+Avilla Forensics - Copyright (C) 2024 – Daniel Hubscher Avilla 
 
 This program is free software: you can redistribute it and/or modify 
 it under the terms of the GNU General Public License as published by 
