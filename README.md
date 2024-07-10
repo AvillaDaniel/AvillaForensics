@@ -68,7 +68,9 @@ Thanks for the votes, without you this would not be possible.
 - Hash Sha-512: 4170211efdf0c97b6eb1c3bd939a39954ad82c50415a570ba983263d337d45eacc8b65b2e094d4f0c503dfffd1f34cb08066ad60c825f40eae708196e46374b7  
 
 - Sign up to download the tool, which is free!
-- Link 01: https://drive.google.com/file/d/11A2DLT8IgAKN3WWz2-jCqkrtCL5moClg/view?usp=sharing  
+- Link 01: https://drive.google.com/file/d/11A2DLT8IgAKN3WWz2-jCqkrtCL5moClg/view?usp=sharing
+- Link 02: https://drive.google.com/file/d/1II_ZXZIb7_PEBCkln3pQJpDIMNhTEb-j/view?usp=sharing
+- Link 03: https://drive.google.com/file/d/1IBIfMoI__kP6yopQmswyJWjdAETGHhdf/view?usp=sharing
 - ## Installer password: avilla_afd
 
 ## 🚀 License
