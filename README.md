@@ -27,9 +27,11 @@ Thanks for the votes, without you this would not be possible.
 
 ## 📋 Webinars
 
+- Avilla Forensics: Security in the palm of your hand: A meeting with Daniel Avilla to talk about Digital Forensics on Mobile Devices - Broadcast live on July 4 2024 - Vincit College  (https://www.youtube.com/watch?v=H-rtMs3DgmM)
+
 - Avilla Forensics: What's New in the New Version - Broadcast live on April 23. 2024 - AFD (https://www.youtube.com/watch?v=H-rtMs3DgmM)
 
-- How to Simulate Applications using Avilla App Simulator (Step by Step Tutorial) - It premiered on April 23. 2024 - AFD (https://youtu.be/3WNStFaztfc?si=7QUu5SFZ-eONvGRt)
+- How to Simulate Applications using Avilla App Simulator (Step by Step Tutorial) - It premiered on April 23. 2024 - By Wesley Rodrigo - AFD (https://youtu.be/3WNStFaztfc?si=7QUu5SFZ-eONvGRt)
   
 - Avilla Universal Whatsapp Extraction - It premiered on January 5th. 2024 (https://youtu.be/jqF89Xyv-YA?si=OknE6Oo6MLaZCVUj)
 
