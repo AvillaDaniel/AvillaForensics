@@ -27,7 +27,9 @@ Thanks for the votes, without you this would not be possible.
 
 ## 📋 Webinars
 
-- (NEW) Avilla Forensics: Webinar: Avilla Forensics 3.7 - What's new? With Prof. Daniel Avilla - Scheduled for September 3rd. 2024 - AFD (https://www.youtube.com/watch?v=HHPptOdZLaA)
+- (NEW) Avilla Forensics: APK Downgrade of WhatsApp on Android 14 with the aim of collecting forensic data: - It debuted on September 6th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=gELHf74AIhQ&t=4s)
+
+- Avilla Forensics: Webinar: Avilla Forensics 3.7 - What's new? With Prof. Daniel Avilla - Scheduled for September 3rd. 2024 - AFD (https://www.youtube.com/watch?v=HHPptOdZLaA)
 
 - Avilla Forensics: Security in the palm of your hand: A meeting with Daniel Avilla to talk about Digital Forensics on Mobile Devices - Broadcast live on July 4 2024 - Vincit College  (https://www.youtube.com/watch?v=g8gJC1nUngM&t=702s)
 
