@@ -27,9 +27,9 @@ Thanks for the votes, without you this would not be possible.
 
 ## 📋 Webinars
 
-- Avilla Forensics Webinar: Downgrade from Android 14 with Avilla Forensics 3.7.5. With Prof. Daniel Avilla - Scheduled for October 15th. 2024 - AFD (https://www.youtube.com/watch?v=HHPptOdZLaA)
+- Avilla Forensics Webinar: Downgrade from Android 14 with Avilla Forensics 3.7.5. With Prof. Daniel Avilla - Scheduled for October 15th. 2024 - AFD (https://www.youtube.com/watch?v=08djLn5i440)
 
-- Avilla Forensics: WI-FI debugging and pairing with Avilla Forensics: - September 12th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=gELHf74AIhQ&t)
+- Avilla Forensics: WI-FI debugging and pairing with Avilla Forensics: - September 12th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=VoNf0baZa_g&t)
 
 - Avilla Forensics: WhatsApp Downgrade APK, for data collection, on a Moto G14 with Android 14: - September 11th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=zA_Fw8EsmQo)
 
