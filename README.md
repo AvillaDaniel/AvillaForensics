@@ -27,33 +27,36 @@ Thanks for the votes, without you this would not be possible.
 
 ## 📋 Webinars
 
+- Avilla Forensics Webinar: Downgrade from Android 14 with Avilla Forensics 3.7.5. With Prof. Daniel Avilla - Scheduled for October 15th. 2024 - AFD (https://www.youtube.com/watch?v=HHPptOdZLaA)
+
 - Avilla Forensics: WI-FI debugging and pairing with Avilla Forensics: - September 12th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=gELHf74AIhQ&t)
 
 - Avilla Forensics: WhatsApp Downgrade APK, for data collection, on a Moto G14 with Android 14: - September 11th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=zA_Fw8EsmQo)
 
-- Avilla Forensics: APK Downgrade of WhatsApp on Android 14 with the aim of collecting forensic data: - It debuted on September 6th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=gELHf74AIhQ&t)
+- Avilla Forensics: APK Downgrade of WhatsApp on Android 14 with the aim of collecting forensic data: -  September 6th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=gELHf74AIhQ&t)
 
-- Avilla Forensics: Webinar: Avilla Forensics 3.7 - What's new? With Prof. Daniel Avilla - Scheduled for September 3rd. 2024 - AFD (https://www.youtube.com/watch?v=HHPptOdZLaA)
+- Avilla Forensics: Webinar: Avilla Forensics 3.7 - What's new? With Prof. Daniel Avilla - September 3rd. 2024 - AFD (https://www.youtube.com/watch?v=HHPptOdZLaA)
 
-- Avilla Forensics: Security in the palm of your hand: A meeting with Daniel Avilla to talk about Digital Forensics on Mobile Devices - Broadcast live on July 4 2024 - Vincit College  (https://www.youtube.com/watch?v=g8gJC1nUngM&t)
+- Avilla Forensics: Security in the palm of your hand: A meeting with Daniel Avilla to talk about Digital Forensics on Mobile Devices - July 4 2024 - Vincit College  (https://www.youtube.com/watch?v=g8gJC1nUngM&t)
 
 - Avilla Forensics: What's New in the New Version - Broadcast live on April 23. 2024 - AFD (https://www.youtube.com/watch?v=H-rtMs3DgmM)
 
-- How to Simulate Applications using Avilla App Simulator (Step by Step Tutorial) - It premiered on April 23. 2024 - By Wesley Rodrigo - AFD (https://youtu.be/3WNStFaztfc?si=7QUu5SFZ-eONvGRt)
+- How to Simulate Applications using Avilla App Simulator (Step by Step Tutorial) - April 23. 2024 - By Wesley Rodrigo - AFD (https://youtu.be/3WNStFaztfc?si=7QUu5SFZ-eONvGRt)
   
-- Avilla Universal Whatsapp Extraction - It premiered on January 5th. 2024 (https://youtu.be/jqF89Xyv-YA?si=OknE6Oo6MLaZCVUj)
+- Avilla Universal Whatsapp Extraction - January 5th. 2024 (https://youtu.be/jqF89Xyv-YA?si=OknE6Oo6MLaZCVUj)
 
-- Avilla App Simulator - Broadcast live on April 6th. 2023 - AFD (https://www.youtube.com/live/6G4Y3_pk18A?si=Rww8JkobPh9bqKkI) 
+- Avilla App Simulator - April 6th. 2023 - AFD (https://www.youtube.com/live/6G4Y3_pk18A?si=Rww8JkobPh9bqKkI) 
 
-- AVILLA FORENSICS 3.5 - Broadcast live on March 17th. 2023 UCAPEM GROUP - (https://www.youtube.com/live/5ndIo1Kx8fk?si=RIKdix6wDkKVVLuj)
+- AVILLA FORENSICS 3.5 -  March 17th. 2023 UCAPEM GROUP - (https://www.youtube.com/live/5ndIo1Kx8fk?si=RIKdix6wDkKVVLuj)
 
-- Signal Forensics: Data Extraction and Decryption on Signal - Broadcast live on Nov 24th. 2022 - AFD (https://www.youtube.com/live/NezodJcGyQ4?si=0piGWLhHz1Xbf9hT)
+- Signal Forensics: Data Extraction and Decryption on Signal -  Nov 24th. 2022 - AFD (https://www.youtube.com/live/NezodJcGyQ4?si=0piGWLhHz1Xbf9hT)
 
 - MOBILE FORENSIC EXTRACTION - USING AVILLA FORENSICS SOFTWARE - LOGIC EXTRACTION AND APK DOWNGRADE - Aug 5 2022 - By Emerson Borges (https://youtu.be/KuSmct1Qa30?si=-D2LbqtkfORdcgfQ)
 
-- Automatic WhatsApp audio transcription with Avilla Forensics - Broadcast live on Jul 6. 2022 - AFD (https://www.youtube.com/live/EyYayEqmpkE?si=Cdd8QfP1IcXehNti)
+- Automatic WhatsApp audio transcription with Avilla Forensics - Jul 6. 2022 - AFD (https://www.youtube.com/live/EyYayEqmpkE?si=Cdd8QfP1IcXehNti)
   
-- Broadcast live on March 15th. 2022 - AFD (https://www.youtube.com/live/zQigjIIkBjQ?si=uanfwVUt33IqlWXt)
+- Android Forensics with Avilla Forensics - March 15th. 2022 - AFD (https://www.youtube.com/live/zQigjIIkBjQ?si=uanfwVUt33IqlWXt)
+
   
 - I have a passion for mobile digital forensics and the art of data extractions.
 
