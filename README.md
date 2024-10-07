@@ -29,7 +29,7 @@ Thanks for the votes, without you this would not be possible.
 
 - Avilla Forensics Webinar: Downgrade from Android 14 with Avilla Forensics 3.7.5. With Prof. Daniel Avilla - Scheduled for October 15th. 2024 - AFD (https://www.youtube.com/watch?v=08djLn5i440)
 
-- Avilla App Full Extraction: Security Space collection of Xiaomi models - September 19th. 2024 - Daniel Avilla ([https://www.youtube.com/watch?v=08djLn5i440](https://www.youtube.com/watch?v=HrpAam6zRu0))
+- Avilla App Full Extraction: Security Space collection of Xiaomi models - September 20th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=HrpAam6zRu0)
 
 - Avilla Forensics: WI-FI debugging and pairing with Avilla Forensics: - September 12th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=VoNf0baZa_g&t)
 
