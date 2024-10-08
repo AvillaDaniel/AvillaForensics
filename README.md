@@ -27,6 +27,8 @@ Thanks for the votes, without you this would not be possible.
 
 ## 📋 Webinars
 
+- Avilla App Full Extraction: FORENSICS MOBILE - NEW EXTRACTION METHODS USING AVILLA FORENSICS AND AVILLA FULL APP + IPED - Oct 4 2024 - Emerson Borges (https://www.youtube.com/watch?v=MUmCNDRlroU)
+
 - Avilla Forensics Webinar: Downgrade from Android 14 with Avilla Forensics 3.7.5. With Prof. Daniel Avilla - Scheduled for October 15th. 2024 - AFD (https://www.youtube.com/watch?v=08djLn5i440)
 
 - Avilla App Full Extraction: Security Space collection of Xiaomi models - September 19th. 2024 - Daniel Avilla ([https://www.youtube.com/watch?v=08djLn5i440](https://www.youtube.com/watch?v=HrpAam6zRu0))
