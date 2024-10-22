@@ -26,6 +26,9 @@ Thanks for the votes, without you this would not be possible.
 - The Avilla Forensics suite does not replace existing tools, but complements them, offering new additional possibilities.
 
 ## 📋 Webinars
+
+- (NEW) NOVEDADES DE AVILLA FORENSIC 3.8: La nueva versión de Avilla Forensics 3.8 viene cargada de mejoras y funcionalidades que optimizan el análisis forense digital, enfocándose en brindar mayor precisión y eficiencia para los profesionales del campo. - October 25th. 2024 - UCAPEM - RICARDO SERRANO (https://www.youtube.com/live/Us-gS2CUdHs)
+
 - (NEW) Avilla Forensics Webinar: Downgrade from Android 14 with Avilla Forensics 3.7.5. With Prof. Daniel Avilla - Scheduled for October 15th. 2024 - AFD (https://www.youtube.com/watch?v=08djLn5i440)
 
 - (NEW) Avilla App Full Extraction: FORENSICS MOBILE - NEW EXTRACTION METHODS USING AVILLA FORENSICS AND AVILLA FULL APP + IPED - Oct 4 2024 - Emerson Borges (https://www.youtube.com/watch?v=MUmCNDRlroU)
