@@ -1,6 +1,6 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
-# (NEW) Avilla Forensics 3.7
+# *** (NEW) *** Avilla Forensics 3.8
 
 Avilla Forensics is located in first place in the award international Forensics 4:Cast 🥇🏆, in the tool category no commercial. Announcement made at the event from the SANS Institute.
 
@@ -83,19 +83,17 @@ Thanks for the votes, without you this would not be possible.
 
 ## 🌐 Download
 
-### (NEW) Avilla Forensics 3.7
+### **** (NEW) **** Avilla Forensics 3.8
 
-**Download AFD-Setup-Forensics-3-7.exe:**
-
-- SIZE: 3,25 GB
-- Hash Sha-256: 6530ba50325af012775047ab03f991969d47502680235e142e296d0b9a45b922
-- Hash Sha-512: 4170211efdf0c97b6eb1c3bd939a39954ad82c50415a570ba983263d337d45eacc8b65b2e094d4f0c503dfffd1f34cb08066ad60c825f40eae708196e46374b7  
+- SIZE:  GB
+- Hash Sha-256: 
+- Hash Sha-512: 
 
 - Sign up to download the tool, which is free!
-- Link 01: https://drive.google.com/file/d/11A2DLT8IgAKN3WWz2-jCqkrtCL5moClg/view?usp=sharing
-- Link 02: https://drive.google.com/file/d/1II_ZXZIb7_PEBCkln3pQJpDIMNhTEb-j/view?usp=sharing
-- Link 03: https://drive.google.com/file/d/1IBIfMoI__kP6yopQmswyJWjdAETGHhdf/view?usp=sharing
-- Link 04: https://drive.google.com/file/d/158p-lfLDGjlVS7UAKpECu0ZVE8CLd3VF/view?usp=sharing
+- Link 01:
+- Link 02: 
+- Link 03: 
+- Link 04: 
 - ## Installer password: avilla_afd
 
 ## 🚀 License
