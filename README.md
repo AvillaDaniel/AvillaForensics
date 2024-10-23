@@ -87,16 +87,20 @@ Thanks for the votes, without you this would not be possible.
 
 ### **** (NEW) **** Avilla Forensics 3.8
 
-- SIZE:  GB
-- Hash Sha-256: 
-- Hash Sha-512: 
+- SIZE: 5.18 GB
+- Hash Sha-256: 7efde76e307dd0853eb89032b4093be52b882715e2a6fd6c09fed6b9a6462dd6
+- Hash Sha-512: e0946d71a3b241bdece6ca8cbb370fee29fd43c0ecbcd96e7c95090342d7005952c2254629c4d0232d355df1893980d0f77b4ad3e72542a2be5f6cbf7db8e69c
 
 - Sign up to download the tool, which is free!
-- Link 01:
+- Link 01: https://drive.google.com/file/d/1JD_aWeVIP_DkNbRJUZas8Em6wUpy-C2M/view?usp=sharing 
 - Link 02: 
 - Link 03: 
-- Link 04: 
-- ## Installer password: avilla_afd
+- Link 04:
+
+- Atenção, descompacte a ferramenta no C: Exemplo: "C:\Forensics-3-8"
+- Atención, descomprime la herramienta en C: Ejemplo: "C:\Forensics-3-8"
+- Attention, unzip the tool in C: Example: "C:\Forensics-3-8" 
+- ## Password: 1234
 
 ## 🚀 License
 Avilla Forensics - Copyright (C) 2024 – Daniel Hubscher Avilla 
