@@ -24,6 +24,8 @@ Thanks for the votes, without you this would not be possible.
 - Developed in C#, the tool is compatible and operates stably in Windows 10/11 environments, including their latest updates.
 - The main feature of the tool is the APK Downgrade module, which enables data collection from over 15 applications, making it an indispensable tool for forensic investigations.
 - The Avilla Forensics suite does not replace existing tools, but complements them, offering new additional possibilities.
+- From version 3.8 onwards, it is possible to perform APK Downgrade on Android 14.
+- By exploiting vulnerabilities in Android 12 and 13, it is also possible to collect data from applications located in the DATA region without the need for Root or Downgrade.
 
 ## 📋 Webinars
 
