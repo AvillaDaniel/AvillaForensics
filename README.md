@@ -35,7 +35,7 @@ Thanks for the votes, without you this would not be possible.
 
   ![Captura de tela 2024-10-25 000719](https://github.com/user-attachments/assets/d02c82fc-1226-4522-b37b-04b007211102)
   
-- By exploiting vulnerabilities in Android 12 and 13, it is also possible to collect data from applications located in the DATA region without the need for Root or Downgrade.
+- Module that exploits vulnerabilities in Android 12 and 13, to collect data from applications located in the DATA region without the need for Root or Downgrade.
 
   ![Captura de tela 2024-09-14 011932](https://github.com/user-attachments/assets/ce79232d-2cb2-4cdf-9304-ca7b6bffeced)
 
@@ -82,7 +82,7 @@ Thanks for the votes, without you this would not be possible.
   
 - Android Forensics with Avilla Forensics - March 15th. 2022 - AFD (https://www.youtube.com/live/zQigjIIkBjQ?si=uanfwVUt33IqlWXt)
 
-  
+
 - I have a passion for mobile digital forensics and the art of data extractions.
 
 - "The pursuit of truth and justice through science."
