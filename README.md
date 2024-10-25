@@ -41,7 +41,7 @@ Thanks for the votes, without you this would not be possible.
 
 - From version 3.8 onwards it is possible to collect data on multiple devices at the same time.
 
-![Captura de tela 2024-09-28 102033](https://github.com/user-attachments/assets/ab3cd0ca-2539-4df4-8e7b-8fcc6869bbfd)
+  ![Captura de tela 2024-09-28 102033](https://github.com/user-attachments/assets/ab3cd0ca-2539-4df4-8e7b-8fcc6869bbfd)
 
 
 ## 📋 Webinars
