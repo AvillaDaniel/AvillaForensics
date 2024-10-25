@@ -2,6 +2,12 @@
 
 # *** (NEW) *** Avilla Forensics 3.8
 
+- Finally, version 3.8 BETA of Avilla Forensics is available! 
+- With just over three years of existence, the tool has evolved remarkably, becoming indispensable for experts and users around the world.
+- The big highlight of this version is its ability to deal with cases involving mobile devices that use newer operating systems, such as Android 14 and 15. Starting with this update, it is now possible to perform the APK Downgrade on Android 14. In addition, a advanced module that allows access to more storage regions, surpassing traditional collections.
+- Another innovative feature is the possibility of performing data acquisition simultaneously on multiple devices, meeting complex demands that require this type of approach.
+- Finally, version 3.8 brings the powerful Avilla App Full Extraction as a complement. With this tool, you can collect data from any application on the DATA partition, without the need for root access or APK Downgrade. The feature is even more robust by allowing the extraction of data from secondary profiles registered on the device.
+
 Avilla Forensics is located in first place in the award international Forensics 4:Cast 🥇🏆, in the tool category no commercial. Announcement made at the event from the SANS Institute.
 
 Thanks for the votes, without you this would not be possible.
@@ -24,8 +30,19 @@ Thanks for the votes, without you this would not be possible.
 - Developed in C#, the tool is compatible and operates stably in Windows 10/11 environments, including their latest updates.
 - The main feature of the tool is the APK Downgrade module, which enables data collection from over 15 applications, making it an indispensable tool for forensic investigations.
 - The Avilla Forensics suite does not replace existing tools, but complements them, offering new additional possibilities.
+  
 - From version 3.8 onwards, it is possible to perform APK Downgrade on Android 14.
+
+  ![Captura de tela 2024-10-25 000719](https://github.com/user-attachments/assets/d02c82fc-1226-4522-b37b-04b007211102)
+  
 - By exploiting vulnerabilities in Android 12 and 13, it is also possible to collect data from applications located in the DATA region without the need for Root or Downgrade.
+
+  ![Captura de tela 2024-09-14 011932](https://github.com/user-attachments/assets/ce79232d-2cb2-4cdf-9304-ca7b6bffeced)
+
+- From version 3.8 onwards it is possible to collect data on multiple devices at the same time.
+
+![Captura de tela 2024-09-28 102033](https://github.com/user-attachments/assets/ab3cd0ca-2539-4df4-8e7b-8fcc6869bbfd)
+
 
 ## 📋 Webinars
 
