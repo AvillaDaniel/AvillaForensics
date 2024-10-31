@@ -107,22 +107,26 @@ Thanks for the votes, without you this would not be possible.
 - Hash Sha-256: 7efde76e307dd0853eb89032b4093be52b882715e2a6fd6c09fed6b9a6462dd6
 - Hash Sha-512: e0946d71a3b241bdece6ca8cbb370fee29fd43c0ecbcd96e7c95090342d7005952c2254629c4d0232d355df1893980d0f77b4ad3e72542a2be5f6cbf7db8e69c
 
-- Sign up to download the tool, which is free!
 - Link 01: https://drive.google.com/file/d/1JD_aWeVIP_DkNbRJUZas8Em6wUpy-C2M/view?usp=sharing 
 - Link 02: https://drive.google.com/file/d/1PTg2qKq27twdTKVWaz4C7v0JVSwVxqZW/view?usp=sharing
 
-- Atenção, descompacte a ferramenta no C: Exemplo: "C:\Forensics-3-8"
-- Atención, descomprime la herramienta en C: Ejemplo: "C:\Forensics-3-8"
-- Attention, unzip the tool in C: Example: "C:\Forensics-3-8" 
+- Atenção, descompacte a ferramenta em "C:\Forensics-3-8"
+- Atención, descomprime la herramienta "C:\Forensics-3-8"
+- Attention, unzip the tool in "C:\Forensics-3-8" 
 - ## Password: 1234
 
-- ## Complementary pack with 400 applications for Downgrade:
-- Link 01: https://drive.google.com/file/d/1PZYhnVFpM391f9BSUxAV0pBZIJEN5ydo/view?usp=sharing
-- ## Password: 1234
-  
+### Complementary pack with 400 applications for Downgrade:
+
 - SIZE: 4,91 GB
 - Hash Sha-256: 622c51d3c5ea40266e9e8cb977a46949227a09602199567e9ef2ecf7d3653281
 - Hash Sha-512: d48cd0a38546d80cad2ae2303260921eb286763e19c93e4ea844d666703d068b1e55a67ff93ad7973c31304cd991e5e15b18b7f6939eb86cd24b507f01670ed9
+  
+- Link 01: https://drive.google.com/file/d/1PZYhnVFpM391f9BSUxAV0pBZIJEN5ydo/view?usp=sharing
+
+- Atenção, descompacte em "C:\Forensics-3-8\down"
+- Atención, descomprime "C:\Forensics-3-8\down"
+- Attention, unzip in "C:\Forensics-3-8\down" 
+- ## Password: 1234
   
 - Source of apks: https://djangofaiola.blogspot.com/2024/10/happy-3rd-birthday-to-dfapkdngrader.html  
 
