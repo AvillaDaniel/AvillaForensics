@@ -7,6 +7,7 @@
 - The big highlight of this version is its ability to deal with cases involving mobile devices that use newer operating systems, such as Android 14 and 15. Starting with this update, it is now possible to perform the APK Downgrade on Android 14. In addition, a advanced module that allows access to more storage regions, surpassing traditional collections.
 - Another innovative feature is the possibility of performing data acquisition simultaneously on multiple devices, meeting complex demands that require this type of approach.
 - Finally, version 3.8 brings the powerful Avilla App Full Extraction as a complement. With this tool, you can collect data from any application on the DATA partition, without the need for root access or APK Downgrade. The feature is even more robust by allowing the extraction of data from secondary profiles registered on the device.
+- Downgrade support for over 400 apps. 
 
 Avilla Forensics is located in first place in the award international Forensics 4:Cast 🥇🏆, in the tool category no commercial. Announcement made at the event from the SANS Institute.
 
@@ -100,22 +101,30 @@ Thanks for the votes, without you this would not be possible.
 
 ## 🌐 Download
 
-### **** (NEW) **** Avilla Forensics 3.8
+### **** (NEW) **** Avilla Forensics 3.8:
 
-- SIZE: 5.18 GB
+- SIZE: 5,18 GB
 - Hash Sha-256: 7efde76e307dd0853eb89032b4093be52b882715e2a6fd6c09fed6b9a6462dd6
 - Hash Sha-512: e0946d71a3b241bdece6ca8cbb370fee29fd43c0ecbcd96e7c95090342d7005952c2254629c4d0232d355df1893980d0f77b4ad3e72542a2be5f6cbf7db8e69c
 
 - Sign up to download the tool, which is free!
 - Link 01: https://drive.google.com/file/d/1JD_aWeVIP_DkNbRJUZas8Em6wUpy-C2M/view?usp=sharing 
 - Link 02: https://drive.google.com/file/d/1PTg2qKq27twdTKVWaz4C7v0JVSwVxqZW/view?usp=sharing
-- Link 03: 
-- Link 04:
 
 - Atenção, descompacte a ferramenta no C: Exemplo: "C:\Forensics-3-8"
 - Atención, descomprime la herramienta en C: Ejemplo: "C:\Forensics-3-8"
 - Attention, unzip the tool in C: Example: "C:\Forensics-3-8" 
 - ## Password: 1234
+
+- ## Complementary pack with 400 applications for Downgrade:
+- Link 01: https://drive.google.com/file/d/1PZYhnVFpM391f9BSUxAV0pBZIJEN5ydo/view?usp=sharing
+- ## Password: 1234
+  
+- SIZE: 4,91 GB
+- Hash Sha-256: 622c51d3c5ea40266e9e8cb977a46949227a09602199567e9ef2ecf7d3653281
+- Hash Sha-512: d48cd0a38546d80cad2ae2303260921eb286763e19c93e4ea844d666703d068b1e55a67ff93ad7973c31304cd991e5e15b18b7f6939eb86cd24b507f01670ed9
+  
+- Source of apks: https://djangofaiola.blogspot.com/2024/10/happy-3rd-birthday-to-dfapkdngrader.html  
 
 ## 🚀 License
 Avilla Forensics - Copyright (C) 2024 – Daniel Hubscher Avilla 
