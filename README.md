@@ -1,5 +1,7 @@
 ![logo avilla 800](https://user-images.githubusercontent.com/102838167/161397689-5df01560-546c-4d82-94a6-e4a3b677875f.png)
 
+## "What we have done for ourselves alone dies with us; what we have done for others and the world remains and is immortal." (Albert Pike)
+
 # *** (NEW) *** Avilla Forensics 3.8
 
 - Finally, version 3.8 BETA of Avilla Forensics is available! 
