@@ -55,7 +55,7 @@ Thanks for the votes, without you this would not be possible.
 
 - Avilla App Full Extraction: FORENSICS MOBILE - NEW EXTRACTION METHODS USING AVILLA FORENSICS AND AVILLA FULL APP + IPED - Oct 4 2024 - Emerson Borges (https://www.youtube.com/watch?v=MUmCNDRlroU)
 
-- Avilla App Full Extraction: Security Space collection of Xiaomi models - September 19th. 2024 - Daniel Avilla ([https://www.youtube.com/watch?v=08djLn5i440](https://www.youtube.com/watch?v=HrpAam6zRu0))
+- Avilla App Full Extraction: Security Space collection of Xiaomi models - September 19th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=HrpAam6zRu0)
 
 - Avilla Forensics: WI-FI debugging and pairing with Avilla Forensics: - September 12th. 2024 - Daniel Avilla (https://www.youtube.com/watch?v=VoNf0baZa_g&t)
 
