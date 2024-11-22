@@ -119,6 +119,13 @@ Thanks for the votes, without you this would not be possible.
 - Attention, unzip the tool in "C:\Forensics-3-8" 
 - ## Password: 1234
 
+- Para descompactar utilize o Winrar ou o 7-Zip.  
+- Para descomprimir, use Winrar o 7-Zip.
+- To unzip, use Winrar or 7-Zip.
+
+- https://www.win-rar.com/download.html
+- https://www.7-zip.org/
+
 ### Complementary pack with 400 applications for Downgrade:
 
 - SIZE: 4,91 GB
@@ -131,6 +138,13 @@ Thanks for the votes, without you this would not be possible.
 - Atención, descomprime "C:\Forensics-3-8\down"
 - Attention, unzip in "C:\Forensics-3-8\down" 
 - ## Password: 1234
+
+- Para descompactar utilize o Winrar ou o 7-Zip.  
+- Para descomprimir, use Winrar o 7-Zip.
+- To unzip, use Winrar or 7-Zip.
+
+- https://www.win-rar.com/download.html
+- https://www.7-zip.org/
   
 - Source of apks: https://djangofaiola.blogspot.com/2024/10/happy-3rd-birthday-to-dfapkdngrader.html  
 
