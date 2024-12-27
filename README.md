@@ -131,7 +131,7 @@ VHD format:
 - Atenção, descompacte em "C:\Forensics-3-8\down"
 - Atención, descomprime "C:\Forensics-3-8\down"
 - Attention, unzip in "C:\Forensics-3-8\down" 
-- ## Password: 1234
+- Password: 1234
 
 - Para descompactar utilize o Winrar ou o 7-Zip.  
 - Para descomprimir, use Winrar o 7-Zip.
