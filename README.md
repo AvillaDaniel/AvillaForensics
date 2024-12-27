@@ -49,6 +49,8 @@ Thanks for the votes, without you this would not be possible.
 
 ## 📋 Webinars
 
+- Avilla Forensics Webinar: Daniel Avilla - Dez 8 2024 - By Anak Kuda (https://www.youtube.com/watch?v=faEiKg2izcg) 
+
 - Avilla Forensics Webinar:Acquisition, Decryption and Parsing of SIGNAL (Version 7.23) with AVILLA SIGNAL EXTRACTION. With Prof. Daniel Avilla - Nov 2 2024 (https://www.youtube.com/watch?v=vKn0yCghE5E&t)
 
 - Avilla Forensics Webinar: Downgrade from Android 14 with Avilla Forensics 3.7.5. With Prof. Daniel Avilla - October 15th. 2024 - AFD (https://www.youtube.com/watch?v=08djLn5i440)
