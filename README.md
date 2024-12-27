@@ -109,25 +109,17 @@ Thanks for the votes, without you this would not be possible.
 
 ### **** (NEW) **** Avilla Forensics 3.8:
 
-- SIZE: 5,18 GB
-- Hash Sha-256: 7efde76e307dd0853eb89032b4093be52b882715e2a6fd6c09fed6b9a6462dd6
-- Hash Sha-512: e0946d71a3b241bdece6ca8cbb370fee29fd43c0ecbcd96e7c95090342d7005952c2254629c4d0232d355df1893980d0f77b4ad3e72542a2be5f6cbf7db8e69c
+- SIZE: 6,96 GB
+- Hash Sha-256: 247e00272fbff898320f5c99a10bf891f5eb82df52253c1ee075db6090655e07
+- Hash Sha-512: 58dd60b94b4587403863ec1b51a0a75f50d6fd7551028f8395cce63ff58eeb5609f7933116a3a6cc694b3a792f717ab3bd59679791487754814a5471df46b642
 
-- Link 01: https://drive.google.com/file/d/1JD_aWeVIP_DkNbRJUZas8Em6wUpy-C2M/view?usp=sharing 
-- Link 02: https://drive.google.com/file/d/1PTg2qKq27twdTKVWaz4C7v0JVSwVxqZW/view?usp=sharing
+VHD format:
+- Link 01: https://drive.google.com/file/d/1Q8YhfvAwkoQYNQQZX6ZhvXo6O3LKMaBQ/view?usp=sharing
 
-- Atenção, descompacte a ferramenta em "C:\Forensics-3-8"
-- Atención, descomprime la herramienta "C:\Forensics-3-8"
-- Attention, unzip the tool in "C:\Forensics-3-8" 
-- ## Password: 1234
+- Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
 
-- Para descompactar utilize o Winrar ou o 7-Zip.  
-- Para descomprimir, use Winrar o 7-Zip.
-- To unzip, use Winrar or 7-Zip.
-
-- https://www.win-rar.com/download.html
-- https://www.7-zip.org/
-
+- O windows abre e monta unidades de disco em VHD de forma automática. Caso não monte, vá em gerenciamento de disco e anexe o arquivo VHD para montá-lo. 
+ 
 ### Complementary pack with 400 applications for Downgrade:
 
 - SIZE: 4,91 GB
@@ -382,27 +374,27 @@ quoted_row_id, mentioned_jids, multicast_id, edit_version, media_enc_hash, payme
 ![2022-04-03 (2)](https://user-images.githubusercontent.com/102838167/161448491-d9622700-c41e-41b0-8442-a055def05913.png)
 
 ### 🚀 (NEW) Access Through the Tool to IPED Tools.
-- "C:\Forensics\bin\IPEDTools\IPEDTools.exe"
+- "Z:\bin\IPEDTools\IPEDTools.exe"
 
 ![2](https://user-images.githubusercontent.com/102838167/184431890-01639fa1-82ad-4052-8e5e-e1eeaa621124.PNG)
 
 ### 🚀 Automatic integration with AFLogical OSE 1.5.2:
 
 - Performs the acquisition automatically without user intervention.
-- "C:\Forensics\bin\AFLogicalOSE152OSE.apk"
+- "Z:\bin\AFLogicalOSE152OSE.apk"
 
 ![af](https://user-images.githubusercontent.com/102838167/161461445-74dc290d-7ba7-4369-8248-a796f7299c19.PNG)
 
 ### 🚀 Automatic integration with Alias Connector:
 - Performs the acquisition automatically without user intervention.
-- "C:\Forensics\bin\com.alias.connector.apk"
+- "Z:\bin\com.alias.connector.apk"
 
 ![alias](https://user-images.githubusercontent.com/102838167/161463618-61745835-59f8-4d37-9512-f714dbc6effc.PNG)
 
 ### 📐 Conversion from .AB to .TAR:
 - Passworded ADB backups may take longer to convert.
 - Try not to put passwords in the backups requested in "ADB Backup" or "Downgrade", so you speed up the conversion process.
-- If this module doesn't work, try to add the **"C:\Forensics"** patch to the system variables
+- If this module doesn't work, try to add the **"Z:\"** patch to the system variables
 
 ![variaveis](https://user-images.githubusercontent.com/102838167/161451033-a41c46a0-35cb-4c3b-9aa3-cafee9c92284.PNG)
 
@@ -476,11 +468,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ![1](https://user-images.githubusercontent.com/102838167/184433978-562436fb-3e5a-4bad-a00c-c9a932aa9bb2.PNG)
 
-### 🚀 Automatic integration with MVT-1.5.3:
-- "C:\Forensics\bin\mvt-1.5.3\mvt.bat"
-
-![mvt](https://user-images.githubusercontent.com/102838167/161465986-08013fb5-d5b3-468f-bab2-a9f018904524.PNG)
-
 ### 🚀 Access Through the Tool to JADX (Dex to Java Decompiler):
 - "C:\Forensics\bin\jadx-1.2.0\jadx-gui-1.2.0-no-jre-win.exe"
 
@@ -500,7 +487,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 
 ### (NEW) 📱 Merge WhatsApp DATABASES:
 
-- "C:\Forensics\bin\merge\merge_databases_exe\merge_databases.exe -lv"
+- "Z:\bin\merge\merge_databases_exe\merge_databases.exe -lv"
 
 ![merge](https://user-images.githubusercontent.com/102838167/202287723-390aabae-6d06-47aa-975b-360a0c0bb841.PNG)
 
@@ -514,9 +501,11 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - JAVA (https://www.java.com/pt-BR/).
 - PHYTON (https://www.python.org/).
 
-## 💻 Installation Avilla Forensics 3.6
+## 💻 Installation Avilla Forensics 3.8
 
-- Extract the tool from "C:\Forensics-3-6".
+VHD format:
+- Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
+- O windows abre e monta unidades de disco em VHD de forma automática. Caso não monte, vá em gerenciamento de disco e anexe o arquivo VHD para montá-lo. 
 - **Do not put spaces in the tool folder name.**
 
 ![INSTALL](https://user-images.githubusercontent.com/102838167/235308795-9bbf5afd-24b3-4be9-b011-d4b53e6fabed.PNG)
@@ -526,16 +515,6 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - Jadx-1.2.0: "C:\Forensics\bin\jadx-1.2.0" (Just install JAVA). (APACHE LICENSE)
 - Backup Extractor: "C:\Forensics\backup_extractor" (Just install JAVA). (APACHE LICENSE)
 - The Backup Extractor module (.AB to .TAR) may require you to add the "C:\Forensics" patch to the system variables.
-
-### Requires python (https://www.python.org/):
-
-- WhatsApp-Crypt14-Crypt15-Decrypt: To install run the file "C:\Forensics\bin\WhatsApp-Crypt14-Crypt15-Decrypter-main\install-Decrypter.bat" or:
-
-```pip install -r requirements.txt```  
-
-- Whatsapp-media-decrypt: To install run the file "C:\Forensics-3-5\bin\install_wmd.bat"
-
-```pip install pycryptodome``` 
 
 ### 🚀 Donate:
 
