@@ -49,7 +49,7 @@ Thanks for the votes, without you this would not be possible.
 
 ## 📋 Webinars
 
-- Avilla Forensics Webinar: Daniel Avilla - Dez 8 2024 - By Anak Kuda (https://www.youtube.com/watch?v=faEiKg2izcg) 
+- Avilla Forensics Webinar: Dez 8 2024 - By Anak Kuda (https://www.youtube.com/watch?v=faEiKg2izcg) 
 
 - Avilla Forensics Webinar:Acquisition, Decryption and Parsing of SIGNAL (Version 7.23) with AVILLA SIGNAL EXTRACTION. With Prof. Daniel Avilla - Nov 2 2024 (https://www.youtube.com/watch?v=vKn0yCghE5E&t)
 
