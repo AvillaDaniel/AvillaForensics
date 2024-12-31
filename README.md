@@ -119,7 +119,10 @@ Installer version (Setup-Avilla.exe):
 - Hash Sha-256: aa5c4b1fae3bc9c98e9eb1cd635b6c6a6250580b5de7c13d8b3dbd9da7fd2721
 - Hash Sha-512: 79d273e9b10b6c1c557b633f1b0dc658267ccc5e11179be8ac4cee65eea5398742a86079005f9521162c43aea99e817aa6043247cbc7c09fd4c53b047d3c341b
 
-- Link 01:
+- Link 01: https://drive.google.com/file/d/16jbE9uQ464HaRKWC2FSTy-M8GQt2ODmS/view?usp=sharing
+- Para descompactar utilize o Winrar ou o 7-Zip.  
+- Para descomprimir, use Winrar o 7-Zip.
+- To unzip, use Winrar or 7-Zip.
 
 VHD format version:
 
