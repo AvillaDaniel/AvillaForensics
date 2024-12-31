@@ -113,16 +113,25 @@ Thanks for the votes, without you this would not be possible.
 
 ### **** (NEW) **** Avilla Forensics 3.8:
 
-- SIZE: 6,96 GB
-- Hash Sha-256: 247e00272fbff898320f5c99a10bf891f5eb82df52253c1ee075db6090655e07
-- Hash Sha-512: 58dd60b94b4587403863ec1b51a0a75f50d6fd7551028f8395cce63ff58eeb5609f7933116a3a6cc694b3a792f717ab3bd59679791487754814a5471df46b642
+Installer version (Setup-Avilla.exe):
 
-VHD format:
-- Link 01: https://drive.google.com/file/d/1Q8YhfvAwkoQYNQQZX6ZhvXo6O3LKMaBQ/view?usp=sharing
+- SIZE: 5,14 GB
+- Hash Sha-256: aa5c4b1fae3bc9c98e9eb1cd635b6c6a6250580b5de7c13d8b3dbd9da7fd2721
+- Hash Sha-512: 79d273e9b10b6c1c557b633f1b0dc658267ccc5e11179be8ac4cee65eea5398742a86079005f9521162c43aea99e817aa6043247cbc7c09fd4c53b047d3c341b
+
+- Link 01: 
+
+VHD format version:
+
+- SIZE: 6,95 GB
+- Hash Sha-256: 7a3fac303e031cec9326c8b2aa4f112b09be9d10f65fab647c25789281ae17c9
+- Hash Sha-512: 9b144cd72ba8baea9b8973751665b1eb9c7005532075b3dc8a1423ec4f59d6da8f58d3e166500f368f32db3c583df6548ea64df191295613882c67ac1d5fbaf0
+
+- Link 01: https://drive.google.com/file/d/1XC7grFDeX2JvzaeVORKas1NumkLIAJL7/view?usp=sharing
 
 - Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
 
-- O windows abre e monta unidades de disco em VHD de forma automática. Caso não monte, vá em gerenciamento de disco e anexe o arquivo VHD para montá-lo. 
+ - O windows abre e monta unidades de disco em VHD de forma automática. Caso não monte, vá em gerenciamento de disco e anexe o arquivo VHD para montá-lo. 
  
 ### Complementary pack with 400 applications for Downgrade:
 
