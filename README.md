@@ -134,7 +134,7 @@ VHD format version:
 
 - Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
 
- - O windows abre e monta unidades de disco em VHD de forma automática. Caso não monte, vá em gerenciamento de disco e anexe o arquivo VHD para montá-lo. 
+ - O Windows abre e monta unidades de disco em VHD de forma automática. Caso não monte, vá em gerenciamento de disco e anexe o arquivo VHD para montá-lo. 
  
 ### Complementary pack with 400 applications for Downgrade:
 
