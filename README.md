@@ -113,7 +113,7 @@ Thanks for the votes, without you this would not be possible.
 
 ### **** (NEW) **** Avilla Forensics 3.8:
 
-![Captura de tela 2025-01-31 141533](https://github.com/user-attachments/assets/328adf31-48bf-44c2-b936-ab6a5ba7f272)
+![Captura de tela 2025-01-31 142218](https://github.com/user-attachments/assets/aa4f9033-6a3b-4d43-a269-ef5fe308719c)
 
 Installer version (Setup-Avilla.exe):
 
