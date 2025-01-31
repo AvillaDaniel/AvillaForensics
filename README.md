@@ -119,7 +119,7 @@ Installer version (Setup-Avilla.exe):
 - Hash Sha-256: aa5c4b1fae3bc9c98e9eb1cd635b6c6a6250580b5de7c13d8b3dbd9da7fd2721
 - Hash Sha-512: 79d273e9b10b6c1c557b633f1b0dc658267ccc5e11179be8ac4cee65eea5398742a86079005f9521162c43aea99e817aa6043247cbc7c09fd4c53b047d3c341b
 
-- Link 01: https://drive.google.com/file/d/16jbE9uQ464HaRKWC2FSTy-M8GQt2ODmS/view?usp=sharing
+- Link 01: Access the website https://academiadeforensedigital.com.br/ and go to the downloads menu. / Acesse o site https://academiadeforensedigital.com.br/ e vá no menu downloads.
 - Para descompactar utilize o Winrar ou o 7-Zip.  
 - Para descomprimir, use Winrar o 7-Zip.
 - To unzip, use Winrar or 7-Zip.
@@ -142,7 +142,7 @@ VHD format version:
 - Hash Sha-256: 622c51d3c5ea40266e9e8cb977a46949227a09602199567e9ef2ecf7d3653281
 - Hash Sha-512: d48cd0a38546d80cad2ae2303260921eb286763e19c93e4ea844d666703d068b1e55a67ff93ad7973c31304cd991e5e15b18b7f6939eb86cd24b507f01670ed9
   
-- Link 01: https://drive.google.com/file/d/1PZYhnVFpM391f9BSUxAV0pBZIJEN5ydo/view?usp=sharing
+- Link 01: Access the website https://academiadeforensedigital.com.br/ and go to the downloads menu. / Acesse o site https://academiadeforensedigital.com.br/ e vá no menu downloads.
 
 - Atenção, descompacte em "C:\Forensics-3-8\down"
 - Atención, descomprime "C:\Forensics-3-8\down"
