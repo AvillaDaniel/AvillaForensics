@@ -122,8 +122,7 @@ Installer version (Setup-Avilla.exe):
 - Hash Sha-512: 79d273e9b10b6c1c557b633f1b0dc658267ccc5e11179be8ac4cee65eea5398742a86079005f9521162c43aea99e817aa6043247cbc7c09fd4c53b047d3c341b
 
 - Download Link:
-- Access the website https://academiadeforensedigital.com.br/ and go to the downloads menu.
-- Acesse o site https://academiadeforensedigital.com.br/ e vá no menu downloads.
+- https://downloads.academiadeforensedigital.com.br/AvillaForensicsInstaller-AF-3-8.zip
     
 - Para descompactar utilize o Winrar ou o 7-Zip.  
 - Para descomprimir, use Winrar o 7-Zip.
@@ -135,7 +134,7 @@ VHD format version:
 - Hash Sha-256: 7a3fac303e031cec9326c8b2aa4f112b09be9d10f65fab647c25789281ae17c9
 - Hash Sha-512: 9b144cd72ba8baea9b8973751665b1eb9c7005532075b3dc8a1423ec4f59d6da8f58d3e166500f368f32db3c583df6548ea64df191295613882c67ac1d5fbaf0
 
-- Link 01: https://drive.google.com/file/d/1XC7grFDeX2JvzaeVORKas1NumkLIAJL7/view?usp=sharing
+- Link 01: https://downloads.academiadeforensedigital.com.br/Avilla-Forensics-3-8.vhd
 
 - Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
 
