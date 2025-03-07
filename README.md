@@ -20,8 +20,7 @@
 
 - Comparação de uma coleta parcial feita por ferramenta proprietária e realizada pelo Avilla Forensics.
 
-![image](https://github.com/user-attachments/assets/7e18a339-9e90-4b51-a213-93910bdbb55e)
-
+![image](https://github.com/user-attachments/assets/57a035af-3a4d-4ccf-9105-c85e696fa4f9)
 
 # *** (NEW) *** Avilla Forensics 3.8
 
