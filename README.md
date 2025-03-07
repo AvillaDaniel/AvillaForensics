@@ -10,11 +10,11 @@
 
 - The best scenario, and the approach that should be prioritized, is conducting a Full File System (FFS) acquisition using proprietary tools. However, if the professional does not have access to paid tools or if they fail to perform a complete extraction, Avilla Forensics comes into play. While it performs a partial acquisition, the tool is a benchmark in this type of acquisition and delivers excellent results, achieving success in nearly 100% of cases. At the very least, it can extract internal storage, WhatsApp, WhatsApp Business, modified versions of WhatsApp, Signal, and various other applications, including on devices running Android 15 and 16.
 
-- According to the principle of sufficiency, even if a full acquisition is not possible, a partial extraction can still provide the necessary evidence for the ongoing investigation.
+- According to the principle of sufficiency, even if a full acquisition is not possible, a partial acquisition can provide the necessary and sufficient evidence for a given ongoing investigation, optimizing efforts, time, and reducing unnecessary costs.
 
 - O melhor cenário, e a abordagem que deve ser priorizada, é a realização de uma coleta Full File System (FFS) utilizando ferramentas proprietárias. No entanto, caso o profissional não tenha acesso a ferramentas pagas ou elas falhem na extração completa, entra em cena o Avilla Forensics. Embora realize uma coleta parcial, a ferramenta é uma referência nessa modalidade de aquisição e apresenta excelentes resultados, alcançando sucesso em praticamente 100% dos casos. No mínimo, consegue extrair o armazenamento interno, WhatsApp, WhatsApp Business, versões modificadas do WhatsApp, Signal e diversos outros aplicativos, inclusive em dispositivos com Android 15 e 16.
 
-- De acordo com o princípio da suficiência, ainda que a aquisição completa não seja possível, uma coleta parcial pode fornecer as evidências necessárias para a investigação em andamento.
+- De acordo com o princípio da suficiência, ainda que a aquisição completa não seja possível, uma coleta parcial pode fornecer as evidências necessárias e suficientes para uma determinada investigação em andamento, otimizando esforços, tempo e reduzindo custos desnecessários.
 
 - Comparison of a partial acquisition performed by a proprietary tool and by Avilla Forensics.
 
