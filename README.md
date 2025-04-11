@@ -6,8 +6,6 @@
 
 - Avilla Forensics is a free mobile forensic tool created in February 2021 to assist investigators in collecting information and evidence from mobile devices. Developed by Daniel Avilla, a police officer from São Paulo, the tool provides powerful features for logical data extraction and backup conversion into formats compatible with advanced forensic analysis software, such as IPED and Cellebrite Physical Analyser. Since its inception, Avilla Forensics has received significant updates. Version 3.7 introduced substantial improvements, including an integrity system that generates AES-256 encrypted logs (.avilla). These files contain hashes of the collected data, ensuring that any modifications can be detected. Additionally, the .avilla file includes an HMAC signature, offering an extra layer of protection to verify the authenticity and integrity of the data. These enhancements make Avilla Forensics a more robust and reliable tool for forensic investigations. The tool is highly versatile, enabling direct interaction with mobile devices through the Android Debug Bridge (ADB) interface. Developed in C#, it is fully compatible with Windows 10 and 11 operating systems, functioning stably even in their latest versions. This stability and compatibility make Avilla Forensics a safe and efficient choice for forensic technology specialists. Among its key features is the APK Downgrade module, which enables data collection from over 15 applications, an essential capability for forensic investigations. This module allows downgrading on Android devices without root access, exploiting system vulnerabilities to access app data stored in the DATA region. As of version 3.8, support has been expanded to devices running Android 14 and 15, including exploiting vulnerabilities in Android 12 and 13 to access sensitive information efficiently and securely. Moreover, version 3.8 introduced several innovations that further extend the tool's capabilities. It now allows simultaneous data acquisition from multiple devices, particularly useful in investigations requiring more complex and integrated approaches. Another standout feature is the Avilla App Full Extraction module, which enables the collection of data from any application stored in the DATA partition, including information from secondary profiles registered on the device, without requiring root access or APK downgrades. This functionality significantly broadens the range of accessible data for analysis. With just over three years of existence, Avilla Forensics has evolved impressively, becoming an indispensable tool for specialists worldwide. Currently, the tool supports downgrades for over 400 applications, solidifying its position as an innovative and highly effective solution in the forensic technology field. The international recognition of Avilla Forensics’ quality was reinforced by its winning of the Forensics 4:Cast award in the non-commercial tools category. This award, announced during the SANS Institute event, highlights the tool's importance and contribution to advancing forensic practices.
 
-https://www.linkedin.com/pulse/avilla-forensics-uma-revolu%C3%A7%C3%A3o-global-na-per%C3%ADcia-digital-avilla-dvtuf/
-
 # Why and when should Avilla Forensics be used? (Por que e quando o Avilla Forensics deve ser utilizado?)
 
 - The best scenario, and the approach that should be prioritized, is conducting a Full File System (FFS) acquisition using proprietary tools. However, if the professional does not have access to paid tools or if they fail to perform a complete extraction, Avilla Forensics comes into play. While it performs a partial acquisition, the tool is a benchmark in this type of acquisition and delivers excellent results, achieving success in nearly 100% of cases. At the very least, it can extract internal storage, WhatsApp, WhatsApp Business, modified versions of WhatsApp, Signal, and various other applications, including on devices running Android 15 and 16.
@@ -23,6 +21,78 @@ https://www.linkedin.com/pulse/avilla-forensics-uma-revolu%C3%A7%C3%A3o-global-n
 - Comparação de uma coleta parcial feita por ferramenta proprietária e realizada pelo Avilla Forensics.
 
 ![image](https://github.com/user-attachments/assets/57a035af-3a4d-4ccf-9105-c85e696fa4f9)
+
+
+# 🌍 Global Training & Recognition – Avilla Forensics
+
+# 🏆 International Recognition
+Avilla Forensics was awarded 1st place 🥇 in the Non-Commercial Tool of the Year category at the Forensic 4:Cast Awards 2023, hosted by the prestigious SANS Institute. Competing against globally known tools, Avilla Forensics stood out for its impact, usability, and technical innovation in mobile forensic investigations.
+🔗 https://forensic4cast.com/forensic-4cast-awards/2023-awards/
+
+# 🌐 Global References & Applications
+🇷🇺 Russia:
+Cybersecurity expert Igor Bederov praised Avilla Forensics in two key blog posts. In one, he highlights its use to extract Telegram messages while the phone is in airplane mode, comparing its effectiveness with tools like UFED and Magnet. In another post, Avilla Forensics is listed among the Top 15 Best Free Computer Forensics Tools.
+🔗 https://ibederov-en.blogspot.com/2023/12/telegramextr.html
+🔗 https://ibederov-en.blogspot.com/2023/12/15forensictools.html
+
+# 🇮🇳 India:
+In the Digital 4N6 Journal, researchers Tusharanshu Deo, Dr. Manvjeet Kaur, and Ms. Pooja Kaplesh presented a novel framework for WhatsApp Forensics using open-source tools, where Avilla Forensics played a central role in reliable extraction and integrity verification.
+🔗 https://www.researchgate.net/publication/373076630_A_NOVEL_FRAMEWORK_FOR_WHATSAPP_FORENSICS_USING_OPEN-SOURCE_TOOLS
+🔗 https://www.academia.edu/105513267/A_NOVEL_FRAMEWORK_FOR_WHATSAPP_FORENSICS_USING_OPEN_SOURCE_TOOLS
+🔗 https://www.digital4n6journal.com/
+
+# 🇮🇩 Indonesia:
+The Indonesian forensic blog Rafidh Cell, written by Muhammad Nurkholis, published a detailed review of Avilla Forensics v3.6, highlighting its intuitive interface, powerful APK Downgrade functionality, and its effectiveness in mobile data acquisition.
+🔗 https://www.rafidhcell.com/2023/11/download-avilla-forensics-v36-gratis.html
+
+# 🇪🇨 Ecuador:
+The Universidad de Los Hemisferios offers the course “Análisis Forense en Dispositivos Móviles con Avilla Forensics” as part of their continuing education program. The course trains professionals in evidence acquisition and forensic practices using Avilla Forensics as the main tool.
+🔗 https://educacioncontinua.uhemisferios.edu.ec/producto/curso-de-analisis-forense-en-dispositivos-moviles-con-avilla-forensics/
+
+# 🇵🇦 Panama:
+In the academic journal Revista Cátedra (UMECIT University), the article “Análisis Forense Digital en Dispositivos Móviles” discusses Avilla Forensics as a practical and validated mobile forensic tool used in real-world and academic investigations.
+🔗 https://revistas.umecit.edu.pa/index.php/cathedra/article/view/1419
+🔗 https://revistas.umecit.edu.pa/index.php/cathedra/article/view/1419/2285
+
+# 🇧🇷 Brazil – National Recognition:
+Academia de Forense Digital recommends Avilla Forensics as one of the most used mobile forensic tools in Latin America.
+🔗 https://academiadeforensedigital.com.br/avilla-forensics-ferramenta-gratuita-de-analise-de-smartphones/
+
+The tool is referenced in the book “Perícia Forense Computacional – Aplicada à Investigação Criminal”, published by JusPodivm (p. 36).
+🔗 https://juspodivmdigital.com.br/cdn/pdf/JUS2867-Degustacao.pdf
+
+Forensic expert Wilian Boscolo and Joaquim Neto list Avilla Forensics among the top free tools for mobile forensics in Brazil.
+🔗 https://wilianboscolo.com.br/forense-em-dispositivos-moveis-com-sistema-operacional-android/
+🔗 https://www.joaquimneto.com.br/artigos/5-ferramentas-gratuitas-indispensaveis-para-pericia-digital/
+
+# 🇬🇪 Georgia – SIS Training:
+Avilla Forensics was officially taught to members of the State Security Service (SIS) of Georgia, showcasing its growing international adoption among intelligence and national security agencies. The training emphasized practical mobile forensic extraction techniques using Avilla’s advanced modules.
+
+![Imagem do WhatsApp de 2024-06-13 à(s) 07 45 03_e8ac0d66](https://github.com/user-attachments/assets/c5909e76-9ffa-4b6f-9693-120b2233cb4e)
+
+# 🇪🇺 European Law Enforcement Events
+Poland: Avilla Forensics v3.5 was showcased at the ITC Crime Conference in Gdynia to police agencies and cybersecurity experts.
+
+![temp_image_20230610_093208_2316a879-51ee-48ab-b4a3-9c07b600eb2a](https://github.com/user-attachments/assets/f22b1780-4848-45f3-a37e-68c09d5cbef6)
+
+Germany: At the GPEC® Digital Schirmherr 2023 in Frankfurt, Avilla Forensics was exhibited by PHALANX-IT as a leading solution for mobile evidence acquisition by police forces.
+
+![IMG_0813](https://github.com/user-attachments/assets/45023a4f-3dae-47aa-8b40-7e77e0d84dc2)
+
+# 🎓 Training Courses Featuring Avilla Forensics
+🇧🇷 Brazil – Official Training by AFD:
+The Academia de Forense Digital offers the Official Training of Avilla Forensics, covering hands-on modules like APK Downgrade, full extractions, log generation, and advanced app analysis for law enforcement and forensic professionals.
+🔗 https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/
+
+🇧🇷 Brazil – WB Educação:
+The course “Ferramentas Criadas por Policiais para Investigação Telemática” by WB Educação features Avilla Forensics and other police-developed tools such as ALIAS Extractor. Taught by Daniel Avilla and Cristiano Ritta, the training offers a deep dive into practical mobile investigation methods.
+🔗 https://wbeduca.com.br/pt/cursos/curso-de-ferramentas-criadas-por-policiais-para-investigacao-telematica
+
+🇧🇷 Brazil – Marcos Monteiro:
+Professor Marcos Monteiro, president of APECOF, includes Avilla Forensics in his comprehensive Mobile Forensics Course, aimed at professionals seeking advanced data extraction and analysis techniques for both Android and iOS platforms.
+🔗 https://marcosmonteiro.com.br/index.php/perguntas-e-respostas/760-curso-de-forense-em-mobile-smartphones
+
+- https://www.linkedin.com/pulse/avilla-forensics-uma-revolu%C3%A7%C3%A3o-global-na-per%C3%ADcia-digital-avilla-dvtuf/
 
 # *** (NEW) *** Avilla Forensics 3.8
 
