@@ -30,7 +30,8 @@ Avilla Forensics was awarded 1st place 🥇 in the Non-Commercial Tool of the Ye
 🔗 https://forensic4cast.com/forensic-4cast-awards/2023-awards/
 
 # 🌐 Global References & Applications
-🇷🇺 Russia:
+
+# 🇷🇺 Russia:
 Cybersecurity expert Igor Bederov praised Avilla Forensics in two key blog posts. In one, he highlights its use to extract Telegram messages while the phone is in airplane mode, comparing its effectiveness with tools like UFED and Magnet. In another post, Avilla Forensics is listed among the Top 15 Best Free Computer Forensics Tools.
 🔗 https://ibederov-en.blogspot.com/2023/12/telegramextr.html
 🔗 https://ibederov-en.blogspot.com/2023/12/15forensictools.html
