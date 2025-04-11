@@ -297,7 +297,7 @@ VHD format version:
 - Source of apks: https://djangofaiola.blogspot.com/2024/10/happy-3rd-birthday-to-dfapkdngrader.html  
 
 ## 🚀 License
-Avilla Forensics - Copyright (C) 2024 – Daniel Hubscher Avilla 
+Avilla Forensics - Copyleft (C) 2025 – Daniel Hubscher Avilla 
 
 This program is free software: you can redistribute it and/or modify 
 it under the terms of the GNU General Public License as published by 
