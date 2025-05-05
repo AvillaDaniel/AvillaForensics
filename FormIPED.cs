@@ -1,17 +1,3 @@
-﻿//Avilla Forensics - Copyright (C) 2023 – Daniel Hubscher Avilla 
-
-//This program is free software: you can redistribute it and/or modify 
-//it under the terms of the GNU General Public License as published by 
-//the Free Software Foundation, either version 3 of the License, or
-//(at your option) any later version.
-
-//This program is distributed in the hope that it will be useful,
-//but WITHOUT ANY WARRANTY; without even the implied warranty of
-//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
-//General Public License for more details.
-
-//You should have received a copy of the GNU General Public License
-//along with this program. If not, see <https://www.gnu.org/licenses/>.
 using System;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -22,6 +8,11 @@ namespace Avilla_Forensics
 {
     public partial class FormIPED : Form
     {
+        private const string PathAcquisitionFileName = "PathAcquisition.txt";
+        private const string IpedExecutable = "iped.exe";
+        private const string IpedDirectory = @"IPED-4.1.3_and_plugins\iped-4.1.3";
+        private readonly string[] fileFilters = { "*.tar", "*.zip", "*.dd", "*.ufdr" };
+
         public FormIPED()
         {
             InitializeComponent();
@@ -31,124 +22,193 @@ namespace Avilla_Forensics
         {
             if (radioButtonArquivo.Checked)
             {
-                string pathTEMP = @"temp";
-                string fullPathTEMP;
-                fullPathTEMP = Path.GetFullPath(pathTEMP);
-
-                System.IO.StreamReader file = new System.IO.StreamReader(fullPathTEMP + "\\PathAcquisition.txt");
-                string caminho = file.ReadLine();
-                file.Close();
-
-                //define as propriedades do controle 
-                //OpenFileDialog
-                this.ofd2.Multiselect = true;
-                this.ofd2.Title = "Select file";
-                ofd2.InitialDirectory = @caminho;
-                ofd2.Filter = "Files (*.tar; *.zip; *.dd; *.ufdr)|*.tar; *.zip; *.dd; *.ufdr|All files (*.*)|*.*";
-                ofd2.CheckFileExists = true;
-                ofd2.CheckPathExists = true;
-                ofd2.FilterIndex = 2;
-                ofd2.RestoreDirectory = true;
-                ofd2.ReadOnlyChecked = true;
-                ofd2.ShowReadOnly = true;
-
-                DialogResult drIPED = this.ofd2.ShowDialog();
-
-                if (drIPED == System.Windows.Forms.DialogResult.OK)
-                {
-                    textBox3.Text = ofd2.FileName;
-                    textBox1.Text += "\r\n>> Origin:  " + textBox3.Text;
-                    button4.Enabled = true;
-                }
+                OpenFileDialogWithInitialDirectory();
             }
             else
             {
-                FolderBrowserDialog backupfolderIPEDArquivo = new FolderBrowserDialog();
-                backupfolderIPEDArquivo.Description = "Choose source folder";
-                if (backupfolderIPEDArquivo.ShowDialog() == DialogResult.OK)
+                SelectSourceFolder();
+            }
+        }
+
+        private void OpenFileDialogWithInitialDirectory()
+        {
+            string initialDirectory = GetInitialDirectory();
+            if (string.IsNullOrEmpty(initialDirectory))
+            {
+                MessageBox.Show("Could not retrieve the initial directory.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            using (var openFileDialog = new OpenFileDialog())
+            {
+                openFileDialog.Multiselect = true;
+                openFileDialog.Title = "Select file";
+                openFileDialog.InitialDirectory = initialDirectory;
+                openFileDialog.Filter = $"Files ({string.Join(", ", fileFilters)})|{string.Join(";", fileFilters)}|All files (*.*)|*.*";
+                openFileDialog.CheckFileExists = true;
+                openFileDialog.CheckPathExists = true;
+                openFileDialog.FilterIndex = 2;
+                openFileDialog.RestoreDirectory = true;
+                openFileDialog.ReadOnlyChecked = true;
+                openFileDialog.ShowReadOnly = true;
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
                 {
-                    textBox3.Text = backupfolderIPEDArquivo.SelectedPath;
-                    textBox1.Text += "\r\n>> Origin: " + textBox3.Text;
-                    button4.Enabled = true;
+                    UpdateSelectedFile(openFileDialog.FileName);
                 }
             }
         }
 
+        private string GetInitialDirectory()
+        {
+            string fullPathTEMP = Path.GetFullPath("temp");
+            string filePath = Path.Combine(fullPathTEMP, PathAcquisitionFileName);
+
+            try
+            {
+                using (var reader = new StreamReader(filePath))
+                {
+                    return reader.ReadLine();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error reading the initial directory: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return null;
+            }
+        }
+
+        private void UpdateSelectedFile(string fileName)
+        {
+            textBox3.Text = fileName;
+            textBox1.Text += $"\r
+>> Origin:  {fileName}";
+            button4.Enabled = true;
+        }
+
+        private void SelectSourceFolder()
+        {
+            using (var folderBrowserDialog = new FolderBrowserDialog { Description = "Choose source folder" })
+            {
+                if (folderBrowserDialog.ShowDialog() == DialogResult.OK)
+                {
+                    UpdateSelectedFolder(folderBrowserDialog.SelectedPath);
+                }
+            }
+        }
+
+        private void UpdateSelectedFolder(string folderPath)
+        {
+            textBox3.Text = folderPath;
+            textBox1.Text += $"\r
+>> Origin: {folderPath}";
+            button4.Enabled = true;
+        }
+
         private void button4_Click(object sender, EventArgs e)
         {
-            FolderBrowserDialog backupfolderIPED = new FolderBrowserDialog();
-            backupfolderIPED.Description = "Choose destination folder";
-            if (backupfolderIPED.ShowDialog() == DialogResult.OK)
+            using (var folderBrowserDialog = new FolderBrowserDialog { Description = "Choose destination folder" })
             {
-                ipedtextbox.Text = backupfolderIPED.SelectedPath;
-                textBox1.Text += "\r\n>> Destiny: " + ipedtextbox.Text;
-                webBrowser1.Navigate(backupfolderIPED.SelectedPath);
-                button3.Enabled = true;
+                if (folderBrowserDialog.ShowDialog() == DialogResult.OK)
+                {
+                    ipedtextbox.Text = folderBrowserDialog.SelectedPath;
+                    textBox1.Text += $"\r
+>> Destiny: {ipedtextbox.Text}";
+                    webBrowser1.Navigate(folderBrowserDialog.SelectedPath);
+                    button3.Enabled = true;
+                }
             }
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("This process may take some time, please wait", "Attention!");
-            textBox1.Text += "\r\n>> IPED indexing started.";
-            button3.Text = "whait...";
-            button3.Enabled = false;
-            button4.Enabled = false;
-            button10.Enabled = false;
+            textBox1.Text += "\r
+>> IPED indexing started.";
+            button3.Text = "Wait...";
+            SetControlsEnabled(false);
 
             backgroundWorker3.RunWorkerAsync();
-
-            panel3.Enabled = false;
             pictureBox2.Visible = true;
+        }
+
+        private void SetControlsEnabled(bool isEnabled)
+        {
+            button3.Enabled = isEnabled;
+            button4.Enabled = isEnabled;
+            button10.Enabled = isEnabled;
+            panel3.Enabled = isEnabled;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FolderBrowserDialog backupfolderIPEDArquivo = new FolderBrowserDialog();
-            backupfolderIPEDArquivo.Description = "Choose source folder";
-            if (backupfolderIPEDArquivo.ShowDialog() == DialogResult.OK)
-            {
-                textBox2.Text = backupfolderIPEDArquivo.SelectedPath;
-            }
+            SelectSourceFolder();
         }
 
         private void backgroundWorker3_DoWork(object sender, DoWorkEventArgs e)
         {
-            Process processIPED = new Process();
-            ProcessStartInfo startInfoIPED = new ProcessStartInfo();
-            startInfoIPED.WindowStyle = ProcessWindowStyle.Hidden;
-            startInfoIPED.CreateNoWindow = true;
-            startInfoIPED.UseShellExecute = false;
-            startInfoIPED.RedirectStandardOutput = true;
-            startInfoIPED.FileName = textBox2.Text + "\\iped.exe";
-            startInfoIPED.Arguments = " -d \"" + textBox3.Text + "\" -o \"" + ipedtextbox.Text + "\"";
-            processIPED.StartInfo = startInfoIPED;
-            processIPED.Start();
-            processIPED.StandardOutput.ReadToEnd();
+            try
+            {
+                StartIpedProcess();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error during IPED execution: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void StartIpedProcess()
+        {
+            var startInfo = new ProcessStartInfo
+            {
+                FileName = Path.Combine(textBox2.Text, IpedExecutable),
+                Arguments = $" -d \"{textBox3.Text}\" -o \"{ipedtextbox.Text}\"",
+                WindowStyle = ProcessWindowStyle.Hidden,
+                CreateNoWindow = true,
+                UseShellExecute = false,
+                RedirectStandardOutput = true
+            };
+
+            using (var process = new Process { StartInfo = startInfo })
+            {
+                process.Start();
+                process.StandardOutput.ReadToEnd();
+            }
         }
 
         private void backgroundWorker3_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             pictureBox2.Visible = false;
-            panel3.Enabled = true;
+            SetControlsEnabled(true);
 
-            textBox1.Text += "\r\n>> Generated Indexer.";
+            textBox1.Text += "\r
+>> Generated Indexer.";
             button3.Text = "Generate";
 
-            button10.Enabled = true;
-
-            textBox3.Text = "";
-            ipedtextbox.Text = "";
+            textBox3.Clear();
+            ipedtextbox.Clear();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://www.java.com/pt-BR/download/");
+            OpenUrl("https://www.java.com/pt-BR/download/");
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/sepinf-inc/IPED");
+            OpenUrl("https://github.com/sepinf-inc/IPED");
+        }
+
+        private void OpenUrl(string url)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start(url);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error opening URL: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -159,9 +219,7 @@ namespace Avilla_Forensics
 
         private void FormIPED_Load(object sender, EventArgs e)
         {
-            string pathIPED = @"IPED-4.1.3_and_plugins\iped-4.1.3";
-            string fullPath;
-            fullPath = Path.GetFullPath(pathIPED);
+            string fullPath = Path.GetFullPath(IpedDirectory);
             textBox2.Text = fullPath;
         }
     }
