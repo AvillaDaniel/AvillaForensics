@@ -4,7 +4,7 @@
 
 # 📋 Summary
 
-- Avilla Forensics is a free mobile forensic tool created in February 2021 to assist investigators in collecting information and evidence from mobile devices. Developed by Daniel Avilla, a police officer from São Paulo, the tool provides powerful features for logical data extraction and backup conversion into formats compatible with advanced forensic analysis software, such as IPED and Cellebrite Physical Analyser. Since its inception, Avilla Forensics has received significant updates. Version 3.7 introduced substantial improvements, including an integrity system that generates AES-256 encrypted logs (.avilla). These files contain hashes of the collected data, ensuring that any modifications can be detected. Additionally, the .avilla file includes an HMAC signature, offering an extra layer of protection to verify the authenticity and integrity of the data. These enhancements make Avilla Forensics a more robust and reliable tool for forensic investigations. The tool is highly versatile, enabling direct interaction with mobile devices through the Android Debug Bridge (ADB) interface. Developed in C#, it is fully compatible with Windows 10 and 11 operating systems, functioning stably even in their latest versions. This stability and compatibility make Avilla Forensics a safe and efficient choice for forensic technology specialists. Among its key features is the APK Downgrade module, which enables data collection from over 15 applications, an essential capability for forensic investigations. This module allows downgrading on Android devices without root access, exploiting system vulnerabilities to access app data stored in the DATA region. As of version 3.8, support has been expanded to devices running Android 14 and 15, including exploiting vulnerabilities in Android 12 and 13 to access sensitive information efficiently and securely. Moreover, version 3.8 introduced several innovations that further extend the tool's capabilities. It now allows simultaneous data acquisition from multiple devices, particularly useful in investigations requiring more complex and integrated approaches. Another standout feature is the Avilla App Full Extraction module, which enables the collection of data from any application stored in the DATA partition, including information from secondary profiles registered on the device, without requiring root access or APK downgrades. This functionality significantly broadens the range of accessible data for analysis. With just over three years of existence, Avilla Forensics has evolved impressively, becoming an indispensable tool for specialists worldwide. Currently, the tool supports downgrades for over 400 applications, solidifying its position as an innovative and highly effective solution in the forensic technology field. The international recognition of Avilla Forensics’ quality was reinforced by its winning of the Forensics 4:Cast award in the non-commercial tools category. This award, announced during the SANS Institute event, highlights the tool's importance and contribution to advancing forensic practices.
+- Avilla Forensics is a free mobile forensic tool created in February 2021 to assist investigators in collecting information and evidence from mobile devices. Developed by Daniel Avilla, a police officer from São Paulo, the tool provides powerful features for logical data extraction and backup conversion into formats compatible with advanced forensic analysis software, such as IPED and Cellebrite Physical Analyser. Since its inception, Avilla Forensics has received significant updates. Version 3.7 introduced substantial improvements, including an integrity system that generates AES-256 encrypted logs (.avilla). These files contain hashes of the collected data, ensuring that any modifications can be detected. Additionally, the .avilla file includes an HMAC signature, offering an extra layer of protection to verify the authenticity and integrity of the data. These enhancements make Avilla Forensics a more robust and reliable tool for forensic investigations. The tool is highly versatile, enabling direct interaction with mobile devices through the Android Debug Bridge (ADB) interface. Developed in C#, it is fully compatible with Windows 10 and 11 operating systems, functioning stably even in their latest versions. This stability and compatibility make Avilla Forensics a safe and efficient choice for forensic technology specialists. Among its key features is the APK Downgrade module, which enables data collection from over 15 applications, an essential capability for forensic investigations. This module allows downgrading on Android devices without root access, exploiting system vulnerabilities to access app data stored in the DATA region. As of version FREE, support has been expanded to devices running Android 14 and 15, including exploiting vulnerabilities in Android 12 and 13 to access sensitive information efficiently and securely. Moreover, version FREE introduced several innovations that further extend the tool's capabilities. It now allows simultaneous data acquisition from multiple devices, particularly useful in investigations requiring more complex and integrated approaches. Another standout feature is the Avilla App Full Extraction module, which enables the collection of data from any application stored in the DATA partition, including information from secondary profiles registered on the device, without requiring root access or APK downgrades. This functionality significantly broadens the range of accessible data for analysis. With just over three years of existence, Avilla Forensics has evolved impressively, becoming an indispensable tool for specialists worldwide. Currently, the tool supports downgrades for over 400 applications, solidifying its position as an innovative and highly effective solution in the forensic technology field. The international recognition of Avilla Forensics’ quality was reinforced by its winning of the Forensics 4:Cast award in the non-commercial tools category. This award, announced during the SANS Institute event, highlights the tool's importance and contribution to advancing forensic practices.
 
 # Why and when should Avilla Forensics be used? (Por que e quando o Avilla Forensics deve ser utilizado?)
 
@@ -139,13 +139,13 @@ If you work in digital forensics, law enforcement, cybersecurity, or academic re
 
 https://www.linkedin.com/pulse/avilla-forensics-uma-revolu%C3%A7%C3%A3o-global-na-per%C3%ADcia-digital-avilla-dvtuf/
 
-# *** (NEW) *** Avilla Forensics 3.8
+# *** (NEW) *** Avilla Forensics FREE
 
-- Finally, version 3.8 BETA of Avilla Forensics is available! 
+- Finally, version FREE of Avilla Forensics is available! 
 - With just over three years of existence, the tool has evolved remarkably, becoming indispensable for experts and users around the world.
 - The big highlight of this version is its ability to deal with cases involving mobile devices that use newer operating systems, such as Android 14 and 15. Starting with this update, it is now possible to perform the APK Downgrade on Android 14. In addition, a advanced module that allows access to more storage regions, surpassing traditional collections.
 - Another innovative feature is the possibility of performing data acquisition simultaneously on multiple devices, meeting complex demands that require this type of approach.
-- Finally, version 3.8 brings the powerful Avilla App Full Extraction as a complement. With this tool, you can collect data from any application on the DATA partition, without the need for root access or APK Downgrade. The feature is even more robust by allowing the extraction of data from secondary profiles registered on the device.
+- Finally, version FREE brings the powerful Avilla App Full Extraction as a complement. With this tool, you can collect data from any application on the DATA partition, without the need for root access or APK Downgrade. The feature is even more robust by allowing the extraction of data from secondary profiles registered on the device.
 - Downgrade support for over 400 apps. 
 
 Avilla Forensics is located in first place in the award international Forensics 4:Cast 🥇🏆, in the tool category no commercial. Announcement made at the event from the SANS Institute.
@@ -171,7 +171,7 @@ Thanks for the votes, without you this would not be possible.
 - The main feature of the tool is the APK Downgrade module, which enables data collection from over 15 applications, making it an indispensable tool for forensic investigations.
 - The Avilla Forensics suite does not replace existing tools, but complements them, offering new additional possibilities.
   
-- From version 3.8 onwards, it is possible to perform APK Downgrade on Android 14.
+- From version FREE onwards, it is possible to perform APK Downgrade on Android 14.
 
   ![Captura de tela 2024-10-25 000719](https://github.com/user-attachments/assets/d02c82fc-1226-4522-b37b-04b007211102)
   
@@ -179,7 +179,7 @@ Thanks for the votes, without you this would not be possible.
 
   ![Captura de tela 2024-09-14 011932](https://github.com/user-attachments/assets/ce79232d-2cb2-4cdf-9304-ca7b6bffeced)
 
-- From version 3.8 onwards it is possible to collect data on multiple devices at the same time.
+- From version FREE onwards it is possible to collect data on multiple devices at the same time.
 
   ![Captura de tela 2024-09-28 102033](https://github.com/user-attachments/assets/ab3cd0ca-2539-4df4-8e7b-8fcc6869bbfd)
 
@@ -244,29 +244,16 @@ Thanks for the votes, without you this would not be possible.
 
 ## 🌐 Download
 
-### **** (NEW) **** Avilla Forensics 3.8:
-
-Installer version (Setup-Avilla.exe):
-
-- SIZE: 5,14 GB
-- Hash Sha-256: aa5c4b1fae3bc9c98e9eb1cd635b6c6a6250580b5de7c13d8b3dbd9da7fd2721
-- Hash Sha-512: 79d273e9b10b6c1c557b633f1b0dc658267ccc5e11179be8ac4cee65eea5398742a86079005f9521162c43aea99e817aa6043247cbc7c09fd4c53b047d3c341b
-
-- Download Link:
-- https://drive.google.com/file/d/16jbE9uQ464HaRKWC2FSTy-M8GQt2ODmS/view?usp=sharing
-    
-- Para descompactar utilize o Winrar ou o 7-Zip.  
-- Para descomprimir, use Winrar o 7-Zip.
-- To unzip, use Winrar or 7-Zip.
+### **** (NEW) **** Avilla Forensics FREE:
 
 VHD format version:
 
-- SIZE: 6,95 GB
-- Hash Sha-256: 7a3fac303e031cec9326c8b2aa4f112b09be9d10f65fab647c25789281ae17c9
-- Hash Sha-512: 9b144cd72ba8baea9b8973751665b1eb9c7005532075b3dc8a1423ec4f59d6da8f58d3e166500f368f32db3c583df6548ea64df191295613882c67ac1d5fbaf0
+- SIZE: 8.6 GB
+- Hash Sha-1: 31e814613a2aeac2924764e4e567a0558248f6a2
+- Hash Sha-256: 5805bfe779afc2f08ddd7dbe5ebf110ba770105bb90d056717e6884e4f578d51
 
 - Download Link:
-- https://drive.google.com/file/d/1XC7grFDeX2JvzaeVORKas1NumkLIAJL7/view?usp=sharing
+- https://drive.google.com/file/d/1b_Lxux7yiMaxsPyIaWrWFxmEOAts0Zdt/view?usp=sharing
 
 - Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
 
@@ -655,7 +642,7 @@ https://user-images.githubusercontent.com/102838167/161446333-ddcbe368-7b03-4090
 - JAVA (https://www.java.com/pt-BR/).
 - PHYTON (https://www.python.org/).
 
-## 💻 Installation Avilla Forensics 3.8
+## 💻 Installation Avilla Forensics FREE
 
 VHD format:
 - Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
