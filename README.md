@@ -253,7 +253,7 @@ VHD format version:
 - Hash Sha-256: 5805bfe779afc2f08ddd7dbe5ebf110ba770105bb90d056717e6884e4f578d51
 
 - Download Link:
-- https://drive.google.com/file/d/1b_Lxux7yiMaxsPyIaWrWFxmEOAts0Zdt/view?usp=sharing
+- https://drive.google.com/file/d/1QXFqyTfaLoF24iy9pLa8SrwKWYWaAxPO/view?usp=sharing
 
 - Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
 
