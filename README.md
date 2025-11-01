@@ -158,7 +158,12 @@ Thanks for the votes, without you this would not be possible.
 
 - ACADEMIA DE FORENSE DIGITAL - AFD: 
 - https://academiadeforensedigital.com.br/
-- https://academiadeforensedigital.com.br/treinamentos/treinamento-de-avilla-forensics/ (Gravado)
+
+Certificação Avançada Avilla Forensics (Presencial):
+
+- https://loja.academiadeforensedigital.com.br/produtos/certificacao-avancada-avilla-forensics-presencial-bwdnb/
+
+- O Programa de Certificação Oficial Avilla Forensics é o treinamento exclusivo da Academia de Forense Digital (AFD) que forma peritos e profissionais de investigação digital no uso prático e avançado da ferramenta Avilla Forensics — solução premiada internacionalmente e reconhecida como uma das mais importantes do mundo para extração de dados em dispositivos móveis. Durante a formação, o participante será conduzido por uma jornada completa, que combina fundamentos técnicos, metodologias internacionais e práticas reais de investigação, com acompanhamento direto dos criadores e especialistas responsáveis pela ferramenta.
 
 ## 📋 About
 
@@ -185,6 +190,8 @@ Thanks for the votes, without you this would not be possible.
 
 
 ## 📋 Webinars
+
+- MODULO 2 2° CLASE AVILLA FORENSIC: October 14, 2025 - By SOFTWARECELULARES CAPACITACION (https://www.youtube.com/watch?v=CNrbHa3yppI) 
 
 - Avilla Forensics Webinar: Dez 8 2024 - By Anak Kuda (https://www.youtube.com/watch?v=faEiKg2izcg) 
 
