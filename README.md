@@ -191,6 +191,8 @@ Certificação Avançada Avilla Forensics (Presencial):
 
 ## 📋 Webinars
 
+- Análisis forense en Android: recupera imágenes eliminadas con Avilla Forensic:  October 27, 2025 - íTecnoCode (https://www.youtube.com/watch?v=1SZ3AM4RdYg) 
+
 - MODULO 2 2° CLASE AVILLA FORENSIC: October 14, 2025 - By SOFTWARECELULARES CAPACITACION (https://www.youtube.com/watch?v=CNrbHa3yppI) 
 
 - Avilla Forensics Webinar: Dez 8 2024 - By Anak Kuda (https://www.youtube.com/watch?v=faEiKg2izcg) 
