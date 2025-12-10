@@ -253,16 +253,16 @@ Certificação Avançada Avilla Forensics (Presencial):
 
 ## 🌐 Download
 
-### **** (NEW) **** Avilla Forensics FREE:
+### Avilla Forensics FREE:
 
 VHD format version:
 
-- SIZE: 8.6 GB
-- Hash Sha-1: 783ae7b250831edafc077603d2b40581528e19a1
-- Hash Sha-256: 36d3792c9d3a87a875cab8b70d55f65b4e7ab7f0dd5bf9e2adabd763488e9235
+- SIZE: 7.10 GB
+- Hash Sha-1: a2adb66c69366667c31cfe0eeb090eed938e1986
+- Hash Sha-256: 6a97dc7c580f7317b7d6ecdf1b7588308e4e1ea25e3807ec6ce58aea1c8807ad
 
 - Download Link:
-- https://drive.google.com/file/d/1QXFqyTfaLoF24iy9pLa8SrwKWYWaAxPO/view?usp=sharing
+- https://1drv.ms/u/c/cad000d6a96e59e4/IQDtstGkYOJVSq7syzjQFE4BAWlUe8nX6d3lakQuwpisRyE?e=dsy6Gk
 
 - Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
 
@@ -278,9 +278,9 @@ VHD format version:
 - Access the website https://academiadeforensedigital.com.br/ and go to the downloads menu.
 - Acesse o site https://academiadeforensedigital.com.br/ e vá no menu downloads.
 
-- Atenção, descompacte em "C:\Forensics-3-8\down"
-- Atención, descomprime "C:\Forensics-3-8\down"
-- Attention, unzip in "C:\Forensics-3-8\down" 
+- Atenção, descompacte em "C:\Avilla-Forensics-Free\down"
+- Atención, descomprime "C:\Avilla-Forensics-Free\down"
+- Attention, unzip in "C:\Avilla-Forensics-Free\down" 
 - Password: 1234
 
 - Para descompactar utilize o Winrar ou o 7-Zip.  
